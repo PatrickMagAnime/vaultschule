@@ -1,0 +1,2 @@
+# obidibidan
+obsidian vault :)
