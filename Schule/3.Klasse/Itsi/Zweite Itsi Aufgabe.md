@@ -1,32 +1,29 @@
 [[3.Itsi]]
-1. Öffentlich und Geheim
-2. Mündliche Weitergabe,
+# Öffentlich und Geheim
 
-E-Textdokumente
+## Datenarten
 
-E-Post
+1. **Öffentlich und Geheim**
+2. **Mündliche Weitergabe**
+   - E-Textdokumente
+   - E-Post
+   - Berichte
+   - Verträge
+   - Finanzdaten
+   - Entwürfe und Designs
 
-Berichte
+### Beispiel
 
-Verträge
+Da ich YouTuber genommen habe und diese als Privatpersonen in einem Unternehmen gelten, habe ich mich für öffentliche und private Daten entschieden.
 
-Finanzdaten
+### Datenklassifizierung
 
-Entwürfe und Designs
+| Art                                                                                                  | Öffentlich | Geheim |
+| ---------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| YouTuber: Eine Privatperson, die Videos in sozialen Netzwerken erstellt und somit ihr Geld verdient. |            |        |
 
-1. Daher Ich Youtuber genommen habe,
+Falls du weitere Fragen hast oder zusätzliche Informationen benötigst, lass es mich wissen!
 
-und diese als privat Personen in einem
-
-Unternehmen gelten, habe ich mich
-
-für öffentliche und private Daten entschieden
-
-1. (Siehe Unten)
-|---|---|---|
-|Art|Öffentlich|Geheim|
-
-YouTuber: Eine Privatperson die Videos in Sozialen Netzwerken erstellt und somit ihr Geld verdient.
 
 |   |   |   |
 |---|---|---|

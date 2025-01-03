@@ -1,28 +1,42 @@
 [[3.Itsi]]
-Zero-Day Angriff ist wenn eine Fehler ausgenutzt wird der noch nicht gefunden wurde.
+## Zero-Day Angriff
 
-Cyber-kill-chain 
+Ein Zero-Day Angriff tritt auf, wenn eine Sicherheitslücke ausgenutzt wird, die noch nicht entdeckt oder behoben wurde.
 
-Die erste Phase ist die recon-exange Phase (Auskundschaftung) Was ist das Ziel? Wie greifen wir an?
+## Cyber-Kill-Chain
 
-Social-engineering wenn man im Internet Informationen über eine bestimmte person oder Firma herausfindet und sammelt.
+Die erste Phase ist die **Recon-Exchange Phase** (Auskundschaftung):
+- Was ist das Ziel? 
+- Wie greifen wir an?
 
-Normalerweise benutzt man übliche Schwachstellen um in ein System hineinzukommen.
+### Social Engineering
 
-Bei einen zero-day angriff gibt es aber keine Sicherheit weil noch nie jemand daran gedacht hätte das jemand so in das System hineinkommen würde.
+- Im Internet Informationen über eine bestimmte Person oder Firma herausfinden und sammeln.
 
-Legales Hacking (ethical-hacking)
+### Schwachstellen
 
-Wenn ein Hacker einen Angriff starten möchte nennt man das weaponisation. Was benutzen wir zu hacken? Welches Programm?
+- Normalerweise werden übliche Schwachstellen benutzt, um in ein System einzudringen.
+- Bei einem Zero-Day Angriff gibt es jedoch keine Sicherheit, weil noch nie jemand daran gedacht hätte, dass jemand so in das System eindringen könnte.
 
-Schwachstellenscanner: Openvas , Nessus , nikto ,
+## Legales Hacking (Ethical Hacking)
 
-Banner-Grabbing:  nginx und Version.
+### Weaponisation
 
-Damit kann man herausfinden auf welcher Version der Server läuft.
+- Wenn ein Hacker einen Angriff starten möchte, nennt man das **Weaponisation**.
+- Was benutzen wir zum Hacken? Welches Programm?
 
-Jeder Schwachstelle wird eine eigene Nummer zugeteilt.
+### Schwachstellenscanner
 
-CVE = Common Vulnerabilities and Exposures
+- **OpenVAS**
+- **Nessus**
+- **Nikto**
 
-Bei denen wird auch genau beschrieben was der Fehler war damit es auch jeder fixen kann.
+### Banner Grabbing
+
+- **nginx** und Version: Damit kann man herausfinden, auf welcher Version der Server läuft.
+
+### Schwachstellenklassifizierung
+
+- **CVE (Common Vulnerabilities and Exposures)**:
+  - Jede Schwachstelle wird mit einer eigenen Nummer gekennzeichnet.
+  - Bei denen wird auch genau beschrieben, was der Fehler war, damit es auch jeder fixen kann.

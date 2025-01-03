@@ -1,55 +1,58 @@
 [[3.Itsi]]
-|   |   |   |   |
-|---|---|---|---|
-|||||
-||||1.<br><br>Confidentiality<br><br>Integrity<br><br>Availability|
-||- C I A<br>- Symetrische & Asymetrische verschlüsselung<br>- Hashfunktionen||
-||||
+____
 
-Kryptographie ist die Lehre des Verschlüsseln und entschlüsseln
+| CIA=<br>Confidentiality<br>Integrity<br>Availability | - C I A<br>- Symmetrische & Asymmetrische Verschlüsselung<br>- Hashfunktionen |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------- |
 
-2.
 
-Symetrische Verschlüsselung:
+Kryptographie ist die Lehre des Verschlüsselns und Entschlüsselns.
 
-Es gibt einen Schlüssel. Beide Seiten nutzen diesen.
+## 1. Sicherheitsziele
 
-Problem: beide müssen auf den selben Schlüssel kommen. Wenn einer von beiden den Schlüssel verliert oder wenn er öffentlich ist.
+- **C I A**:
+  - **Confidentiality (Vertraulichkeit)**: Schutz der Daten vor unbefugtem Zugriff.
+  - **Integrity (Integrität)**: Sicherstellung, dass die Daten nicht unbemerkt verändert werden.
+  - **Availability (Verfügbarkeit)**: Gewährleistung, dass die Daten für autorisierte Benutzer verfügbar sind.
 
-Beispiele: -AES, DES, und 3DES, Blowfish
+- **Verschlüsselungstypen**:
+  - **Symmetrische Verschlüsselung**
+  - **Asymmetrische Verschlüsselung**
+  - **Hashfunktionen**
 
-Vorteile: Schnell und Performant, Quanten sicher
+## 2. Symmetrische Verschlüsselung
 
-Nachteile: Schlüsselmanagement
+- **Definition**: Es gibt einen Schlüssel. Beide Seiten nutzen diesen.
+- **Problem**: Beide müssen auf den selben Schlüssel kommen. Wenn einer von beiden den Schlüssel verliert oder wenn er öffentlich wird, ist die Sicherheit gefährdet.
 
-AES ist in Blöcke aufgeteilt. Bei einer Datei von 1mb wird diese in 16byte oder 128bit Blöcke aufgeteilt. Jeder Block wird Verschlüsselt und dann zusammengefügt.
+- **Beispiele**:
+  - AES, DES, und 3DES, Blowfish
 
-Bei dem Schlüssel kann man sich die Schlüssellänge aussuchen(128bit, 256bit oder 512bit(Je nach Schlüssellänge läuft der rounkey mehrmals durch).
+- **Vorteile**:
+  - Schnell und performant
+  - Quanten-sicher
 
-Der Schlüssel wird dann in roundkeys unterteilt.(Der läuft 10 mal durch und verschlüsselt 10mal bei 128bit) bei 256 14 runden
+- **Nachteile**:
+  - Schlüsselmanagement
 
-Das ganze wird so lange gemacht bis jeder Block verschlüsselt wurde. Dann werden sie noch kombiniert.
+### Details zu AES (Advanced Encryption Standard)
 
-3.
+- **Blockweise Verschlüsselung**: Bei einer Datei von 1MB wird diese in 16 Byte oder 128 Bit Blöcke aufgeteilt. Jeder Block wird verschlüsselt und dann zusammengefügt.
+- **Schlüssellänge**: Man kann sich die Schlüssellänge aussuchen (128 Bit, 256 Bit oder 512 Bit). Je nach Schlüssellänge läuft der Roundkey mehrmals durch.
+- **Roundkeys**: Der Schlüssel wird in Roundkeys unterteilt. Bei 128 Bit läuft der Schlüssel 10 Mal durch und verschlüsselt 10 Mal, bei 256 Bit 14 Runden.
+- **Kombination der Blöcke**: Die Blöcke werden so lange verschlüsselt, bis jeder Block verschlüsselt wurde. Dann werden sie kombiniert.
 
-A-symetrische verschlüsselung
+## 3. Asymmetrische Verschlüsselung
 
-Es gibt einen privaten und einen öffentlichen schlüssel
+- **Definition**: Es gibt einen privaten und einen öffentlichen Schlüssel. Der öffentliche Schlüssel kann von jedem genutzt werden.
+- **Funktionsweise**: Wenn Person A etwas an Person B schicken will, hat A drei Schlüssel: seine eigenen zwei und den öffentlichen Schlüssel des Empfängers. Der Empfänger entschlüsselt die Nachricht dann mit seinem privaten Schlüssel.
 
-Den öffentlichen kann jeder haben.
+- **Beispiel**:
+  - RSA (Rivest, Shamir, Adleman)
 
-Wenn person A etwas zu B Schicken will, hat A 3 schlüssel. Seine eigenen 2, und den public key des anderen. Der andere entschlüsselt das dann mit dem privaten.
+- **Vorteile**:
+  - Jeder hat einen eigenen Schlüssel.
+  - Ermöglicht die Authentifizierung.
 
-RSA- Rivest,Samir,Adleman
-
-Vorteile:
-
-Jeder hat einen eigenen schlüssel
-
-Ermöglicht die authentifizierung
-
-Nachteile:
-
-Langsame berechnung
-
-Kann zurückgerechnet werden durch quantencomputer
+- **Nachteile**:
+  - Langsame Berechnung.
+  - Kann durch Quantencomputer zurückgerechnet werden.
