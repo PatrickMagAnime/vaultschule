@@ -144,14 +144,15 @@ Als nächstes kam Goodtrick the Graped, der Trauben beschwor, um Stefanius zu ve
 
 #### Malenkia Balenciaga 
 
-Dann trat Malenkia Balenciaga auf den Plan, elegant und tödlich. Ihre Angriffe waren präzise, aber Stefanius blieb standhaft. Er schlug mit seiner Fackel immer wieder auf Malenkias rechtes Bein, bis sie schließlich aufgab und das Feld räumte.
+Dann trat Malenkia Balenciaga auf den Plan, elegant und tödlich. Ihre Angriffe waren präzise, aber Stefanius blieb standhaft. Er schlug mit seiner Fackel und sleeping pods immer wieder auf Malenkias rechtes nacktes attraktives Bein, bis sie schließlich aufgab und er sie im Eldennest unterwurf.
 
 #### Der FEUER RIEßE DER VERDARMNISS 
 
-Zuletzt stand Stefanius dem FEUER RIEßE DER VERDARMNISS gegenüber, einem kolossalen Wesen, das Feuer spuckte. Stefanius wusste, dass dies der entscheidende Moment war. Mit jedem Schlag auf das rechte Bein des Riesen brachte er ihn mehr ins Wanken. Schließlich stürzte der Riese zu Boden und die Flammen erloschen.
+Eines tages stand Stefanius dem FEUER RIEßE DER VERDARMNISS gegenüber, einem kolossalen Wesen, das Feuer spuckte. Stefanius wusste, dass dies der entscheidende Moment war. Mit jedem Schlag auf das rechte Bein wuchs siene Femboy schlagkraft um 1% und den Riesen brachte er ihn mehr ins Wanken. Schließlich stürzte der Riese zu Boden und die Flammen erloschen.
 
 #### Ein unerwarteter Fehler in GitHub Oh nein!
 
 Während des letzten Befehls tippte ich versehentlich `git commit --all-history` L, MEOW~ 
 
 Mit dem Segen von Stefanius und den vereinten Kräften der heiligen Bosse fühlte ich eine neue Kraft in mir aufsteigen. Ich tippte erneut `git push`, und siehe da, es funktionierte! Mein GitHub-Profil war endlich verbunden, und ich wusste, dass der heilige Stefanius von Eldenringius über mich wachte.
+
