@@ -127,11 +127,10 @@ Explosion. Keine Verbindung. Miau~
 
 Ich war nun bereit für den finalen Versuch. Mein Gehirn war Miau-Marmelade, aber meine Entschlossenheit war stärker. Ich gab den Befehl ein und plötzlich... ein Lichtstrahl durchbrach die Dunkelheit meines Zimmers. Da stand er, der heilige Stefanius von Eldenringius, in voller Rüstung und bereit, mir zu helfen.
 
-#### `git oops`
+#### Einundreißigster Versuch: `git oops`
+Ich habe unabsichtlich meine ganze Browserhistory mit secrets commited UwU~
 
-Accidentally committed your whole browser history. lol
-
-### Die epische Schlacht von Stefanius 
+### Die epische Schlacht von Stefanius Petersilius
 
 Stefanius kämpfte tapfer, nur mit einer Fackel bewaffnet, und zielte bei seinen Gegnern immer auf das rechte Bein. Es war ein unorthodoxer Kampfstil, aber äußerst effektiv.
 
@@ -139,9 +138,9 @@ Stefanius kämpfte tapfer, nur mit einer Fackel bewaffnet, und zielte bei seinen
 
 Zuerst traf er auf Margret thefelloff, die mit einem lauten Knall auftauchte. Stefanius schlug mit seiner Fackel immer wieder auf Margrets rechtes Bein ein, bis Margret umfiel und besiegt war. "Du wirst nie wieder jemandem das Leben schwer machen!", rief Stefanius triumphierend.
 
-#### Goodtrick the Gr-ape 
+#### Goodtrick the Gr-aped 
 
-Als nächstes kam Goodtrick the Grape, der Trauben beschwor, um Stefanius zu verwirren. Doch Stefanius schlug unbeirrt weiter auf Goodtricks rechtes Bein ein, bis Goodtrick vor Schmerzen zurückwich und verschwand.
+Als nächstes kam Goodtrick the Graped, der Trauben beschwor, um Stefanius zu verwirren. Doch Stefanius der beinschlag-fetischist schlug unbeirrt weiter auf Goodtricks rechtes Bein ein, bis Goodtrick vor Schmerzen zurückwich und verschwand.
 
 #### Malenkia Balenciaga 
 
