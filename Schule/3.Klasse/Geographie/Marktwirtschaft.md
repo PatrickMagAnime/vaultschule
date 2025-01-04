@@ -1,7 +1,0 @@
-[[3.Geographie]]
-___
-
-Merkmale|Vorteile|Nachteile|
-Freie Marktwirtschaft<br><br>Adam Smith<br><br>(1723-1790)|Wirtschaftliche Entscheidungen basieren auf Angebot und Nachfrage ohne staatliche Eingriffe|- Konsum freiheit<br>- Gewerbe freiheit|- Kluft zwischen arm und reich ist riesig<br>- Monopole<br>- Hohe Arbeitslosigkeit<br>- Keine staatliche Absicherung<br>- Negative ökologische folgen|
-|Plan Marktwirtschaft<br><br>Karl Marx<br><br>(1818 - 1883)|Staatliche Planung und Kontrolle aller wirtschaftlichen Aktivitäten|- Soziale Absicherung & Versicherung<br>- Soziale gleichheit<br>- Eliminiert arbeitslosigkeit<br>- Keine monopole<br>- Staat versucht preise niedrig zu halten|- Keine individuelle freiheit<br>- Ineffizient durch Bürokratie|
-|Soziale Marktwirtschaft<br><br>John Maynard Keynes<br><br>(1883 - 1946|Kombination von Marktprinzipien mit staatlichen Eingriffen zur sozialen Absicherung<br><br>Staat greift lenkend ein -> steuergesetzgebung<br><br>Unverteil zu den sozial schwächeren<br><br>Steuerpolitik und sozialversicherungen<br><br>Staat stellt öffentliche güter zur verfügung (Bildungs- und Gesundheitswesen)|- Sozialer und Arbeitsrechtlicher absicherung<br>- Wohlstandfür alle<br>- Schutz vor<br>- Grechtigkeit|- Hohe steuern für bürgerinnen<br>- Finanzierung -> sehr hohe kosten|
