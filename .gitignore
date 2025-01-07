@@ -1,2 +1,15 @@
+# Verzeichnisse
 .trash/
 .obsidian/
+
+# Dateitypen
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.drawio
+*.dio
+*.xml

@@ -1,23 +1,21 @@
 [[3.Mathe]]
 ____
-### *Stoff*
+### *Schularbeitsstoff*
 ![[Pasted image 20250107120551.png]]
-
-## Übungen aus dem Stoff
-
-### Übung 1
+## Übungsdurchführung
+#### Übung 1
 ![[Pasted image 20250107125501.png]]
 
-### Übung 2
+#### Übung 2
 ![[Pasted image 20250107125520.png]]
 
-### Übung 3
+#### Übung 3
 ![[Pasted image 20250107125531.png]]
 
-### Übung 4
+#### Übung 4
 ![[Pasted image 20250107125541.png]]
 
-### Übung 5
+#### Übung 5
 ![[Pasted image 20250107125558.png]]
 
 ### Übung 6
@@ -38,13 +36,13 @@ ____
 
 ### Scharniere (B_503)
 
-### Lackproduktion
+### Lackproduktion (B_433)
 
-### Grenzkosten und Grenzerloes (B_421)
+### Grenzkosten und Grenzerlös (B_421)
 
-### Bügeleisen
+### Bügeleisen (B_217)
 
-### Halterung für Glasfassaden
+### Halterung für Glasfassaden (B_024)
 
 
 
