@@ -146,9 +146,9 @@ Als nächstes kam Goodtrick the Graped, der Trauben beschwor, um Stefanius zu ve
 
 Dann trat Malenkia Balenciaga auf den Plan, elegant und tödlich. Ihre Angriffe waren präzise, aber Stefanius blieb standhaft. Er schlug mit seiner Fackel und sleeping pods immer wieder auf Malenkias rechtes nacktes attraktives Bein, bis sie schließlich aufgab und er sie im Eldennest unterwurf.
 
-#### Der FEUER RIEßE DER VERDARMNISS 
+#### Der FEUER RIESE DER VERDARMNISS 
 
-Eines tages stand Stefanius dem FEUER RIEßE DER VERDARMNISS gegenüber, einem kolossalen Wesen, das Feuer spuckte. Stefanius wusste, dass dies der entscheidende Moment war. Mit jedem Schlag auf das rechte Bein wuchs siene Femboy schlagkraft um 1% und den Riesen brachte er ihn mehr ins Wanken. Schließlich stürzte der Riese zu Boden und die Flammen erloschen.
+Eines tages stand Stefanius dem FEUER RIESE DER VERDARMNISS gegenüber, einem kolossalen Wesen, das Feuer spuckte. Stefanius wusste, dass dies der entscheidende Moment war. Mit jedem Schlag auf das rechte Bein wuchs siene Femboy schlagkraft um 1% und den Riesen brachte er ihn mehr ins Wanken. Schließlich stürzte der Riese zu Boden und die Flammen erloschen.
 
 #### Ein unerwarteter Fehler in GitHub Oh nein!
 
