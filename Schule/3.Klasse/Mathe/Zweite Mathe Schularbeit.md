@@ -11,19 +11,19 @@ ____
 #### Übung 2
 ![[zweite mathe sa dritte klasse ü2.png]]
 ____
-
+![[Pasted image 20250108121402.png]]
 #### Übung 3
 ![[zweite mathe sa dritte klasse ü3.png]]
 ____
-
+![[Pasted image 20250108121327.png]]
 #### Übung 4
 ![[zweite mathe sa dritte klasse ü4.png]]
 ____
-
+![[Pasted image 20250108121426.png]]
 #### Übung 5
 ![[zweite mathe sa dritte klasse ü5.png]]
 ____
-
+![[Pasted image 20250108121508.png]]
 #### Übung 6
 ![[zweite mathe sa dritte klasse ü6.png]]
 ____

@@ -3,7 +3,6 @@
 ---
 ## Unterschiede Aufzählen
 ### Charaktere:
-
 - Clarisse ist nicht die Nachbarin, sondern ein Teil der Bewegung.
 - Montag hat keine Ehefrau & er wurde vom Polizei-(Feuerwehr)-Chef großgezogen.
 - Der Polizeichef hat eine ambivalente Beziehung zu Montag und zeigt sowohl Führung als auch subtile Zweifel an seiner Mission.
