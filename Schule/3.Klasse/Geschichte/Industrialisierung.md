@@ -13,7 +13,7 @@ ____
 ### **2. These von Peter Feldbauer über die Ursachen für Erfindungen und ein Beispiel**
 - **These**: Feldbauer argumentiert, dass Erfindungen oft durch wirtschaftlichen Druck und die Notwendigkeit, Produktionsprozesse effizienter zu gestalten, motiviert wurden.
 - **Beispiel**: Die Erfindung der Spinning Jenny (1764) durch James Hargreaves diente dazu, die steigende Nachfrage nach Garn zu decken und den Produktionsprozess zu beschleunigen.
-### **3. Folgen der neuen Produktionsmethoden für Hausweber
+### **3. Folgen der neuen Produktionsmethoden für Hausweber**
 - **Verdrängung durch Maschinen**: Hausweber konnten mit der Effizienz von Maschinen in Fabriken nicht mithalten, was zu Arbeitslosigkeit und Verarmung führte.
 - **Niedrigere Löhne**: Viele mussten zu schlechteren Bedingungen als Lohnarbeiter in Fabriken arbeiten.
 ### **4. Erklärung des Manchester-Kapitalismus**
