@@ -1,6 +1,6 @@
 [[3.Itsi]]
 ___
-## Authentifizierungs Methoden:
+## Authentifizierung Methoden:
 **Wissen (Was weiß ich)**
 - Passwort + Username + Telefonnummer + Fragen
 **Vorteile:**
