@@ -17,4 +17,4 @@ Passwort Manager wird verwendet um komplexe Passwörter zu speichern damit man s
 
 Wichtig ist bei Passwort Manger woher er kommt, wenn etwas rechtliches passiert das ein Passwort her gegeben werden muss. Frankreich muss, Österreich kann sich weigern
 
-Authentification Notes werden One Time passwords genannt (OTP), entweder time based passwords (TOTP), Schlüssel werden immer neu generiert (30 sek),
+Authentification Notes werden One Time passwords genannt (OTP), entweder time based passwords (TOTP), Schlüssel werden immer neu generiert (30 sek)
