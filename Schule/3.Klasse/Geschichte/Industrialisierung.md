@@ -14,21 +14,21 @@ ____
 - **These**: Feldbauer argumentiert, dass Erfindungen oft durch wirtschaftlichen Druck und die Notwendigkeit, Produktionsprozesse effizienter zu gestalten, motiviert wurden.
 - **Beispiel**: Die Erfindung der Spinning Jenny (1764) durch James Hargreaves diente dazu, die steigende Nachfrage nach Garn zu decken und den Produktionsprozess zu beschleunigen.
 ### **3. Folgen der neuen Produktionsmethoden für Hausweber
-- **Verdrängung durch Maschinen**: Hausweber*innen konnten mit der Effizienz von Maschinen in Fabriken nicht mithalten, was zu Arbeitslosigkeit und Verarmung führte.
-- **Niedrigere Löhne**: Viele mussten zu schlechteren Bedingungen als Lohnarbeiter*innen in Fabriken arbeiten.
+- **Verdrängung durch Maschinen**: Hausweber konnten mit der Effizienz von Maschinen in Fabriken nicht mithalten, was zu Arbeitslosigkeit und Verarmung führte.
+- **Niedrigere Löhne**: Viele mussten zu schlechteren Bedingungen als Lohnarbeiter in Fabriken arbeiten.
 ### **4. Erklärung des Manchester-Kapitalismus**
 - **Definition**: Der Begriff bezeichnet eine Phase des ungehemmten Kapitalismus während der Industriellen Revolution, die durch minimale staatliche Eingriffe, extrem schlechte Arbeitsbedingungen und soziale Ungleichheit gekennzeichnet war.
 ### **5. Beispiele für die Arbeitsbedingungen**
-- **Lange Arbeitszeiten**: Arbeiter*innen, darunter Kinder, mussten oft 12–16 Stunden am Tag arbeiten.
+- **Lange Arbeitszeiten**: Arbeiter, darunter Kinder, mussten oft 12–16 Stunden am Tag arbeiten.
 - **Gefährliche Arbeitsumgebungen**: Maschinen waren oft ungeschützt, und Sicherheitsvorkehrungen fehlten.
 - **Niedrige Löhne**: Die Bezahlung war kaum ausreichend, um die Grundbedürfnisse zu decken.
 ### **6. Gründe für den Einsatz von Kindern als Arbeitskräfte**
 - **Geringe Kosten**: Kinder wurden deutlich schlechter bezahlt als Erwachsene.
 - **Anpassungsfähigkeit**: Kinder konnten leichter in enge oder schwer zugängliche Bereiche gelangen, z. B. unter Maschinen.
 - **Mangel an Alternativen**: Arme Familien waren oft auf das Einkommen ihrer Kinder angewiesen.
-### **7. Maßnahmen zur Einschränkung der Kinderarbeit in Österreich (19. Jahrhundert)**
+### **7. Maßnahmen zur Einschränkung der Kinderarbeit in Österreich (im 19. Jahrhundert)**
 - **Schulpflicht**: Die Einführung der Schulpflicht begrenzte die Zeit, die Kinder arbeiten konnten.
-- **Arbeitsschutzgesetze**: Gesetze wie das Verbot von Nachtarbeit für Kinder und die Festlegung eines Mindestarbeitsalters wurden eingeführt.
+- **Arbeitsschutzgesetze**: Gesetze wie das Verbot von Nachtarbeit für Kinder und die Festlegung eines Mindestarbeitsalters bis 12 wurden eingeführt. Mit Erlaubnis der Eltern kann man schon früher Arbeiten.
 ### **8. Erklärung der „Schwabenkinder"**
 - **Definition**: „Schwabenkinder“ waren Kinder aus Tirol und Vorarlberg, die im 19. Jahrhundert in die Schwäbische Region Deutschlands geschickt wurden, um dort auf Bauernhöfen zu arbeiten. Diese saisonale Kinderarbeit war oft hart und schlecht bezahlt.
 ### **9. Beschreibung des demographischen Übergangs**
