@@ -9,7 +9,7 @@ ____
 #### Übung 1
 ![[zweite mathe sa dritte klasse ü1.png]]
 ____
-![[Pasted image 20250108122643.png]]
+![[]]
 #### Übung 2
 ![[zweite mathe sa dritte klasse ü2.png]]
 ____
