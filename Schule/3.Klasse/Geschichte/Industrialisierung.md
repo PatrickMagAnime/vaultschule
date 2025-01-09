@@ -33,10 +33,11 @@ ____
 - **Definition**: „Schwabenkinder“ waren Kinder aus Tirol und Vorarlberg, die im 19. Jahrhundert in die Schwäbische Region Deutschlands geschickt wurden, um dort auf Bauernhöfen zu arbeiten. Diese saisonale Kinderarbeit war oft hart und schlecht bezahlt.
 ### **9. Beschreibung des demographischen Übergangs**
 - **Phasen**:
-    1. **Vorindustrielle Phase**: Hohe Geburten- und Sterberaten.
-    2. **Übergangsphase**: Sterberaten sinken durch medizinische Fortschritte und bessere Lebensbedingungen, Geburtenraten bleiben hoch.
-    3. **Industrielle Phase**: Geburtenraten sinken, Bevölkerungswachstum verlangsamt sich.
-    4. **Postindustrielle Phase**: Geburten- und Sterberaten stabilisieren sich auf niedrigem Niveau.
+1. - **Vorindustrielle Phase**: Hohe Geburten- und Sterberaten, die Bevölkerung wächst kaum oder bleibt stabil.
+2. - **Frühe Übergangsphase**: Die Sterberaten sinken durch Fortschritte in Medizin, Hygiene und Lebensstandards, während die Geburtenraten hoch bleiben. Dies führt zu einem starken Bevölkerungswachstum.
+3. - **Späte Übergangsphase**: Die Geburtenraten beginnen zu sinken, da sich gesellschaftliche Werte ändern und Verhütungsmethoden verfügbar werden. Das Bevölkerungswachstum verlangsamt sich.
+4. - **Postindustrielle Phase**: Geburten- und Sterberaten stabilisieren sich auf niedrigem Niveau, das Bevölkerungswachstum stagniert oder ist minimal.
+5. - **Regressive Phase**: In einigen Gesellschaften sinken die Geburtenraten unter das Sterbeniveau, was zu einem Bevölkerungsrückgang führt, sofern keine Migration stattfindet.
 ### **10. Wichtige Erfindungen/Innovationen der Industriellen Revolution**
 - **Spinning Jenny**: Mechanischer Spinnrahmen zur Garnherstellung.
 - **Dampfmaschine** (James Watt): Revolutionierte die Energiegewinnung und den Antrieb von Maschinen.
