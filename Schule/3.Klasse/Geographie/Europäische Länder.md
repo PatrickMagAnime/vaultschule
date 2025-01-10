@@ -52,5 +52,6 @@ ___
 | Zypern                  | Nikosia          |
 ```
 
+![[Europa Landkarte Länder.png]]
 ![[Bestimme die Staaten europas.png]]
 ![[Volkswirtschaft.png]]

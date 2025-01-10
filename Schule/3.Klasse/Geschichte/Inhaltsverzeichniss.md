@@ -1,4 +1,4 @@
 [[3.Geschichte]]
 ____
 
-![[Geschichte Inhaltsverzeichniss]]
+![[Geschichte Inhaltsverzeichniss.excalidraw]]
