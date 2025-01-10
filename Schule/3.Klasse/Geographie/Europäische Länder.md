@@ -1,6 +1,6 @@
 [[3.Geographie]]
 ___
-```ad-advanced-table
+```c
 |          Land           |    Hauptstadt    |
 |-------------------------|------------------|
 | Albanien                | Tirana           |

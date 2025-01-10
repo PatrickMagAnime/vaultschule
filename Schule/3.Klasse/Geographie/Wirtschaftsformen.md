@@ -1,7 +1,6 @@
 [[3.Geographie]]
 ____
 ### Freie Marktwirtschaft
-
 - **Merkmale:** Staat greift kaum ein, Freiheit und Ideale, Homo oeconomicus
 - **Vorteile:** Märkte und Konsumenten können frei entscheiden, was produziert und konsumiert wird. Freie Preisbildung, Berufswahl, Innovationsförderung, Wirtschaftswachstum, Leistungsanreize.
 - **Nachteile:** Wirtschaftskrisen, Konjunkturschwankungen, Arbeitslosigkeit, Ungleichheit zwischen Arm und Reich, Monopolgefahr, fehlende staatliche Absicherung.
@@ -10,9 +9,7 @@ ____
 - **Grundidee:** Homo oeconomicus → unendlicher Drang nach Gütern und Wohlstand
 
 ---
-
 ### Planwirtschaft
-
 - **Merkmale:** Durch Staat gelenkte Wirtschaft
 - **Vorteile:** Staat kontrolliert Produktionsmittel (Boden, Kapital, Materialien) und kann zentrale Ziele konsequent verfolgen.
 - **Nachteile:** Fehlende wirtschaftliche Freiheiten bei Preisen, Löhnen und Arbeitsplätzen, Bürokratie, geringe Innovationsanreize, Ineffizienz.
@@ -21,9 +18,7 @@ ____
 - **Merkmale:** Staat reguliert Preise und Produktion, Eigentum an Produktionsmitteln liegt beim Staat
 
 ---
-
 ### Soziale Marktwirtschaft
-
 - **Merkmale:** Freie Marktwirtschaft mit sozialem Ausgleich
 - **Vorteile:** Kombination von Marktfreiheit und sozialer Absicherung, staatliche Unterstützung bei regionalen Bedürfnissen und Krisen, soziale Sicherheitssysteme.
 - **Nachteile:** Hohe staatliche Kosten, schwierige Balance zwischen Markt und staatlichen Eingriffen, Anpassung an ständig wechselnde Bedingungen erforderlich.
