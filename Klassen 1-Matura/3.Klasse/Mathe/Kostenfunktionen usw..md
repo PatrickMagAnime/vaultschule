@@ -2,8 +2,8 @@
 ____
 ## 1. Kostenfunktion \( K(x) \)
 $K(x) = K_f + K_v(x)$  
-- **Fixkosten (\( K_f \))**: Kosten, die unabhängig von der Produktionsmenge anfallen.  
-- **Variable Kosten (\( K_v(x) \))**: Kosten, die von der Produktionsmenge \(x\) abhängen.
+- **Fixkosten $K_f$:** Kosten, die unabhängig von der Produktionsmenge anfallen.  
+- **Variable Kosten $K_v(x)$**: Kosten, die von der Produktionsmenge \(x\) abhängen.
 
 **Beispiel:**  
 - Fixkosten: $K_f = 5000$$€$ 
@@ -15,7 +15,7 @@ $K(x) = 5000 + 10x$
 
 ## 2. Erlösfunktion \( E(x) \)
 $E(x) = p \cdot x$  
-- **Verkaufspreis (\( p \))**: Preis pro Stück.
+- **Verkaufspreis $p$:** Preis pro Stück.
 
 **Beispiel:**  
 - Verkaufspreis: $p = 25$$€$ 
@@ -88,7 +88,7 @@ $10 + 0{,}1x = \frac{5000}{x} + 10 + 0{,}05x$
 ---
 
 ## 8. Zusatz: Gewinnschwellenberechnung
-- Gewinnschwellen lassen sich aus der Gewinnfunktion ableiten, indem man den Gewinn auf \( G(x) = 0 \) setzt:  
+- Gewinnschwellen lassen sich aus der Gewinnfunktion ableiten, indem man den Gewinn auf $G(x) = 0$ setzt:  
 $E(x) = K(x)$  
 
 **Allgemeine Berechnung:**  
