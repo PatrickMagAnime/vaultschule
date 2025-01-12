@@ -57,7 +57,7 @@ ____
 #### SRDP Grönlandwale
 ![[SRDP Grönlandwale.png]]
 ____
-
+![[Pasted image 20250112173251.png]]
 #### Scharniere (B_503)
 ![[Scharniere (B_503).png]]
 ____
