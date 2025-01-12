@@ -29,7 +29,7 @@ ____
 #### Übung 6
 ![[zweite mathe sa dritte klasse ü6.png]]
 ____
-
+![[Pasted image 20250111235036.png]]
 #### Übung 7
 ![[zweite mathe sa dritte klasse ü7.png]]
 ____
