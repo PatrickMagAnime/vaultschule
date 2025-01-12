@@ -29,11 +29,12 @@ ____
 #### Übung 6
 ![[zweite mathe sa dritte klasse ü6.png]]
 ____
-![[Pasted image 20250111235036.png]]
+![[Pasted image 20250111235036.png]] 
 #### Übung 7
 ![[zweite mathe sa dritte klasse ü7.png]]
 ____
-
+![[Pasted image 20250112164438.png]]
+![[Pasted image 20250112164459.png]]
 #### SRDP Fußball spielen im Park
 ![[SRDP Fußballspielen im Park.png]]
 ____
@@ -45,11 +46,14 @@ ____
 #### SRDP Kraftstoffverbrauch
 ![[SRDP Kraftstoffverbrauch.png]]
 ____
-
+![[Pasted image 20250112170104.png]]
+![[Pasted image 20250112170123.png]]
 #### SRDP Epidemie
 ![[SRDP Epidemie.png]]
 ____
-
+- I(45)I(45) bedeutet die Gesamtzahl der Infizierten 45 Tage nach dem Ausbruch.
+- Der Höhepunkt der Neuinfektionen ist der Tag, an dem die Kurve am steilsten ist.
+- Die erste Ableitung I′(t)I'(t) stellt die Rate der täglichen Neuinfektionen dar und der Höhepunkt der Neuinfektionen wird gefunden, indem man die Ableitung I′(t)I'(t) auf 0 setzt und die kritischen Punkte identifiziert.
 #### SRDP Grönlandwale
 ![[SRDP Grönlandwale.png]]
 ____
