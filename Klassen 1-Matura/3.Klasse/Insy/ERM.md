@@ -2,7 +2,7 @@
 ____
 - Objekte -> welche Information?
 - Beziehungen ->  welche Beziehungen?
-### Entität (Entity) 
+### Entität (Entity)  
 - Ein Exemplar einer Person, Ware, nicht materiellen Gutes über welches Informationen gespeichert wird.
 
 zB: ein Laptop, Wissen (nicht Materiell)
