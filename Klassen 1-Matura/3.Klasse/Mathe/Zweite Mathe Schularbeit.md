@@ -2,7 +2,7 @@
 ____
 ### *Schularbeitsstoff*
 ![[Pasted image 20250107120551.png]]
-[[Kurvendiskussion]] [[Umgekehrte Kurvendiskussion]] [[Kostenfunktionen usw.]] 
+[[Kurvendiskussion]] [[Umgekehrte Kurvendiskussion]] [[Kostenfunktionen usw.]]
 ## Übungsdurchführung
 
 #### Übung 1 
