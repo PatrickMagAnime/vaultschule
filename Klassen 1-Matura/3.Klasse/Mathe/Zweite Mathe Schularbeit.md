@@ -5,7 +5,7 @@ ____
 [[Kurvendiskussion]] [[Umgekehrte Kurvendiskussion]] [[Kostenfunktionen usw.]]
 ## Übungsdurchführung
 
-#### Übung 1
+#### Übung 1 
 ![[zweite mathe sa dritte klasse ü1.png]]
 ____
 ![[Pasted image 20250111232358.png]]
