@@ -1,7 +1,7 @@
 **Stoff**
 S.76 77
-Arbeitlosigkeit & BIP
-Marktformen und Konjunktur
+Arbeitlosigkeit
+Marktformen - BIP - Konjunktur
 
 **S.76 & 77**
 ![[s.76 ggp.png]]
