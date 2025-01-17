@@ -2,7 +2,7 @@
 ## Zero-Day Angriff
 Ein Zero-Day Angriff tritt auf, wenn eine Sicherheitslücke ausgenutzt wird, die noch nicht entdeckt oder behoben wurde.
 ## Cyber-Kill-Chain
-Die erste Phase ist die **Recon-Exchange Phase** (Auskundschaftung):
+Die erste Phase ist die **Reconaissence Phase** (Auskundschaftung):
 - Was ist das Ziel? 
 - Wie greifen wir an?
 ### Social Engineering
