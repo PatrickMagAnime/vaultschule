@@ -1,9 +1,10 @@
 **Stoff**
-S.76 77
+S.74 76 77
 Arbeitlosigkeit
 Marktformen - BIP - Konjunktur
 
-**S.76 & 77**
+**S.74 & 76 & 77**
+
 ![[s.76 ggp.png]]
 ![[s. 76 gpp basics.png]]
 ![[s. 77 ggp.png]]
