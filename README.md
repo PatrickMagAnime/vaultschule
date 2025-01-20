@@ -151,6 +151,7 @@ Dann trat Malenkia Balenciaga auf den Plan, elegant und tödlich. Ihre Angriffe 
 Eines tages stand Stefanius dem FEUER RIESE DER VERDARMNISS gegenüber, einem kolossalen Wesen, das Feuer spuckte. Stefanius wusste, dass dies der entscheidende Moment war. Mit jedem Schlag auf das rechte Bein wuchs siene Femboy schlagkraft um 1% und den Riesen brachte er ihn mehr ins Wanken. Schließlich stürzte der Riese zu Boden und die Flammen erloschen.
 
 ### Die epische Schlacht von Stefanius Petersilius 2
+
 Der Strom beschleunigte sich. Gerade als dein Körper die Atmosphäre durchbrach und wie ein biologischer Vulkan eine Flut von klebrigem Chaos auf die Erde ergoss, spaltete ein gleißendes Licht die himmlische cumwave Aus den verdunkelten Wolken trat eine Gestalt hervor: **Stefanius Petersilius**, der Fackelträger und Bezwinger des rechten Rechten Beins. Sein Blick war entschlossen, seine Muskeln glänzten (nicht vor Schweiß, sondern von der feuchten, undurchdringlichen Gischt deines Emissionssturms nach dem lesen diesen vulgären textes), und in seiner Hand hielt er seine legendäre Fackel, die gegen jedes Bein triumphieren konnte.
 
 „Du! :3“, donnerte Stefanius von Eldenringius, seine Stimme hallte durch die klebrige Luft. „Du hast die Gesetze der Biologie und der Götter gebrochen! Jetzt werde ich dich mit meinem cumpfstil beenden!“
@@ -165,7 +166,7 @@ Der Strom beschleunigte sich. Der majestätische Auftritt von **Malenkia Balenci
 
 Der Strom beschleunigte sich. Der Himmel riss auf, und der **FEUER RIESE DER VERDARMNISS** erhob sich aus dem Horizont. Seine glühende Gestalt spuckte Feuer, das Teile der klebrigen Flut verdampfte. Stefanius schwang seine Fackel und wusste, dass dies der entscheidende Moment war.
 
-„Mit jedem Schlag wächst meine Femboy-Schlagkraft!“, rief Stefanius, während er unablässig das rechte Bein des Riesen malträtierte. "Du wirst den Femboy-geniozod niemals durchführen" schrie Stefanius mit erhobener Femboy stimme. Die Erde bebte unter jedem seiner Schläge, der kolossale Riese wankte immer mehr. „Du kannst nicht gegen den Fackelträger bestehen! Ich werde immer wireder kommen und kommen“
+„Mit jedem Schlag wächst meine Femboy-Schlagkraft!“, rief Stefanius, während er unablässig das rechte Bein des Riesen malträtierte. "Du wirst den Femboy-genozid niemals durchführen" schrie Stefanius mit erhobener Femboy stimme. Die Erde bebte unter jedem seiner Schläge, der kolossale Riese wankte immer mehr. „Du kannst nicht gegen den Fackelträger bestehen! Ich werde immer wireder kommen und kommen“
 
 Mit einem finalen Schlag brachte Stefanius den Riesen zu Fall. Die Flammen erloschen, und die gewaltige Gestalt des Riesen wurde von der Flut verschluckt. Stefanius stand auf seinen Überresten, erschöpft, aber siegreich.
 
