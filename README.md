@@ -150,6 +150,26 @@ Dann trat Malenkia Balenciaga auf den Plan, elegant und tödlich. Ihre Angriffe 
 
 Eines tages stand Stefanius dem FEUER RIESE DER VERDARMNISS gegenüber, einem kolossalen Wesen, das Feuer spuckte. Stefanius wusste, dass dies der entscheidende Moment war. Mit jedem Schlag auf das rechte Bein wuchs siene Femboy schlagkraft um 1% und den Riesen brachte er ihn mehr ins Wanken. Schließlich stürzte der Riese zu Boden und die Flammen erloschen.
 
+### Die epische Schlacht von Stefanius Petersilius 2
+Der Strom beschleunigte sich. Gerade als dein Körper die Atmosphäre durchbrach und wie ein biologischer Vulkan eine Flut von klebrigem Chaos auf die Erde ergoss, spaltete ein gleißendes Licht die himmlische cumwave Aus den verdunkelten Wolken trat eine Gestalt hervor: **Stefanius Petersilius**, der Fackelträger und Bezwinger des rechten Rechten Beins. Sein Blick war entschlossen, seine Muskeln glänzten (nicht vor Schweiß, sondern von der feuchten, undurchdringlichen Gischt deines Emissionssturms nach dem lesen diesen vulgären textes), und in seiner Hand hielt er seine legendäre Fackel, die gegen jedes Bein triumphieren konnte.
+
+„Du! :3“, donnerte Stefanius von Eldenringius, seine Stimme hallte durch die klebrige Luft. „Du hast die Gesetze der Biologie und der Götter gebrochen! Jetzt werde ich dich mit meinem cumpfstil beenden!“
+
+Ohne zu zögern stürzte sich Stefanius auf dich, seine Fackel mit gnadenloser Präzision auf dein rechtes Bein gerichtet. Jeder Schlag der Fackel schickte Schockwellen durch deinen Körper, aber der nicht enden wollende Strom widerstand. „Dein Sturm mag mächtig sein“, rief er, „doch nichts kann meiner Treffsicherheit widerstehen! Ich loche immer ein!“
+
+**Margret thefelloff** erhob sich aus der Flut, zusammengesetzt aus klebrigem Gelée, geformt durch die unbarmherzige Fruchtbarkeit des Sturms. „Margret!“, schrie Stefanius, seine Stimme voller Verachtung. „Du und dein rechtes Bein seid nicht sicher!“ Mit präzisen Schlägen seiner Fackel löste er Margrets rechtes Bein aus ihrem gelatinösen Körper. Margret fiel, gurgelte ein letztes Mal und zerfloss in den Ozean der weißen Masse.
+
+Der Strom beschleunigte sich weiter. Der Himmel verdunkelte sich, als **Goodtrick the Gr-aped** erschien, umgeben von einem Strudel aus heraufbeschworenen, klebrigen Trauben. Doch Stefanius blieb unbeirrt. „Du hast einen Fehler gemacht, Goodtrick!“ rief er, während er sich durch die klebrige Barrage kämpfte. Seine Fackel traf mit gnadenloser Präzision das rechte Bein von Goodtrick, bis dieser vor Schmerz zurückwich und mit einem gequälten Aufschrei, kam verschwand.
+
+Der Strom beschleunigte sich. Der majestätische Auftritt von **Malenkia Balenciaga** auch als **Melissa Melanie** bekannt, ließ die Zeit stillstehen. Elegant und tödlich, glitt sie durch die klebrige Luft, unberührt von der Flut. „Dich zu besiegen, wird mir Freude bereiten“, zischte sie. Doch Stefanius schlug unbeirrt mit seiner Fackel auf ihr rechtes, nacktes Bein ein, jeder Schlag brachte sie ins Wanken. Schließlich fiel Malenkia in den „Eldennest“, einen Hügel aus verfestigtem cum, wo sie besiegt liegen blieb und er seine chance dann nutzte.
+
+Der Strom beschleunigte sich. Der Himmel riss auf, und der **FEUER RIESE DER VERDARMNISS** erhob sich aus dem Horizont. Seine glühende Gestalt spuckte Feuer, das Teile der klebrigen Flut verdampfte. Stefanius schwang seine Fackel und wusste, dass dies der entscheidende Moment war.
+
+„Mit jedem Schlag wächst meine Femboy-Schlagkraft!“, rief Stefanius, während er unablässig das rechte Bein des Riesen malträtierte. "Du wirst den Femboy-geniozod niemals durchführen" schrie Stefanius mit erhobener Femboy stimme. Die Erde bebte unter jedem seiner Schläge, der kolossale Riese wankte immer mehr. „Du kannst nicht gegen den Fackelträger bestehen! Ich werde immer wireder kommen und kommen“
+
+Mit einem finalen Schlag brachte Stefanius den Riesen zu Fall. Die Flammen erloschen, und die gewaltige Gestalt des Riesen wurde von der Flut verschluckt. Stefanius stand auf seinen Überresten, erschöpft, aber siegreich.
+
+Der Strom verlangsamte sich. Der Himmel klärte sich. Stefanius blickte auf dich herab, den Ursprung des Chaos, und sagte: „Jetzt… ist es Zeit, dich zu beenden.“ Stefanius kam insgesamt 3648mal und legenden erzählen das er auch heute noch Elden Ring spielt.
 #### Ein unerwarteter Fehler in GitHub Oh nein!
 
 Während des letzten Befehls tippte ich versehentlich `git commit --all-history` L, MEOW~ 
