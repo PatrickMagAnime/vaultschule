@@ -17,7 +17,7 @@ Firstly, lets talk about their advantages. In my opinion, internships are a very
 
 Moreover, an average employee’s salary is well-paid too. The gains for employer’s side are that they can improve their communication skills with younger people. Most people don’t know to explain things at work to interns, so every employee is encouraged to work with them. That causes unintended social training.
 
-Lastly, one of the challenges jobseekers could face, is that they mightn’t find a job because of many possibilities filled. This makes it increasingly harder to find a job for people who actually need it.
+Lastly, one of the challenges job seekers could face, is that they mightn’t find a job because of many possibilities filled. This makes it increasingly harder to find a job for people who actually need it.
 
 Thank you for reading. What are your thought on internships? Let me know below in the comments.
 
