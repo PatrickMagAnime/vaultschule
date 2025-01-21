@@ -16,3 +16,16 @@ It can be suggested that you could promote your shop in assistance with other bi
 Good luck on building up your own start-up company. I'm looking forward to your next post.
 
 ### Improvement
+Comment on Lizzie's blog-post
+By: stefanius
+Time: 17:18
+
+Hey Lizzy, I am Stefanius and I recently came across your blog-post about your start-up idea of selling fashion clothes and locally produced food and coffee.I came up with a few ideas that might help you.
+
+One of the challenges you will definitely face is to find an actual head chef that prepares food locally. These cooks are very expensive to pay. You should consider a marketing strategy too. It can be very hard in the beginning to find the perfect workers for your shop. 
+
+Your shop should be visually appealing. It should have a very colourful design that will instantly catch peoples eyes. A shop that has an outstanding design is more likely visited by tourists too, so choose wisely how it will look.
+
+You could also consider promoting your shop in assistance with other big companies that will contribute to your shop to gain attention. It should also have its own Social-Media account for advertising purposes. Advertisement is one of the most important things you should consider.
+
+Good luck on building up your own start-up company. I'm looking forward to your next post.
