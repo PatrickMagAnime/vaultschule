@@ -10,7 +10,7 @@ Vorstellung: Sprecher, Thema, W-Fragen
 **Intro-Musik: Dramatische Beats, energisch und actiongeladen**
 
 **Sprecher**
-„Willkommen zu **CS2 Unlocked** – dem Podcast, der tief in die Welt von Counter-Strike 2 eintaucht!
+„Willkommen zu **CS2 Unlocked** – dem Podcast, der tief in die Welt der Pro gamer von Counter-Strike 2 eintaucht!
 
 Counter-Strike 2 ist mehr als nur ein Spiel. Es ist eine Arena, in der Strategie, Präzision und Teamwork auf die Prüfung gestellt werden. Mit der neuen Source-2-Engine, überarbeiteten Maps und bahnbrechender Grafik ist es der ultimative Shooter für die nächste Generation.
 
