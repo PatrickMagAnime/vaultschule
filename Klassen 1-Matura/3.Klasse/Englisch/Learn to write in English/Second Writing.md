@@ -15,6 +15,7 @@ It can be suggested that you could promote your shop in assistance with other bi
 
 Good luck on building up your own start-up company. I'm looking forward to your next post.
 
+Grade: B-
 ### Improvement
 Comment on Lizzie's blog-post
 By: stefanius

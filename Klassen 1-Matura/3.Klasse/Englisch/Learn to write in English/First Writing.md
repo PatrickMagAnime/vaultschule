@@ -21,6 +21,7 @@ Thank you for your time and consideration. If you have any questions, feel free 
 Yours sincerely
 Steven Elderingius
 
+Grade: C
 ### Improvement
 
 From:fhlkrfwd@gmail.com

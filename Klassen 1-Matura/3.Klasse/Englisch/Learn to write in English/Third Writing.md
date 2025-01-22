@@ -15,7 +15,9 @@ The last significant point I want to address is that you should respect the anim
 
 I hope this comment will help you.
 
-Thank you for your post. Good luck to find and adopt a pet at your institution. I'm looking forward to your next posts!
+Thank you for your post. Good luck to find and adapt a pet at your institution. I'm looking forward to your next posts!
+
+Grade: B-
 ### Improvements
 Comment on Morgan's blog-post
 By: Stefanius
