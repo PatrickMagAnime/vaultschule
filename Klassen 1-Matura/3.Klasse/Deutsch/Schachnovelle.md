@@ -1,5 +1,6 @@
 [[3.Deutsch]]
 ___
+#### Buch
 **Charaktere**
 McConnor
 Ich erzähler
@@ -20,3 +21,12 @@ Autor: Stefan Zweig
  - Eindimensionale Charaktere (keine Entwicklung der Charaktere)
  - Symbol (Schach)
  - Wende/Höhepunkte (Wendepunkt: Schachspiele, Stehlen des Schachbuches, Höhepunkte: Schachspiel, bei dem die Schachvergiftung wiederkommt)
+
+#### Schwarz-Weiß verfilmung 
+- Schneller schnitt und themenwechsel
+- Spannung wurde mit blicken aufgebaut
+#### Farbiger Film
+- Langsamere schnitte
+- Spanung wird mit lauten geräuschen aufgebaut
+- Musik ist im hintergrung
+- Suicid scene
