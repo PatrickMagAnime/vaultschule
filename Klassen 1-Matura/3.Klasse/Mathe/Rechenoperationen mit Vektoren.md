@@ -21,8 +21,17 @@ $k \cdot \vec{b} = -3 \cdot \left(\begin{array}{c} -1 \\ 5 \end{array}\right) = 
 ## Das Skalar Produkt
 
 **Berechnung des Skalarprodukts**  
-$\vec{a} = \left(\begin{array}{c} 1 \\ 2 \end{array}\right), \vec{b} = \left(\begin{array}{c} 3 \\ 4 \end{array}\right)$  
-$\vec{a} \cdot \vec{b} = (1 \cdot 3) + (2 \cdot 4) = 3 + 8 = 11$  
+$\vec{a} = \left(\begin{array}{c} 1 \ 2 \end{array}\right), \vec{b} = \left(\begin{array}{c} 3 \ 4 \end{array}\right)$  
+$\vec{a} \cdot \vec{b} = (1 \cdot 3) + (2 \cdot 4) = 3 + 8 = 11$
+
+**Alternative Formel mit Winkel**  
+$\vec{a} \cdot \vec{b} = |\vec{a}| \cdot |\vec{b}| \cdot \cos(\varphi)$
+
+**Beispiel**  
+$|\vec{a}| = \sqrt{1^2 + 2^2} = \sqrt{1 + 4} = \sqrt{5}$  
+$|\vec{b}| = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$  
+$\cos(\varphi) = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| \cdot |\vec{b}|} = \frac{11}{\sqrt{5} \cdot 5} = \frac{11}{5\sqrt{5}}$
+$\varphi =\arccos( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| \cdot |\vec{b}|})$
 ## Einheitsvektor
 
 **Berechnung des Einheitsvektors**  
