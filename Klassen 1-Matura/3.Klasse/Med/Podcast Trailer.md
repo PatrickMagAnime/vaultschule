@@ -35,7 +35,8 @@ Abonniere den Podcast und schalte ein für die heißesten News, spannende Diskus
 *Zeit: 1:15*
 
 Sprecher: Patrick Riedl
-Quellen: 1. **Offizielle Counter-Strike Website**  
+Quellen: 
+1. **Offizielle Counter-Strike Website**  
     [https://www.counter-strike.net](https://www.counter-strike.net/)
     
 2. **HLTV.org** (Nachrichten und Updates zu CS:GO und CS2)  
