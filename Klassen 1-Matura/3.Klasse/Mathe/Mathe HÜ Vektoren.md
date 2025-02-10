@@ -3,9 +3,9 @@ ___
 ### Motor
 #### **1)**
 geg:
-- Punkt $A = (427, 273)$.
-- Punkt $P = (472.2, 279.4)$.
-- Gerade $b$ verläuft durch $P$ und steht normal auf $AP$.
+- Punkt $A = (427, 273)$
+- Punkt $P = (472.2, 279.4)$
+- Gerade $b$ verläuft durch $P$ und steht normal auf $AP$
 
 **Schritte:**
 1. **Richtungsvektor von $AP$:**
@@ -33,8 +33,8 @@ geg:
 ---
 #### **3)**
 geg:
-- Richtungsvektor von $a$: $\vec{u} = (22, -40)$.
-- Richtungsvektor von $b$: $\vec{v} = (-6.4, 45.2)$.
+- Richtungsvektor von $a$: $\vec{u} = (22, -40)$
+- Richtungsvektor von $b$: $\vec{v} = (-6.4, 45.2)$
 
 **Schritte:**
 1. Skalarprodukt:  
@@ -48,7 +48,7 @@ $\alpha = \cos^{-1}(0.935) \approx 20.3^\circ$
 ---
 #### **4)**
 Geg:
-- Vektor $\vec{v} = (-6.4, 45.2)$.
+- Vektor $\vec{v} = (-6.4, 45.2)$
 **Schritte:**
 4. Betrag von $\vec{v}$:     
    $|\vec{v}| = \sqrt{(-6.4)^2 + 45.2^2} = \sqrt{40.96 + 2043.04} = \sqrt{2084} \approx 45.65$
@@ -57,10 +57,10 @@ Geg:
 
 **Alle Antworten**
 **Antworten:**
-1. Gerade $b$: $\vec{b} = \begin{pmatrix} 472.2 \\ 279.4 \end{pmatrix} + t \cdot \begin{pmatrix} -6.4 \\ 45.2 \end{pmatrix}$.
-2. Schnittpunkt $S = (442, 195)$.
-3. Spitzer Winkel $\alpha \approx 20.3^\circ$.
-4. Einheitsvektor $\vec{v}_{\text{norm}} \approx (-0.14, 0.99)$.
+1. Gerade $b$: $\vec{b} = \begin{pmatrix} 472.2 \\ 279.4 \end{pmatrix} + t \cdot \begin{pmatrix} -6.4 \\ 45.2 \end{pmatrix}$
+2. Schnittpunkt $S = (442, 195)$
+3. Spitzer Winkel $\alpha \approx 20.3^\circ$
+4. Einheitsvektor $\vec{v}_{\text{norm}} \approx (-0.14, 0.99)$
 ### Nähmaschine
 #### **1)**
 geg:
