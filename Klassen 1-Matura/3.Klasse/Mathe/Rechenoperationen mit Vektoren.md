@@ -52,3 +52,6 @@ $\vec{n}_1 = \left(\begin{array}{c} -4 \\ 3 \end{array}\right), \vec{n}_2 = \lef
 $\vec{a} = \left(\begin{array}{c} 1 \\ 2 \\ 3 \end{array}\right), \vec{b} = \left(\begin{array}{c} 4 \\ 5 \\ 6 \end{array}\right)$  
 Verwende das Kreuzprodukt.
 $\vec{n} = \vec{a} \times \vec{b} = \left(\begin{array}{c} (2 \cdot 6 - 3 \cdot 5) \\ (3 \cdot 4 - 1 \cdot 6) \\ (1 \cdot 5 - 2 \cdot 4) \end{array}\right) = \left(\begin{array}{c} -3 \\ 6 \\ -3 \end{array}\right)$  
+
+## Parameterdarstellung von geraden
+![[parameterdarstellung vektoren.excalidraw]]
