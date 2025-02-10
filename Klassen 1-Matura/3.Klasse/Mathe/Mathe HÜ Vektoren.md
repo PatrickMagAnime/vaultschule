@@ -83,3 +83,60 @@ geg:
  Gesamtlänge: $DE + EF = 8.94 + 11.18 = 20.12 \, \text{cm}$.
 
 **A:** Die Länge des Fadens von $D$ nach $F$ beträgt **20.12 cm**.
+___
+
+
+
+
+
+
+
+
+
+### Motor
+
+**1) Gleichung der Geraden $b$ in Parameterform**  
+- **Richtungsvektor $\vec{AP}$:**  
+$\vec{AP} = (472.2 - 427, 279.4 - 273) = (45.2, 6.4)$
+- **Normalenvektor:**  
+$\vec{n} = (-6.4, 45.2) \quad \text{(vertauschte Komponenten mit Vorzeichenwechsel)}$
+- **Parameterform von $b$:**  
+$\vec{b} = \begin{pmatrix} 472.2 \\ 279.4 \end{pmatrix} + t \cdot \begin{pmatrix} -6.4 \\ 45.2 \end{pmatrix}$
+---
+**2) Koordinaten des Schnittpunkts $S$**  
+- **Gleichungssystem:**  
+$\begin{cases}387 + 22t = 472.2 - 6.4s \\295 - 40t = 279.4 + 45.2s\end{cases}$
+- **Korrekte Lösung:**  
+  Multipliziere die erste Gleichung mit 45.2 und die zweite mit 6.4, um $s$ zu eliminieren:  
+$\begin{cases}45.2 \cdot 22t + 6.4 \cdot 40t = 45.2 \cdot (472.2 - 387) -6.4\cdot (295 - 279.4) \\\end{cases}$  
+  Berechnung ergibt:  
+$t \approx 1.92, \quad s \approx 5.63$
+- **Schnittpunkt $S$:**  
+$S = \begin{pmatrix} 387 + 22 \cdot 1.92 \\ 295 - 40 \cdot 1.92 \end{pmatrix} \approx (429.24, 218.2)$
+---
+**3) Spitzer Winkel $\alpha$**  
+- **Skalarprodukt:**  
+$\vec{u} \cdot \vec{v} = 22 \cdot (-6.4) + (-40) \cdot 45.2 = -1948.8$
+$|\vec{u}| = |\vec{v}| = \sqrt{2084} \approx 45.65$
+$\cos(\alpha) = \frac{1948.8}{2084} \approx 0.935 \quad \Rightarrow\quad \alpha \approx 20.3^\circ$
+---
+**4) Einheitsvektor von $\vec{v}$**  
+$\vec{v}_{\text{norm}} = \left( \frac{-6.4}{45.65}, \frac{45.2}{45.65} \right) \approx (-0.14, 0.99)$
+---
+
+### Nähmaschine
+**1) Geometrische Deutung von $EG = 0$**  
+- $E$ und $G$ sind identisch.
+**2) Länge des Fadens**  
+- **Strecken:**  
+$DE = \sqrt{(5-1)^2 + (18-10)^2} = \sqrt{80} \approx 8.94 \, \text{cm}, \quad EF = \sqrt{125} \approx 11.18 \, \text{cm}$
+- **Gesamtlänge:**  
+$DE + EF = 20.12 \, \text{cm}$
+---
+### Endergebnisse
+Gerade $b$:  
+$\vec{b} = \begin{pmatrix} 472.2 \\ 279.4 \end{pmatrix} + t \cdot \begin{pmatrix} -6.4 \\ 45.2 \end{pmatrix}$
+1. Schnittpunkt $S \approx (429.24, 218.2)$.  
+2. Spitzer Winkel $\alpha \approx 20.3^\circ$.  
+3. Einheitsvektor $\vec{v}_{\text{norm}} \approx (-0.14, 0.99)$.  
+4. Fadenlänge: **20.12 cm**.  
