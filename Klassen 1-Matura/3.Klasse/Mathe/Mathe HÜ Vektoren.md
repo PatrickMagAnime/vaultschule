@@ -1,4 +1,4 @@
-[[3.Mathe]]
+-[[3.Mathe]]
 ___
 ## Motor
 ### 1) Gleichung der Geraden $b$ in Parameterform
