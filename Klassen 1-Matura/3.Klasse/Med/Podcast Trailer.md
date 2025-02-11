@@ -5,8 +5,8 @@ Hintergrundmusik, Soundeffekte
 Vorstellung: Sprecher, Thema, W-Fragen
 1-2min
 
+Regie, Sprecher , Tonmeister
 ### Trailer
-
 **Intro-Musik: csgo lobby musik**
 
 **Sprecher**
