@@ -9,7 +9,7 @@ ___
 | 1       | Max Meier | 0123-456789, 0987-654321 |
 | 2       | Lisa Müller | 0123-111111          |
 
-**Problem:** Die Spalte "Telefonnummer" enthält mehrere Werte und ist somit nicht atomar.  
+**Problem:** Die Spalte "Telefonnummer" enthält mehrere Werte und ist somit nicht atomar.
 **Lösung (1NF-konform):**
 
 | KundeID | Name        | Telefonnummer   |
