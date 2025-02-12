@@ -6,7 +6,7 @@ From:fhlkrfwd@gmail.com
 To: company@gmail.com
 Subject: Project for Elden Ring
 
-Dear Manager of techtech electronics,
+Dear Manager of Techtech electronics,
 
 My name is Steven and last summer I worked as an intern in your company. I was wondering, if it is possible, to work on a big project idea that I developed on my own. My idea was to create something new that will help every gamer that is interested in computer games and is playing Elden-Ring all day.
 

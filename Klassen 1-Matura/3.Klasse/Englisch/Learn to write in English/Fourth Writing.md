@@ -6,7 +6,7 @@ Comment on Riley's blog-post
 By: Stefanius
 Time: 69:69
 
-Hi Riley, my name is Stefanius Pomparius and I recently came across your blog-post about farmers that get paid by people to help them on their farm. Your blog was very interesting and I can agree your assumption.
+Hi Riley, my name is Stefanius and I recently came across your blog-post about farmers that get paid by people to help them on their farm. Your blog was very interesting and I can agree your assumption.
 
 The first thing I want to mention is that working at a farm has a lot of benefits. People can learn how to handle other living beings and overall how farmers produce their products. For example milking a cow could be a very interesting experience. Moreover, at a farm you are basically urged to keep everything clean.
 
@@ -24,7 +24,7 @@ Comment on Riley's blog-post
 By: Stefanius
 Time: 69:69
 
-Hi Riley, my name is Stefanius Pomparius and I recently came across your blog-post about farmers who are paid by people to involve them in farm activities. Your blog was very interesting, and I can agree with your observation.
+Hi Riley, my name is Stefanius and I recently came across your blog-post about farmers who are paid by people to involve them in farm activities. Your blog was very interesting, and I can agree with your observation.
 
 The first thing I want to mention is that working at a farm has a lot of benefits. People can learn how to care for other living beings and how farmers produce their goods. For example, milking a cow could be a very interesting experience. Moreover, at a farm you are basically urged to keep everything clean.
 
