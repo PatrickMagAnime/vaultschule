@@ -9,7 +9,7 @@ Hey Lizzy, I am Stefanius and I recently came across your blog-post about your s
 
 One of the challenges you will definitely face is to find an actual chef-cook that prepares food locally. These cooks are very expensive to pay. You should rethink of a marketing strategy too. It can be very hard on the beginning to find the perfect workers for your shop. 
 
-Your shop should be very attractive. It should have a very colourful design that will spike instantly into peoples eyes. A shop that has an outstanding design is more likely visited by tourists too, so choose wisely how it will look like.
+Your shop should be very attractive. It should have a colourful design that will spike instantly into peoples eyes. A shop that has an outstanding design is more likely visited by tourists too, so choose wisely how it will look like.
 
 It can be suggested that you could promote your shop in assistance with other big companies that will contribute to your shop to gain attention. It should also have an own Social-Media account for advertising purposes. Advertisement is one of the most important things you should think of.
 
