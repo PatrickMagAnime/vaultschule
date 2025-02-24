@@ -73,3 +73,6 @@ F(−2)=(−2)44=164=4F(-2) = \frac{(-2)^4}{4} = \frac{16}{4} = 4
 $$\int_0^3 x^2 \,dx = \frac{2^4}{4}-\frac{(-2)^4}{4} = 0$$
 Da $t^3$ eine **ungerade Funktion** ist und das Intervall **symmetrisch** um $0$ liegt, heben sich die positiven und negativen Flächen auf. Daher ist das Integral **0**. 🎯
 ![[Pasted image 20250224121330.png]]
+___
+d)
+$$\int_2^0 x^2 \,dx = \frac{x^4}{4} (0 bis -2)=\frac{(-2)^4}{4}-\frac{0^4}{4} = -4$$
