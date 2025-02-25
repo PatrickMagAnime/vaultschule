@@ -15,7 +15,7 @@ Mit freundlichen Grüßen,
 Patrick Riedl
 ___
 
-T-Systemns (Keine Rückantwort) https://www.t-systems.com/at/de/unternehmen/karriere/dein-einstieg/studenten-und-absolventen/zum-praktikum
+T-Systemns (Abgelehnt) https://www.t-systems.com/at/de/unternehmen/karriere/dein-einstieg/studenten-und-absolventen/zum-praktikum
 
 Fonds Soziales Wien (Keine Rückmeldung) https://www.fsw.at/jobs/-Praktikum-de-f5230.html
 
@@ -38,4 +38,4 @@ Bosch (Abgelehnt) https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGrou
 Verbund (Keine Rückantwort) https://jobs.verbund.com/de/impressum
 
 
-
+3/11*-
