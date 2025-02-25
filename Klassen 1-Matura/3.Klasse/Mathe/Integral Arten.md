@@ -75,4 +75,14 @@ Da $t^3$ eine **ungerade Funktion** ist und das Intervall **symmetrisch** um $0$
 ![[Pasted image 20250224121330.png]]
 ___
 d)
-$$\int_2^0 x^2 \,dx = \frac{x^4}{4} (0 bis -2)=\frac{(-2)^4}{4}-\frac{0^4}{4} = -4$$
+$$\int_2^0 x^2 \,dx = \frac{x^3}{3} (0 bis -2)=\frac{(-2)^3}{3}-\frac{0^3}{3} = -4$$
+
+6.24
+a)
+
+$$\int_{-2}^1 e^x \,dx (1 bis -2)={e^1-e^{-2}}= 2,583$$
+
+f)
+$$ \int_0^{\frac{\pi}{2}} \sin(x) \,dx = \left[ -\cos(x) \right]_0^{\frac{\pi}{2}} = -\cos\left(\frac{\pi}{2}\right) + \cos(0) = -0 + 1 = 1 $$
+g)
+$$ \int_0^{\pi} \sin(t) \,dt = \left[ -\cos(t) \right]_0^{\pi} = -\cos(\pi) + \cos(0) = -(-1) + 1 = 1 + 1 = 2 $$

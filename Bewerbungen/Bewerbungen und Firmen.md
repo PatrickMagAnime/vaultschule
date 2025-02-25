@@ -21,7 +21,7 @@ Fonds Soziales Wien (Keine Rückmeldung) https://www.fsw.at/jobs/-Praktikum-de-f
 
 Tech Gate (Keine Rückantwort) https://www.techgate.at/databases/internet/_public/content30.nsf/web30?Openagent&id=DE_TECHGATE_AT_Kontakt&men1=3&sid=300
 
-Wiener Linien (Keine Rückmeldung) https://www.wienerlinien.at/praktikum
+Wiener Linien (Abgelehnt) https://www.wienerlinien.at/praktikum
 
 IBM (Abgelehnt) https://www.ibm.com/de-de/contact?lnk=flg-cont-dede
 
@@ -31,9 +31,11 @@ Strabag (Keine Rückmeldung) https://strabag.csod.com/ux/ats/careersite/2/requis
 
 ÖBB (Keine Rückmeldung) https://oebb.csod.com/ux/ats/careersite/4/requisition/21668/application?c=oebb&jobboardid=0#2
 
-Bosch (Keine Rückmeldung) https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/055e62b3-c003-47ee-a33d-63c8c1daa489/success?dcr_ci=BoschGroup&sid=2897ada5-c831-4fce-a5b7-4e5f01ecb702
+Bosch (Abgelehnt) https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGroup/publication/055e62b3-c003-47ee-a33d-63c8c1daa489/success?dcr_ci=BoschGroup&sid=2897ada5-c831-4fce-a5b7-4e5f01ecb702
 
 Östrerriechischer Rundfunk (Keine Rückmeldung) https://bewerbungen.orf.at/orf/zpbw3?~aus=12417
+
+Verbund (Keine Rückantwort) https://jobs.verbund.com/de/impressum
 
 
 
