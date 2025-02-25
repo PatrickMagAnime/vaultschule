@@ -82,7 +82,35 @@ a)
 
 $$\int_{-2}^1 e^x \,dx (1 bis -2)={e^1-e^{-2}}= 2,583$$
 
-f)
+f) Es ist in RAD!
 $$ \int_0^{\frac{\pi}{2}} \sin(x) \,dx = \left[ -\cos(x) \right]_0^{\frac{\pi}{2}} = -\cos\left(\frac{\pi}{2}\right) + \cos(0) = -0 + 1 = 1 $$
 g)
 $$ \int_0^{\pi} \sin(t) \,dt = \left[ -\cos(t) \right]_0^{\pi} = -\cos(\pi) + \cos(0) = -(-1) + 1 = 1 + 1 = 2 $$
+6.26
+a)
+$$\int_a^5 x*dx=12$$
+
+$$\int_a^5 x*dx=12=\left[ \frac{x^2}{2} \right]_{a}^5=\frac{5^2}{2}-\frac{a_{2}}{2}=\pm a=1$$
+
+b)
+$$\int_1^b \sqrt{ x }*dx=\frac{14}{3}$$
+$$
+\int_1^b \sqrt{x} \,dx = \left[ \frac{2}{3} x^{\frac{3}{2}} \right]_1^b  
+= \frac{2}{3} b^{\frac{3}{2}} - \frac{2}{3} \cdot 1^{\frac{3}{2}}  
+= \frac{2}{3} b^{\frac{3}{2}} - \frac{2}{3}
+$$
+$$
+\frac{2}{3} b^{\frac{3}{2}} - \frac{2}{3} = \frac{14}{3}
+$$
+$$
+\frac{2}{3} b^{\frac{3}{2}} = \frac{14}{3} + \frac{2}{3} = \frac{16}{3}
+$$
+$$
+b^{\frac{3}{2}} = 8
+$$
+$$
+b = 8^{\frac{2}{3}} = 4
+$$
+$$
+b = 4
+$$
