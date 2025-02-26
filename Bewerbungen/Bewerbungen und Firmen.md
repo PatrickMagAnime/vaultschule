@@ -38,4 +38,4 @@ Bosch (Abgelehnt) https://jobs.smartrecruiters.com/oneclick-ui/company/BoschGrou
 Verbund (Keine Rückantwort) https://jobs.verbund.com/de/impressum
 
 
-3/11*-
+3/11
