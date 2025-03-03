@@ -60,3 +60,7 @@ Der Liberalismus hat moderne Demokratien stark geprägt und steht für individue
 
 Die Kernfrage bleibt: **Wie viel Staat braucht eine freie Gesellschaft?** Während einige für möglichst wenig staatliche Eingriffe plädieren, sehen andere die Notwendigkeit von Regulierung und sozialer Absicherung. Diese Debatte ist bis heute relevant und beeinflusst politische Entscheidungen weltweit.  
 
+
+
+
+
