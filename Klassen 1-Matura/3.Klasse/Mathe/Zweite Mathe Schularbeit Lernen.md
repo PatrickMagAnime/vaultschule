@@ -45,8 +45,8 @@ ____
 #### SRDP Kraftstoffverbrauch
 ![[SRDP Kraftstoffverbrauch.png]]
 ____
-![[Pasted image 20250112170104.png]]
-![[Pasted image 20250112170123.png]]
+![[SRDP Kraftstoffverbrauch gerechnet.png.png]]
+![[SRDP Kraftstoffverbrauch gerechnet-2.png.png]]
 #### SRDP Epidemie
 ![[SRDP Epidemie.png]]
 ____
@@ -56,7 +56,7 @@ ____
 #### SRDP Grönlandwale
 ![[SRDP Grönlandwale.png]]
 ____
-![[Pasted image 20250112173251.png]]
+![[SRDP Grönlandwale gerechnet.png.png]]
 #### Scharniere (B_503)
 ![[Scharniere (B_503).png]]
 ____
