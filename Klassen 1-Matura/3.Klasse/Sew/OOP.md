@@ -1,6 +1,5 @@
 [[3.Sew]]
 ____
-
 ## Objekt Orientiertes Programmieren
 leer
 
