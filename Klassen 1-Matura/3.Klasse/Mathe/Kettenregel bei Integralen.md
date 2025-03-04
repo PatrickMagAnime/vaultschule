@@ -96,3 +96,40 @@ $\ln|\ln(x)| + C$
 ### Zusammenfassung
 
 Die Kettenregel und das Substitutionsverfahren sind nützliche Werkzeuge zur Berechnung von Integralen, insbesondere wenn Funktionen miteinander verschachtelt sind. Durch die Einführung neuer Variablen und die Anwendung der Kettenregel können komplexe Integrale vereinfacht und gelöst werden.
+
+## Aufgaben
+- 6.38 a
+- 6.37 b c
+- 6.45 a c
+![[Pasted image 20250304123118.png]]
+![[Pasted image 20250304123140.png]]
+![[Pasted image 20250304123154.png]]
+# Lösungen zu den Integralen
+
+## Aufgabe 6.38 a
+Berechne das Integral:  
+$$\int \frac{2}{2+x}dx$$  
+Lösung:  
+Setze $u = 2 + x$, dann ist $du = dx$.  
+$$\int \frac{2}{u} du = 2 \int \frac{1}{u} du = 2 \ln |u| + C = 2 \ln |2+x| + C$$  
+
+## Aufgabe 6.37 b
+Berechne das Integral:  
+$$\int (3+2x)^4dx$$  
+Lösung:  
+Substitution: $u = 3 + 2x \Rightarrow du = 2dx \Rightarrow dx = \frac{du}{2}$  
+$$\int u^4 \cdot \frac{du}{2} = \frac{1}{2} \int u^4 du = \frac{1}{2} \cdot \frac{u^5}{5} = \frac{(3+2x)^5}{10} + C$$  
+
+## Aufgabe 6.45 a
+Führe die Integration mit der vorgegebenen Substitution durch:  
+$$\int \frac{x}{x^2+1}dx, \quad u = x^2+1$$  
+Lösung:  
+Ableitung von $u$: $du = 2x dx \Rightarrow \frac{du}{2} = x dx$  
+$$\int \frac{x}{x^2+1}dx = \int \frac{1}{u} \cdot \frac{du}{2} = \frac{1}{2} \int \frac{1}{u} du = \frac{1}{2} \ln |u| + C = \frac{1}{2} \ln |x^2+1| + C$$  
+
+## Aufgabe 6.45 c
+Führe die Integration mit der vorgegebenen Substitution durch:  
+$$\int \frac{\cos x}{\sin x}dx, \quad u = \sin x$$  
+Lösung:  
+Ableitung von $u$: $du = \cos x dx$  
+$$\int \frac{\cos x}{\sin x}dx = \int \frac{1}{u} du = \ln |u| + C = \ln |\sin x| + C$$  
