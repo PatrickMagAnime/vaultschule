@@ -130,6 +130,6 @@ $$\int \frac{x}{x^2+1}dx = \int \frac{1}{u} \cdot \frac{du}{2} = \frac{1}{2} \in
 ## Aufgabe 6.45 c
 Führe die Integration mit der vorgegebenen Substitution durch:  
 $$\int \frac{\cos x}{\sin x}dx, \quad u = \sin x$$  
-Lösung:  
+Lösung:
 Ableitung von $u$: $du = \cos x dx$  
 $$\int \frac{\cos x}{\sin x}dx = \int \frac{1}{u} du = \ln |u| + C = \ln |\sin x| + C$$  
