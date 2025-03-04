@@ -29,7 +29,7 @@ B2 ^NBuUMKyR
 Amerikanische Unabhänigkeit ^IUXTk4er
 
 ## Embedded Files
-398acc0c19ea1077ba413821833ae308ea9a53e4: [[image.png]]
+398acc0c19ea1077ba413821833ae308ea9a53e4: [[dritte klasse Inhaltsverzeichniss ggp.png]]
 
 %%
 ## Drawing

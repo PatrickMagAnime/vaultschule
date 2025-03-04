@@ -1,7 +1,7 @@
 ___
 ## First Try
-![[Pasted image (2).png]]
-![[Pasted image 20250119200658.png]]
+![[Dritte Klasse Erste Englisch SA 1-2.png]]
+![[Dritte Klasse Erste Englisch SA 2-2.png]]
 ## Improvement
 Are internships a good thing?
 

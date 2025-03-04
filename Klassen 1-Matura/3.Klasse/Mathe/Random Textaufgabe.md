@@ -1,3 +1,3 @@
 [[3.Mathe]]
 ____
-![[Random textaufgabe.png]]
+![[mathebuch 4.54 - 4.55.png]]

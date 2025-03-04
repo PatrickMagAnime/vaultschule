@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-a81762b69c4fe60fb767b73a01886a1da84144f6: [[image_1.png]]
+a81762b69c4fe60fb767b73a01886a1da84144f6: [[AB-Die entstehung der USA.png]]
 
 %%
 ## Drawing

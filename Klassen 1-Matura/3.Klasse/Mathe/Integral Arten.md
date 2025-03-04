@@ -26,7 +26,7 @@ Kurz gesagt: **Das Ableiten und Integrieren sind Umkehrprozesse**.
 
 ### Übungen
 $\int x^2 dx=$
-![[Pasted image 20250224115921.png]]
+![[Random Integral Bild2.png]]
 
 Der **Hauptsatz der Differential- und Integralrechnung** verbindet Integration und Differentiation. Hier berechnen wir das bestimmte Integral:
 
@@ -72,7 +72,7 @@ F(−2)=(−2)44=164=4F(-2) = \frac{(-2)^4}{4} = \frac{16}{4} = 4
 
 $$\int_0^3 x^2 \,dx = \frac{2^4}{4}-\frac{(-2)^4}{4} = 0$$
 Da $t^3$ eine **ungerade Funktion** ist und das Intervall **symmetrisch** um $0$ liegt, heben sich die positiven und negativen Flächen auf. Daher ist das Integral **0**. 🎯
-![[Pasted image 20250224121330.png]]
+![[Random Integral Bild.png]]
 ___
 d)
 $$\int_2^0 x^2 \,dx = \frac{x^3}{3} (0 bis -2)=\frac{(-2)^3}{3}-\frac{0^3}{3} = -4$$

@@ -1,5 +1,5 @@
 ### Tasks
-![[Pasted image 20250123103151.png]]
+![[English Blogpost Task1.png]]
 #### First try
 The only way to make something eco-friendly
 

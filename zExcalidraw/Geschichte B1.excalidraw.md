@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-cf87955876cf247a168ebbfa6953af5f3b2d4c74: [[image_0.png]]
+cf87955876cf247a168ebbfa6953af5f3b2d4c74: [[Geschichte der Menschenrechtee.png]]
 
 %%
 ## Drawing
