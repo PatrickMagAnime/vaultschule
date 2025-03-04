@@ -101,9 +101,9 @@ Die Kettenregel und das Substitutionsverfahren sind nützliche Werkzeuge zur Ber
 - 6.38 a
 - 6.37 b c
 - 6.45 a c
-![[Pasted image 20250304123118.png]]
-![[Pasted image 20250304123140.png]]
-![[Pasted image 20250304123154.png]]
+![[mathebuch 6.38.png]]
+![[mathebuch 6.37.png]]
+![[mathebuch 6.45.png]]
 # Lösungen zu den Integralen
 
 ## Aufgabe 6.38 a

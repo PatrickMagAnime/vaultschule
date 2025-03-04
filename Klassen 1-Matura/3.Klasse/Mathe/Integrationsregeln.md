@@ -5,7 +5,7 @@ ___
 - 6.30 a,b,e,g,h
 - 6.31 a,c
 
-![[Pasted image 20250303120110.png]]
+![[mathebuch 6.28 - 6.29 - 6.30 - 6.31.png]]
 [[3.Mathe]]
 ___
 # Integrale berechnen  

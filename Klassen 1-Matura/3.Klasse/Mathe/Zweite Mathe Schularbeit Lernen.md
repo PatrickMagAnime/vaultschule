@@ -1,47 +1,47 @@
 [[3.Mathe]]
 ____
 ### *Schularbeitsstoff*
-![[Pasted image 20250107120551.png]]
+![[Dritte Klasse Zweite Schularbeitsstoff.png]]
 [[Kurvendiskussion]] [[Umgekehrte Kurvendiskussion]] [[Kostenfunktionen usw.]]
 ## Übungsdurchführung
 
 #### Übung 1 
 ![[zweite mathe sa dritte klasse ü1.png]]
 ____
-![[Pasted image 20250111232358.png]]
+![[3klasse 2sa ü1.png]]
 #### Übung 2
 ![[zweite mathe sa dritte klasse ü2.png]]
 ____
-![[Pasted image 20250108121402.png]]
+![[3klasse 2sa ü2.png.png]]
 #### Übung 3
 ![[zweite mathe sa dritte klasse ü3.png]]
 ____
-![[Pasted image 20250108121327.png]]
+![[3klasse 2sa ü3.png.png]]
 #### Übung 4
 ![[zweite mathe sa dritte klasse ü4.png]]
 ____
-![[Pasted image 20250108121426.png]]
+![[3klasse 2sa ü4.png.png]]
 #### Übung 5
 ![[zweite mathe sa dritte klasse ü5.png]]
 ____
-![[Pasted image 20250108121508.png]]
+![[3klasse 2sa ü5.png.png]]
 #### Übung 6
 ![[zweite mathe sa dritte klasse ü6.png]]
 ____
-![[Pasted image 20250111235036.png]] 
+![[3klasse 2sa ü6.png.png]] 
 #### Übung 7
 ![[zweite mathe sa dritte klasse ü7.png]]
 ____
-![[Pasted image 20250112164438.png]]
-![[Pasted image 20250112164459.png]]
+![[3klasse 2sa ü7.png.png]]
+![[3klasse 2sa ü7-2.png.png]]
 #### SRDP Fußball spielen im Park
 ![[SRDP Fußballspielen im Park.png]]
 ____
-![[Pasted image 20250108121617.png]]
+![[SRDP Fußballspielen im Park gerechnet.png.png]]
 #### SRDP Ganzkörperhyperthermie
 ![[SRDP Ganzkörperhyperthermie.png]]
 ____
-![[Pasted image 20250108121732.png]]
+![[SRDP Ganzkörperhyperthermie gerechnet.png.png]]
 #### SRDP Kraftstoffverbrauch
 ![[SRDP Kraftstoffverbrauch.png]]
 ____

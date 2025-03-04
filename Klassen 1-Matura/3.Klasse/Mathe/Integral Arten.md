@@ -9,7 +9,7 @@ Graphisch: Unbestimmtes Integral
 f(x)=x     F(x)=$\frac{x^2}{2}+C$ Kann daher unendlich vieöle möglichkeiten haben.
 
 ## Grund
-![[Pasted image 20250224114710.png]]
+![[mathebuch grundintegrale.png]]
 
 ### Hauptsatz
 Der **Hauptsatz der Differential- und Integralrechnung** verbindet Ableitungen und Integrale. Er besteht aus zwei Teilen:
