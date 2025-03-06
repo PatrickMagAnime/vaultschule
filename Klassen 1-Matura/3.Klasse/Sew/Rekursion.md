@@ -130,7 +130,3 @@ public class FibonacciIterativ {
 
 - **Leistungsverlust**: Jeder rekursive Aufruf benötigt zusätzlichen Speicherplatz auf dem Stapelspeicher (Stack), was zu einem Stack Overflow führen kann, wenn die Rekursion zu tief wird.
 - **Schwieriger zu debuggen**: Rekursive Aufrufe können es schwieriger machen, den Programmablauf zu verfolgen und Fehler zu finden.
-
-## Fazit
-
-Rekursion ist ein mächtiges Werkzeug in der Programmierung, das es ermöglicht, komplexe Probleme auf elegante und intuitive Weise zu lösen. Es ist jedoch wichtig, die Vor- und Nachteile zu kennen und die geeignete Methode (rekursiv oder iterativ) je nach Problemstellung und Ressourcenanforderungen zu wählen.
