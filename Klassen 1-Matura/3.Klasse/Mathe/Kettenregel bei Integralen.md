@@ -99,7 +99,7 @@ Die Kettenregel und das Substitutionsverfahren sind nützliche Werkzeuge zur Ber
 
 ## Aufgaben
 - 6.38 a
-- 6.37 b c
+- 6.37 b c d e
 - 6.45 a c
 ![[mathebuch 6.38.png]]
 ![[mathebuch 6.37.png]]
@@ -119,6 +119,24 @@ $$\int (3+2x)^4dx$$
 Lösung:  
 Substitution: $u = 3 + 2x \Rightarrow du = 2dx \Rightarrow dx = \frac{du}{2}$  
 $$\int u^4 \cdot \frac{du}{2} = \frac{1}{2} \int u^4 du = \frac{1}{2} \cdot \frac{u^5}{5} = \frac{(3+2x)^5}{10} + C$$  
+### Aufgabe d:
+$$I = \int \frac{1}{\sqrt{1 - x}} \,dx$$  
+Setze \( u = 1 - x \Rightarrow du = -dx \):  
+$$I = \int \frac{-du}{\sqrt{u}} = - \int u^{-\frac{1}{2}} \, du$$  
+Integriere:  
+$$= - \frac{u^{\frac{1}{2}}}{\frac{1}{2}} + C = - 2\sqrt{u} + C$$  
+Rücksubstitution \( u = 1 - x \):  
+$$I = -2\sqrt{1 - x} + C$$  
+
+### Aufgabe e:
+$$I = \int (5z - 2)^2 \,dz$$  
+Multipliziere aus:  
+$$= \int (25z^2 - 20z + 4) \, dz$$  
+Integriere termweise:  
+$$= 25 \frac{z^3}{3} - 20 \frac{z^2}{2} + 4z + C$$  
+Vereinfache:  
+$$= \frac{25}{3} z^3 - 10z^2 + 4z + C$$  
+
 
 ## Aufgabe 6.45 a
 Führe die Integration mit der vorgegebenen Substitution durch:  
