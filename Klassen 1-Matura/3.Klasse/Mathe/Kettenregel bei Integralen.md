@@ -151,3 +151,4 @@ $$\int \frac{\cos x}{\sin x}dx, \quad u = \sin x$$
 Lösung:
 Ableitung von $u$: $du = \cos x dx$  
 $$\int \frac{\cos x}{\sin x}dx = \int \frac{1}{u} du = \ln |u| + C = \ln |\sin x| + C$$  
+![[mathebuch 6.42 & 6.43.png]]
