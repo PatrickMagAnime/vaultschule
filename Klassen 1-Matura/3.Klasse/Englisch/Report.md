@@ -1,7 +1,5 @@
 From: patrick@gmail.com
-
 To: boss@gmail.com
-
 Date: 10.3.25
 
 **Where most people get their news**
