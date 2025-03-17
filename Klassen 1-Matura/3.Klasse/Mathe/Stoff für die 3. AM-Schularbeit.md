@@ -3,151 +3,151 @@
 ## Vektorrechnung (aus den Büchern)
 ![[Vektor A nach B.png]]
 ![[Jeder der folgenden Aufgaben.png]]
-![[Pasted image 20250317112220.png]]
+![[Mathe Buch Nummer 7.5.png]]
 
-![[Pasted image 20250317112233.png]]
+![[Mathe Buch Nummer 7.6.png]]
 
-![[Pasted image 20250317112245.png]]
+![[Mathe Buch Nummer 7.7.png]]
 
-![[Pasted image 20250317112259.png]]
+![[Mathe Buch Nummer 7.8.png]]
 
-![[Pasted image 20250317112313.png]]
+![[Mathe Buch Nummer 7.9.png]]
 
-![[Pasted image 20250317112321.png]]
+![[Mathe Buch Nummer 7.10.png]]
 
-![[Pasted image 20250317112333.png]]
+![[Mathe Buch Nummer 7.11.png]]
 
-![[Pasted image 20250317112350.png]]
-![[Pasted image 20250317112411.png]]
+![[Der Betrag de Vektors.png]]
+![[Mathe Buch Nummer 7.12.png]]
 
-![[Pasted image 20250317112425.png]]
+![[Mathe Buch Nummer 7.13.png]]
 
-![[Pasted image 20250317112436.png]]
+![[Mathe Buch Nummer 7.14.png]]
 
-![[Pasted image 20250317112451.png]]
+![[Mathe Buch Nummer 7.15.png]]
 
-![[Pasted image 20250317112458.png]]
+![[Mathe Buch Nummer 7.16.png]]
 
-![[Pasted image 20250317112508.png]]
+![[Mathe Buch Nummer 7.17.png]]
 
-![[Pasted image 20250317112550.png]]
+![[Mathe Buch Nummer 7.18.png]]
 
-![[Pasted image 20250317112556.png]]
+![[Mathe Buch Nummer 7.19.png]]
 
-![[Pasted image 20250317112611.png]]
+![[Mathe Buch Nummer 7.20.png]]
 
-![[Pasted image 20250317112622.png]]
+![[Mathe Buch Nummer 7.21.png]]
 
-![[Pasted image 20250317112633.png]]
+![[Mathe Buch Nummer 7.22.png]]
 
-![[Pasted image 20250317112646.png]]
-![[Pasted image 20250317112659.png]]
+![[Vektoren addieren und subtrahieren.png]]
+![[Mathe Buch Nummer 7.28.png]]
 
-![[Pasted image 20250317112738.png]]
+![[Mathe Buch Nummer 7.29.png]]
 
-![[Pasted image 20250317112748.png]]
+![[Mathe Buch Nummer 7.30.png]]
 
-![[Pasted image 20250317112814.png]]
+![[Mathe Buch Nummer 7.31.png]]
 
-![[Pasted image 20250317112831.png]]
+![[Mathe Buch Nummer 7.34.png]]
 
-![[Pasted image 20250317112840.png]]
+![[Mathe Buch Nummer 7.35.png]]
 
-![[Pasted image 20250317112853.png]]
+![[Mathe Buch Nummer 7.36.png]]
 
-![[Pasted image 20250317112908.png]]
-![[Pasted image 20250317112922.png]]
+![[Mathe Buch Nummer 7.26.png]]
+![[Mathe Buch Nummer 7.37.png]]
 
-![[Pasted image 20250317112938.png]]
+![[Mathe Buch Nummer 7.38.png]]
 
-![[Pasted image 20250317112953.png]]
+![[Mathe Buch Nummer 7.39.png]]
 
-![[Pasted image 20250317113005.png]]
+![[Mathe Buch Nummer 7.49.png]]
 
-![[Pasted image 20250317113014.png]]
+![[Mathe Buch Nummer 7.50.png]]
 
-![[Pasted image 20250317113022.png]]
+![[Mathe Buch Nummer 7.51.png]]
 
-![[Pasted image 20250317113035.png]]
+![[Mathe Buch Nummer 7.52.png]]
 
-![[Pasted image 20250317113048.png]]
+![[Mathe Buch Nummer 7.53.png]]
 
-![[Pasted image 20250317113102.png]]
+![[Mathe Buch Nummer 7.55.png]]
 
-![[Pasted image 20250317113112.png]]
+![[Mathe Buch Nummer 7.56.png]]
 
-![[Pasted image 20250317113141.png]]
+![[Mathe Buch Nummer 7.57.png]]
 
-![[Pasted image 20250317113152.png]]
-![[Pasted image 20250317113209.png]]
+![[Einheitsvektor Normalvektor und Winkel errechnen.png]]
+![[Mathe Buch Nummer 8.38.png]]
 
-![[Pasted image 20250317113219.png]]
+![[Mathe Buch Nummer 8.39.png]]
 
-![[Pasted image 20250317113229.png]]
+![[Mathe Buch Nummer 8.40.png]]
 
-![[Pasted image 20250317113242.png]]
+![[Mathe Buch Nummer 8.47.png]]
 
-![[Pasted image 20250317113254.png]]
-![[Pasted image 20250317113314.png]]
+![[Parameterdarstellung einer Geraden.png]]
+![[Mathe Buch Nummer 9.25.png]]
 
-![[Pasted image 20250317113327.png]]
+![[Mathe Buch Nummer 9.26.png]]
 
-![[Pasted image 20250317113335.png]]
+![[Mathe Buch Nummer 9.27.png]]
 
-![[Pasted image 20250317113346.png]]
+![[Mathe Buch Nummer 9.28.png]]
 
-![[Pasted image 20250317113411.png]]
+![[Mathe Buch Nummer 9.29.png]]
 
-![[Pasted image 20250317113424.png]]
+![[Mathe Buch Nummer 9.37.png]]
 
-![[Pasted image 20250317113442.png]]
+![[Mathe Buch Nummer 9.44.png]]
 
-![[Pasted image 20250317113453.png]]
-![[Pasted image 20250317113502.png]]
+![[Vektoren Skalarprodukt.png]]
+![[Mathe Buch Nummer 9.61.png]]
 
-![[Pasted image 20250317113513.png]]
+![[Mathe Buch Nummer 9.62.png]]
 
-![[Pasted image 20250317113522.png]]
+![[Mathe Buch Nummer 9.63.png]]
 
-![[Pasted image 20250317113532.png]]
+![[Mathe Buch Nummer 9.64.png]]
 
-![[Pasted image 20250317113544.png]]
+![[Mathe Buch Nummer 9.65.png]]
 
-![[Pasted image 20250317113556.png]]
+![[Mathe Buch Nummer 9.66.png]]
 
-![[Pasted image 20250317113606.png]]
-![[Pasted image 20250317113616.png]]
+![[Parameterdarstellung einer Ebene und Normalvektoren.png]]
+![[Mathe Buch Nummer 9.87.png]]
 
-![[Pasted image 20250317113630.png]]
+![[Mathe Buch Nummer 9.88.png]]
 
-![[Pasted image 20250317113643.png]]
+![[Mathe Buch Nummer 9.89.png]]
 
-![[Pasted image 20250317113651.png]]
+![[Mathe Buch Nummer 9.90.png]]
 
-![[Pasted image 20250317113707.png]]
+![[Mathe Buch Nummer 9.91.png]]
 
-![[Pasted image 20250317113721.png]]
+![[Mathe Buch Nummer 9.92.png]]
 
-![[Pasted image 20250317113733.png]]
+![[Mathe Buch Nummer 9.93.png]]
 
-![[Pasted image 20250317113742.png]]
+![[Mathe Buch Nummer 9.94.png]]
 
-![[Pasted image 20250317113753.png]]
+![[Mathe Buch Nummer 9.95.png]]
 
-![[Pasted image 20250317113801.png]]
+![[Mathe Buch Nummer 9.96.png]]
 
-![[Pasted image 20250317113811.png]]
+![[Mathe Buch Nummer 9.97.png]]
 
-![[Pasted image 20250317113826.png]]
+![[Mathe Buch Nummer 9.99.png]]
 
-![[Pasted image 20250317113836.png]]
+![[Mathe Buch Nummer 9.100.png]]
 
-![[Pasted image 20250317113848.png]]
+![[Mathe Buch Nummer 9.104.png]]
 
-![[Pasted image 20250317113904.png]]
+![[Mathe Buch Nummer 9.105.png]]
 
-![[Pasted image 20250317113919.png]]
+![[Mathe Buch Nummer 9.108.png]]
 
-![[Pasted image 20250317113928.png]]
+![[Mathe Buch Nummer 9.109.png]]
 
-![[Pasted image 20250317113939.png]]
+![[Mathe Buch Nummer 9.110.png]]
