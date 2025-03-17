@@ -26,7 +26,7 @@ https://youtu.be/2DZ4eW5u8sU?si=J0MzLYwcr1tSNoQl
 
 Die Metapher der **unsichtbaren Hand** stammt vom schottischen Ökonomen **Adam Smith**. Sie beschreibt, wie das individuelle Streben nach eigenem Vorteil automatisch zu einem Nutzen für die Gesellschaft führt.
 
-### **Grundprinzip**
+### **Grundprinzip-**
 
 Adam Smith erklärt in seinem Werk _The Wealth of Nations_, dass Menschen nicht aus altruistischen Gründen arbeiten, sondern aus eigenem Interesse. Ein Bäcker backt nicht, um die Gesellschaft mit Brot zu versorgen, sondern um seinen Lebensunterhalt zu verdienen. Doch durch diese Arbeit erfüllt er gleichzeitig die Bedürfnisse seiner Kundschaft.
 
