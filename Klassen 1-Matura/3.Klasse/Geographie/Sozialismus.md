@@ -58,3 +58,4 @@ Ein Land betreibt eine **sozialistische Wirtschaft**:
 Der **Sozialismus** strebt eine **gerechte Gesellschaft ohne große wirtschaftliche Unterschiede** an, indem er Produktion und Verteilung von Gütern zentral organisiert.
 
 Während der Sozialismus **soziale Sicherheit und Gleichheit** fördert, wird er oft dafür kritisiert, dass er **wirtschaftlich ineffizient sein kann** und **zu starker staatlicher Kontrolle führt**.
+
