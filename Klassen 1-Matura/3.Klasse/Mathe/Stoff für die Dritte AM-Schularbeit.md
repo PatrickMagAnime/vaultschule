@@ -4,6 +4,12 @@
 ![[Vektor A nach B.png]]
 ![[Jeder der folgenden Aufgaben.png]]
 ![[Mathe Buch Nummer 7.5.png]]
+# a)
+A=(4|1), B=(6|4), C=(0|5)
+# b)
+A=(6|3), B=(8|6), C=(2|7)
+# c)
+A=(1|4), B=(3|7), C=(-3|8) 
 
 ![[Mathe Buch Nummer 7.6.png]]
 
