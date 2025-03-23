@@ -12,58 +12,58 @@ A=(6|3), B=(8|6), C=(2|7)
 A=(1|4), B=(3|7), C=(-3|8)
 
 ![[Mathe Buch Nummer 7.6.png]]
-
+fin
 ![[Mathe Buch Nummer 7.7.png]]
-
+10
 ![[Mathe Buch Nummer 7.8.png]]
-
+fin
 ![[Mathe Buch Nummer 7.9.png]]
-
+fin
 ![[Mathe Buch Nummer 7.10.png]]
-
+fin
 ![[Mathe Buch Nummer 7.11.png]]
-
+s=a+b+c/2, A=s(s-a)(s-b)(s-c) fin
 ![[Der Betrag de Vektors.png]]
 ![[Mathe Buch Nummer 7.12.png]]
-
+fin
 ![[Mathe Buch Nummer 7.13.png]]
-
+fin
 ![[Mathe Buch Nummer 7.14.png]]
-
+fin
 ![[Mathe Buch Nummer 7.15.png]]
-
+fin
 ![[Mathe Buch Nummer 7.16.png]]
-
+fin
 ![[Mathe Buch Nummer 7.17.png]]
-
+fin
 ![[Mathe Buch Nummer 7.18.png]]
-
+fin
 ![[Mathe Buch Nummer 7.19.png]]
-
+fin
 ![[Mathe Buch Nummer 7.20.png]]
-
+fin
 ![[Mathe Buch Nummer 7.21.png]]
-
+fin
 ![[Mathe Buch Nummer 7.22.png]]
-
+fin
 ![[Vektoren addieren und subtrahieren.png]]
 ![[Mathe Buch Nummer 7.28.png]]
-
+fin
 ![[Mathe Buch Nummer 7.29.png]]
-
+fin
 ![[Mathe Buch Nummer 7.30.png]]
-
+fin
 ![[Mathe Buch Nummer 7.31.png]]
-
+fin
 ![[Mathe Buch Nummer 7.34.png]]
-
+fin
 ![[Mathe Buch Nummer 7.35.png]]
-
+ouchnxulimrihfnrdjskdghionslgijskg
 ![[Mathe Buch Nummer 7.36.png]]
-
+fin
 ![[Mathe Buch Nummer 7.26.png]]
 ![[Mathe Buch Nummer 7.37.png]]
-
+was zu öhlle ist das
 ![[Mathe Buch Nummer 7.38.png]]
 
 ![[Mathe Buch Nummer 7.39.png]]
