@@ -1,5 +1,4 @@
 ![[Dritte Zweite Mathe SA.png]]
-
 ## Vektorrechnung (aus den Büchern)
 ![[Vektor A nach B.png]]
 ![[Jeder der folgenden Aufgaben.png]]
