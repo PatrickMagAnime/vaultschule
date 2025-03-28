@@ -1,0 +1,13 @@
+## 12 Spezialkabel
+## 12.1 Marinekabel
+## 12.2 Solarkabel
+## 12.3 Hochspannungskabel
+## 12.4 Niederspannungskabel
+## 12.5 Mittelspannungskabel
+## 12.6 LWL-Kabel
+## 12.7 Hybridkabel
+## 12.8 Antennenkabel
+## 12.9 Beleuchtungskabel
+## 12.10 Heizkabel
+## 12.11 Steuerkabel
+## 12.12 Verbindungskabel

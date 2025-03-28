@@ -1,0 +1,21 @@
+## 5 Elektro- und Industriekabel
+## 5.1 Steuerleitungen
+## 5.2 Ölflex-Kabel
+## 5.3 Gummischlauchleitungen
+## 5.4 PVC-Schlauchleitungen
+## 5.5 PUR-Schlauchleitungen
+## 5.6 Silikon-Schlauchleitungen
+## 5.7 Busleitungen
+## 5.8 Servoleitungen
+## 5.9 Motoranschlussleitungen
+## 5.10 Heizungskabel
+## 5.11 Robotikkabel
+## 5.12 Sensorleitungen
+## 5.13 Aktuatorleitungen
+## 5.14 Datenleitungen
+## 5.15 Ethernetleitungen
+## 5.16 Profibus-Leitungen
+## 5.17 CAN-Bus-Leitungen
+## 5.18 AS-Interface-Leitungen
+## 5.19 Torsionsleitungen
+## 5.20 Schleppkettenleitungen
