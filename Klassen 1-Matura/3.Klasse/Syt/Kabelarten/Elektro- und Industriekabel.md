@@ -4,8 +4,6 @@ Elektro- und Industriekabel sind Kabeltypen, die speziell für die Stromversorgu
 
 ## 5.1 Steuerleitungen
 
-*5.1 Steuerleitungen*
-
 Steuerleitungen sind speziell entwickelte Kabel, die zur Übertragung von Steuer-, Mess- und Regelimpulsen in der Automatisierungs- und Steuerungstechnik verwendet werden. Sie sind in der Regel mehradrig und flexibel, um den Anforderungen in industriellen Umgebungen gerecht zu werden.
 
 ### 5.1.1 ÖLFLEX Classic 110
