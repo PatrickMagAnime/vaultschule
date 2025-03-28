@@ -1,6 +1,9 @@
-## 5 Elektro- und Industriekabel
+# 5 Elektro- und Industriekabel
+
 Elektro- und Industriekabel sind Kabeltypen, die speziell für die Stromversorgung und die industrielle Anwendung konzipiert sind. Sie sind robust und für den Einsatz in verschiedenen Umgebungen geeignet, von Haushalten über Fabriken bis hin zu rauen Außenbedingungen.
+
 ## 5.1 Steuerleitungen
+
 *5.1 Steuerleitungen*
 
 Steuerleitungen sind speziell entwickelte Kabel, die zur Übertragung von Steuer-, Mess- und Regelimpulsen in der Automatisierungs- und Steuerungstechnik verwendet werden. Sie sind in der Regel mehradrig und flexibel, um den Anforderungen in industriellen Umgebungen gerecht zu werden.
@@ -29,7 +32,6 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
-
 
 ### 5.1.2 YSLY-JZ
 
@@ -78,7 +80,9 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.2 Ölflex-Kabel
+
 *5.2 Ölflex-Kabel*
 
 Ölflex-Kabel sind flexible Steuer- und Anschlussleitungen, die speziell für den Einsatz in industriellen Umgebungen entwickelt wurden. Sie sind bekannt für ihre Beständigkeit gegen Öle, chemische Einflüsse und mechanische Belastungen.
@@ -108,7 +112,6 @@ Spezifikationen:
 Zertifizierungen:
 - VDE, CE, RoHS.
 
-
 ### 5.2.2 ÖLFLEX 540 P
 
 **ÖLFLEX 540 P Kabel** sind hochflexible Steuerleitungen mit einer Polyurethan (PUR) Außenmantel, die besonders beständig gegen Abrieb, Schnitte und chemische Einflüsse sind. Sie eignen sich für anspruchsvolle industrielle Anwendungen, bei denen eine hohe mechanische Belastbarkeit erforderlich ist.
@@ -134,7 +137,6 @@ Spezifikationen:
 Zertifizierungen:
 - VDE, CE, RoHS.
 
-
 ### 5.2.3 ÖLFLEX Robot 900 P
 
 **ÖLFLEX Robot 900 P Kabel** sind hochflexible Steuerleitungen, die speziell für den Einsatz in Industrierobotern und Handlingssystemen entwickelt wurden. Sie sind besonders beständig gegen Torsions- und Biegebeanspruchungen sowie gegen Öle und chemische Einflüsse.
@@ -159,6 +161,7 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.3 Gummischlauchleitungen
 
 Gummischlauchleitungen sind flexible Kabel, die für den Einsatz in anspruchsvollen Umgebungen konzipiert sind. Sie zeichnen sich durch ihre hohe Beständigkeit gegen mechanische Belastungen, Abrieb, Feuchtigkeit und Chemikalien aus.
@@ -237,8 +240,8 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.4 PVC-Schlauchleitungen
-### 5.4 PVC-Schlauchleitungen
 
 PVC-Schlauchleitungen sind flexible Kabel, die in einer Vielzahl von Anwendungen eingesetzt werden. Sie sind bekannt für ihre gute Isolierungseigenschaft, Flexibilität und Beständigkeit gegen chemische Einflüsse.
 
@@ -316,8 +319,8 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.5 PUR-Schlauchleitungen
-### 5.5 PUR-Schlauchleitungen
 
 PUR-Schlauchleitungen (Polyurethan-Schlauchleitungen) sind Kabel, die für ihre hohe Flexibilität, Abriebfestigkeit und Beständigkeit gegen mechanische Beanspruchungen bekannt sind. Sie eignen sich hervorragend für Anwendungen in rauen Umgebungen und bei hohen mechanischen Belastungen.
 
@@ -395,8 +398,8 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.6 Silikon-Schlauchleitungen
-### 5.6 Silikon-Schlauchleitungen
 
 Silikon-Schlauchleitungen sind flexible Kabel, die für ihre hohe Temperaturbeständigkeit und Flexibilität bekannt sind. Sie eignen sich hervorragend für Anwendungen in extremen Temperaturbereichen und sind beständig gegen viele Chemikalien.
 
@@ -474,8 +477,8 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.7 Busleitungen
-### 5.7 Busleitungen
 
 Busleitungen sind Kabel, die speziell für die Datenübertragung in Bus-Systemen entwickelt wurden. Sie sind bekannt für ihre hohe Übertragungsrate, Zuverlässigkeit und Beständigkeit gegen elektromagnetische Störungen.
 
@@ -553,16 +556,1030 @@ Spezifikationen:
 
 Zertifizierungen:
 - VDE, CE, RoHS.
+
 ## 5.8 Servoleitungen
+
+Servoleitungen sind speziell entwickelte Kabel für den Einsatz in Servo-Antriebssystemen. Sie zeichnen sich durch ihre hohe Flexibilität, Abschirmung und Beständigkeit gegen elektromagnetische Störungen aus.
+
+### 5.8.1 ÖLFLEX SERVO FD 796 CP
+
+**ÖLFLEX SERVO FD 796 CP Kabel** sind hochflexible Servoleitungen, die speziell für den Einsatz in Schleppketten und beweglichen Maschinenteilen entwickelt wurden. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 15,00 Euro pro Meter, abhängig von Querschnitt und Konfiguration.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Orange.
+
+Anwendungsbereich:
+- Servo-Antriebssysteme, CNC-Maschinen, Robotik.
+
+Spezifikationen:
+- Querschnitte von 0,5 mm² bis 50 mm², Nennspannung 600/1000 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.8.2 ÖLFLEX SERVO 2YSLCY-JB
+
+**ÖLFLEX SERVO 2YSLCY-JB Kabel** sind abgeschirmte Servoleitungen, die speziell für den Einsatz zwischen Frequenzumrichter und Motor entwickelt wurden. Sie sind besonders beständig gegen elektromagnetische Störungen und haben eine niedrige Kapazität.
+
+Kosten:
+- Typischerweise zwischen 3,50 und 12,00 Euro pro Meter, abhängig von Querschnitt und Konfiguration.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PVC-Mantel und doppelter Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Orange oder Schwarz.
+
+Anwendungsbereich:
+- Servo-Antriebssysteme, Frequenzumrichter, Industrieautomation.
+
+Spezifikationen:
+- Querschnitte von 1,5 mm² bis 95 mm², Nennspannung 600/1000 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.8.3 ÖLFLEX CLASSIC 115 CY
+
+**ÖLFLEX CLASSIC 115 CY Kabel** sind abgeschirmte Steuer- und Servoleitungen, die für den Einsatz in industriellen Umgebungen mit elektromagnetischen Störungen geeignet sind. Sie bieten eine gute Flexibilität und Abschirmung gegen elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 2,00 und 8,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau.
+
+Anwendungsbereich:
+- Steuerungs- und Regeltechnik, Servo-Antriebssysteme, industrielle Automatisierung.
+
+Spezifikationen:
+- Querschnitte von 0,5 mm² bis 16 mm², Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
 ## 5.9 Motoranschlussleitungen
+
+Motoranschlussleitungen sind speziell entwickelte Kabel für die Verbindung von Motoren mit Steuereinheiten oder Stromversorgungen. Sie zeichnen sich durch ihre Belastbarkeit, Temperaturbeständigkeit und Abschirmung aus.
+
+### 5.9.1 ÖLFLEX CLASSIC 100 CY
+
+**ÖLFLEX CLASSIC 100 CY Kabel** sind abgeschirmte Motoranschlussleitungen, die für den Einsatz zwischen Frequenzumrichter und Motor sowie anderen Antriebssystemen geeignet sind. Sie bieten eine gute Abschirmung gegen elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 2,50 und 10,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau.
+
+Anwendungsbereich:
+- Motoranschlüsse, Frequenzumrichter, industrielle Antriebssysteme.
+
+Spezifikationen:
+- Querschnitte von 0,5 mm² bis 120 mm², Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
+### 5.9.2 ÖLFLEX VFD 2XL
+
+**ÖLFLEX VFD 2XL Kabel** sind spezielle Motoranschlussleitungen für Variable-Frequency Drives (VFD), die besonders beständig gegen elektromagnetische Störungen und hohe Temperaturen sind. Sie eignen sich für den Betrieb mit Frequenzumrichtern.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 15,00 Euro pro Meter, abhängig von Querschnitt und Konfiguration.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit XLPE-Isolierung, PE-Mantel und doppelter Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Schwarz.
+
+Anwendungsbereich:
+- Frequenzumrichter, Motoranschlüsse, industrielle Antriebssysteme.
+
+Spezifikationen:
+- Querschnitte von 2,5 mm² bis 150 mm², Nennspannung 0,6/1 kV.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.9.3 ÖLFLEX POWER 0,6/1 kV
+
+**ÖLFLEX POWER 0,6/1 kV Kabel** sind robuste Motoranschlussleitungen für den Einsatz in industriellen Umgebungen mit hohen mechanischen und elektrischen Anforderungen. Sie sind besonders beständig gegen Öl, Benzin und andere chemische Einflüsse.
+
+Kosten:
+- Typischerweise zwischen 3,00 und 12,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung und PVC-Mantel.
+
+Farbe:
+- Standardmäßig in Schwarz.
+
+Anwendungsbereich:
+- Motoranschlüsse, Energieversorgung, industrielle Anlagen.
+
+Spezifikationen:
+- Querschnitte von 1,5 mm² bis 240 mm², Nennspannung 0,6/1 kV.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
 ## 5.10 Heizungskabel
+
+Heizungskabel sind speziell entwickelte Kabel zur Wärmeerzeugung und werden in verschiedenen Anwendungen eingesetzt, von der Frostschutzheizung über Bodenheizung bis hin zu industriellen Heizanwendungen.
+
+### 5.10.1 ÖLFLEX HEAT 180 SiF
+
+**ÖLFLEX HEAT 180 SiF Kabel** sind hochtemperaturbeständige Silikonkabel, die für Heizanwendungen und andere Hochtemperatureinsätze geeignet sind. Sie sind besonders beständig gegen hohe Temperaturen und mechanische Belastungen.
+
+Kosten:
+- Typischerweise zwischen 2,00 und 8,00 Euro pro Meter, abhängig von Querschnitt und Konfiguration.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit Silikon-Isolierung.
+
+Farbe:
+- Standardmäßig in Rot oder Transparent.
+
+Anwendungsbereich:
+- Heizanwendungen, Hochtemperatureinsätze, Industrieöfen.
+
+Spezifikationen:
+- Querschnitte von 0,25 mm² bis 25 mm², Temperaturen bis 180°C.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.10.2 Frostschutzheizungskabel
+
+**Frostschutzheizungskabel** sind selbstregulierende Heizungskabel, die zur Verhinderung des Einfrierens von Wasserleitungen und Rohren eingesetzt werden. Sie passen ihre Wärmeleistung automatisch an die Umgebungstemperatur an.
+
+Kosten:
+- Typischerweise zwischen 5,00 und 20,00 Euro pro Meter, abhängig von Leistung und Ausführung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit halbleitendem Polymer und PVC- oder PE-Mantel.
+
+Farbe:
+- Standardmäßig in Schwarz oder Blau.
+
+Anwendungsbereich:
+- Frostschutz für Rohrleitungen, Dachrinnen, Abflüsse.
+
+Spezifikationen:
+- Leistungen von 10 W/m bis 33 W/m, selbstregulierend.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.10.3 Bodenheizungskabel
+
+**Bodenheizungskabel** sind spezielle Heizungskabel für die Installation in Fußböden zur komfortablen und energieeffizienten Raumheizung. Sie verteilen die Wärme gleichmäßig über den gesamten Boden.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 15,00 Euro pro Meter, abhängig von Leistung und Ausführung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft als fertige Sets mit bestimmten Längen.
+
+Material:
+- Kupferleiter mit XLPE- oder FEP-Isolierung und PVC-Mantel.
+
+Farbe:
+- Standardmäßig in Grau oder Schwarz.
+
+Anwendungsbereich:
+- Fußbodenheizung in Wohn- und Geschäftsräumen.
+
+Spezifikationen:
+- Leistungen von 10 W/m bis 18 W/m, Nennspannung 230 V.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
 ## 5.11 Robotikkabel
+
+Robotikkabel sind speziell entwickelte Kabel für den Einsatz in Industrierobotern und anderen beweglichen Anwendungen. Sie zeichnen sich durch ihre extreme Flexibilität, Torsionsfestigkeit und Beständigkeit gegen mechanische Belastungen aus.
+
+### 5.11.1 ÖLFLEX ROBOT 900 DP
+
+**ÖLFLEX ROBOT 900 DP Kabel** sind hochflexible Roboterkabel mit PROFIBUS-DP-Eigenschaften, die speziell für den Einsatz in Industrierobotern entwickelt wurden. Sie sind besonders beständig gegen Torsions- und Biegebeanspruchungen.
+
+Kosten:
+- Typischerweise zwischen 5,00 und 20,00 Euro pro Meter, abhängig von Konfiguration und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Orange.
+
+Anwendungsbereich:
+- Industrieroboter, Handhabungstechnik, automatisierte Fertigungsanlagen.
+
+Spezifikationen:
+- Biegeradius ab 7,5 x d, Torsionsbelastung ±360°/m, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.11.2 ÖLFLEX ROBOT 900 P
+
+**ÖLFLEX ROBOT 900 P Kabel** sind hochflexible Roboterkabel für Power-Anwendungen, die speziell für den Einsatz in Industrierobotern entwickelt wurden. Sie sind besonders beständig gegen Torsions- und Biegebeanspruchungen sowie gegen Öle und chemische Einflüsse.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 18,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PVC-Isolierung und PUR-Mantel.
+
+Farbe:
+- Standardmäßig in Orange.
+
+Anwendungsbereich:
+- Industrieroboter, Handhabungstechnik, automatisierte Fertigungsanlagen.
+
+Spezifikationen:
+- Biegeradius ab 7,5 x d, Torsionsbelastung ±360°/m, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.11.3 ÖLFLEX ROBOT F1
+
+**ÖLFLEX ROBOT F1 Kabel** sind hochflexible, halogenfreie Roboterkabel, die speziell für den Einsatz in Industrierobotern entwickelt wurden. Sie sind besonders beständig gegen Torsions- und Biegebeanspruchungen und bieten erhöhte Flammwidrigkeit.
+
+Kosten:
+- Typischerweise zwischen 6,00 und 25,00 Euro pro Meter, abhängig von Querschnitt und Konfiguration.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller halogenfreier Isolierung und halogenfreiem Mantel.
+
+Farbe:
+- Standardmäßig in Schwarz.
+
+Anwendungsbereich:
+- Industrieroboter, Handhabungstechnik, automatisierte Fertigungsanlagen mit erhöhten Sicherheitsanforderungen.
+
+Spezifikationen:
+- Biegeradius ab 7,5 x d, Torsionsbelastung ±360°/m, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
 ## 5.12 Sensorleitungen
+
+Sensorleitungen sind speziell entwickelte Kabel für die Übertragung von Sensor- und Messsignalen in industriellen Anwendungen. Sie zeichnen sich durch ihre gute Abschirmung, Flexibilität und Beständigkeit gegen elektromagnetische Störungen aus.
+
+### 5.12.1 UNITRONIC SENSOR FD
+
+**UNITRONIC SENSOR FD Kabel** sind hochflexible Sensorleitungen für den Einsatz in Schleppketten und beweglichen Maschinenteilen. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 2,00 und 8,00 Euro pro Meter, abhängig von Konfiguration und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau oder Schwarz.
+
+Anwendungsbereich:
+- Sensorsysteme, Messeinrichtungen, industrielle Automatisierung.
+
+Spezifikationen:
+- Querschnitte von 0,25 mm² bis 1,5 mm², Nennspannung 300 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.12.2 LIYCY TP
+
+**LIYCY TP Kabel** sind paarverseilte, geschirmte Sensorleitungen für die Übertragung von analogen und digitalen Signalen in industriellen Umgebungen. Sie bieten eine gute Abschirmung gegen elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 1,00 und 5,00 Euro pro Meter, abhängig von Anzahl der Adern und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau.
+
+Anwendungsbereich:
+- Sensorsysteme, Messeinrichtungen, industrielle Steuerungstechnik.
+
+Spezifikationen:
+- Querschnitte von 0,14 mm² bis 1,5 mm², Nennspannung 250 V.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
+### 5.12.3 UNITRONIC SENSOR M12
+
+**UNITRONIC SENSOR M12 Kabel** sind konfektionierte Sensorleitungen mit M12-Steckverbindern für den schnellen und einfachen Anschluss von Sensoren und Aktoren. Sie sind für den Einsatz in industriellen Umgebungen geeignet.
+
+Kosten:
+- Typischerweise zwischen 5,00 und 25,00 Euro pro Stück, abhängig von Länge und Ausführung.
+
+Länge:
+- Erhältlich in Standardlängen von 2 m, 5 m und 10 m, sowie in Sonderlängen auf Anfrage.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PUR-Mantel und M12-Steckverbinder.
+
+Farbe:
+- Standardmäßig in Schwarz oder Grau.
+
+Anwendungsbereich:
+- Sensoren, Aktoren, industrielle Automatisierung.
+
+Spezifikationen:
+- 3-, 4- oder 5-polig, gerade oder gewinkelte Ausführung, Nennspannung 60 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
 ## 5.13 Aktuatorleitungen
+
+Aktuatorleitungen sind speziell entwickelte Kabel für die Steuerung und Stromversorgung von Aktoren und Stellantrieben in industriellen Anwendungen. Sie zeichnen sich durch ihre Robustheit, Zuverlässigkeit und Beständigkeit gegen mechanische und elektrische Belastungen aus.
+
+### 5.13.1 UNITRONIC BUS ASI FD P
+
+**UNITRONIC BUS ASI FD P Kabel** sind hochflexible Aktuatorleitungen für den Einsatz in AS-Interface-Netzwerken und Schleppketten. Sie sind besonders beständig gegen mechanische Beanspruchungen und Öle.
+
+Kosten:
+- Typischerweise zwischen 3,00 und 10,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit speziellem TPE-Material und PUR-Mantel.
+
+Farbe:
+- Standardmäßig in Gelb für AS-Interface-Anwendungen.
+
+Anwendungsbereich:
+- Aktuatoren, Stellantriebe, industrielle Automatisierung mit AS-Interface.
+
+Spezifikationen:
+- 2 x 1,5 mm² für Daten- und Energieübertragung, Nennspannung 300 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.13.2 UNITRONIC VALVE CONNECTOR M12
+
+**UNITRONIC VALVE CONNECTOR M12 Kabel** sind konfektionierte Aktuatorleitungen mit M12-Steckverbindern für den Anschluss von Ventilen und anderen Aktuatoren. Sie sind für den Einsatz in industriellen Umgebungen geeignet.
+
+Kosten:
+- Typischerweise zwischen 8,00 und 30,00 Euro pro Stück, abhängig von Länge und Ausführung.
+
+Länge:
+- Erhältlich in Standardlängen von 2 m, 5 m und 10 m, sowie in Sonderlängen auf Anfrage.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PUR-Mantel und M12-Steckverbinder.
+
+Farbe:
+- Standardmäßig in Schwarz oder Grau.
+
+Anwendungsbereich:
+- Ventile, Magnetventile, pneumatische und hydraulische Aktuatoren.
+
+Spezifikationen:
+- 3-, 4- oder 5-polig, gerade oder gewinkelte Ausführung, Nennspannung 250 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.13.3 ÖLFLEX CLASSIC 400 P
+
+**ÖLFLEX CLASSIC 400 P Kabel** sind flexible, ölbeständige Aktuatorleitungen für den Einsatz in industriellen Umgebungen mit mechanischen und chemischen Belastungen. Sie eignen sich besonders für den Anschluss von Aktuatoren und anderen elektrischen Geräten.
+
+Kosten:
+- Typischerweise zwischen 1,50 und 7,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung und PUR-Mantel.
+
+Farbe:
+- Standardmäßig in Grau.
+
+Anwendungsbereich:
+- Aktuatoren, Stellantriebe, Motoranschlüsse, industrielle Automatisierung.
+
+Spezifikationen:
+- Querschnitte von 0,5 mm² bis 16 mm², Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
 ## 5.14 Datenleitungen
+
+Datenleitungen sind speziell entwickelte Kabel für die Übertragung von digitalen und analogen Daten in verschiedenen Anwendungsbereichen. Sie zeichnen sich durch ihre gute Signalqualität, Abschirmung und Übertragungseigenschaften aus.
+
+### 5.14.1 UNITRONIC LiYCY
+
+**UNITRONIC LiYCY Kabel** sind geschirmte, flexible Datenleitungen für die Übertragung analoger und digitaler Signale in industriellen Umgebungen mit elektromagnetischen Störungen. Sie bieten eine gute Abschirmung und Störfestigkeit.
+
+Kosten:
+- Typischerweise zwischen 0,80 und 4,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau.
+
+Anwendungsbereich:
+- Datenübertragung, Mess- und Steuerungstechnik, industrielle Elektronik.
+
+Spezifikationen:
+- Querschnitte von 0,14 mm² bis 1,5 mm², Nennspannung 250 V.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
+### 5.14.2 UNITRONIC FD CP (TP)
+
+**UNITRONIC FD CP (TP) Kabel** sind hochflexible, geschirmte, paarverseilte Datenleitungen für den Einsatz in Schleppketten und beweglichen Maschinenteilen. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 2,00 und 8,00 Euro pro Meter, abhängig von Konfiguration und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau oder Schwarz.
+
+Anwendungsbereich:
+- Datenübertragung in beweglichen Anwendungen, Industrieautomation, Robotik.
+
+Spezifikationen:
+- Querschnitte von 0,14 mm² bis 1,5 mm², Nennspannung 250 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.14.3 UNITRONIC BUS PB FD P
+
+**UNITRONIC BUS PB FD P Kabel** sind hochflexible Datenleitungen für PROFIBUS-Anwendungen in Schleppketten und beweglichen Maschinenteilen. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 3,00 und 12,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Violett.
+
+Anwendungsbereich:
+- PROFIBUS-Netzwerke, industrielle Automatisierung, bewegliche Anwendungen.
+
+Spezifikationen:
+- Impedanz 150 Ohm, Übertragungsrate bis 12 Mbit/s.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
 ## 5.15 Ethernetleitungen
+
+Ethernetleitungen sind speziell entwickelte Kabel für die Datenübertragung in Netzwerken nach dem Ethernet-Standard. Sie zeichnen sich durch ihre hohe Übertragungsgeschwindigkeit, Störfestigkeit und spezifische Impedanz aus.
+
+### 5.15.1 ETHERLINE Cat.6 FTP
+
+**ETHERLINE Cat.6 FTP Kabel** sind geschirmte Ethernet-Kabel der Kategorie 6 für die Datenübertragung in Netzwerken mit bis zu 1 Gbit/s. Sie bieten eine gute Abschirmung gegen elektromagnetische Störungen und sind für den industriellen Einsatz geeignet.
+
+Kosten:
+- Typischerweise zwischen 1,00 und 4,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PVC-Mantel und Folien-/Geflechtabschirmung.
+
+Farbe:
+- Standardmäßig in Grau oder Blau.
+
+Anwendungsbereich:
+- Ethernet-Netzwerke, Büro- und Industrieumgebungen, Datenübertragung.
+
+Spezifikationen:
+- 4 x 2 x AWG 23/1, Impedanz 100 Ohm, Übertragungsrate bis 1 Gbit/s.
+
+Zertifizierungen:
+- VDE, CE, RoHS.
+
+### 5.15.2 ETHERLINE Cat.7 FLEX
+
+**ETHERLINE Cat.7 FLEX Kabel** sind hochflexible, geschirmte Ethernet-Kabel der Kategorie 7 für die Datenübertragung in Netzwerken mit bis zu 10 Gbit/s. Sie sind besonders geeignet für den industriellen Einsatz und bewegliche Anwendungen.
+
+Kosten:
+- Typischerweise zwischen 2,00 und 6,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PVC-Mantel und Doppelabschirmung (Folie und Geflecht).
+
+Farbe:
+- Standardmäßig in Grau oder Grün.
+
+Anwendungsbereich:
+- High-Speed-Ethernet-Netzwerke, industrielle Automatisierung, Datenübertragung.
+
+Spezifikationen:
+- 4 x 2 x AWG 26/7, Impedanz 100 Ohm, Übertragungsrate bis 10 Gbit/s.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.15.3 ETHERLINE FD P Cat.5e
+
+**ETHERLINE FD P Cat.5e Kabel** sind hochflexible, geschirmte Ethernet-Kabel der Kategorie 5e für den Einsatz in Schleppketten und beweglichen Maschinenteilen. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 2,50 und 7,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grün oder Schwarz.
+
+Anwendungsbereich:
+- Ethernet-Netzwerke in beweglichen Anwendungen, Industrieautomation, Robotik.
+
+Spezifikationen:
+- 4 x 2 x AWG 26/7, Impedanz 100 Ohm, Übertragungsrate bis 100 Mbit/s.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
 ## 5.16 Profibus-Leitungen
+
+Profibus-Leitungen sind speziell entwickelte Kabel für die Datenübertragung in PROFIBUS-Netzwerken, einem weit verbreiteten industriellen Feldbus-Standard. Sie zeichnen sich durch ihre spezifische Impedanz, Abschirmung und Übertragungseigenschaften aus.
+
+### 5.16.1 UNITRONIC BUS PB
+
+**UNITRONIC BUS PB Kabel** sind Profibus-Leitungen für die feste Verlegung in industriellen Automatisierungsnetzwerken. Sie bieten eine gute Abschirmung gegen elektromagnetische Störungen und sind für den industriellen Einsatz geeignet.
+
+Kosten:
+- Typischerweise zwischen 1,50 und 5,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Violett.
+
+Anwendungsbereich:
+- PROFIBUS-Netzwerke, industrielle Automatisierung, Steuerungstechnik.
+
+Spezifikationen:
+- Impedanz 150 Ohm, Übertragungsrate bis 12 Mbit/s.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.16.2 UNITRONIC BUS PB FD P
+
+**UNITRONIC BUS PB FD P Kabel** sind hochflexible Profibus-Leitungen für den Einsatz in Schleppketten und beweglichen Maschinenteilen. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 3,00 und 12,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Violett.
+
+Anwendungsbereich:
+- PROFIBUS-Netzwerke in beweglichen Anwendungen, industrielle Automatisierung, Robotik.
+
+Spezifikationen:
+- Impedanz 150 Ohm, Übertragungsrate bis 12 Mbit/s, min. Biegeradius 7,5 x d.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.16.3 UNITRONIC BUS PB ROBUST
+
+**UNITRONIC BUS PB ROBUST Kabel** sind besonders robuste Profibus-Leitungen für den Einsatz in anspruchsvollen industriellen Umgebungen mit mechanischen und chemischen Belastungen. Sie bieten eine erhöhte Beständigkeit gegen Öle, UV-Strahlung und Abrieb.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 15,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, spezieller PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Violett oder Schwarz.
+
+Anwendungsbereich:
+- PROFIBUS-Netzwerke in rauen industriellen Umgebungen, Schwermaschinenbau, Außenanwendungen.
+
+Spezifikationen:
+- Impedanz 150 Ohm, Übertragungsrate bis 12 Mbit/s, erhöhte UV- und Ölbeständigkeit.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
 ## 5.17 CAN-Bus-Leitungen
+
+CAN-Bus-Leitungen sind speziell entwickelte Kabel für die Datenübertragung in CAN-Netzwerken (Controller Area Network), einem robusten Bussystem, das vor allem in der Fahrzeugtechnik und Industrieautomatisierung eingesetzt wird. Sie zeichnen sich durch ihre hohe Zuverlässigkeit, Robustheit und spezifische Impedanz aus.
+
+### 5.17.1 UNITRONIC BUS CAN
+
+**UNITRONIC BUS CAN Kabel** sind CAN-Bus-Leitungen für die feste Verlegung in industriellen und automotiven Anwendungen. Sie bieten eine gute Abschirmung gegen elektromagnetische Störungen und sind für den industriellen Einsatz geeignet.
+
+Kosten:
+- Typischerweise zwischen 1,00 und 4,50 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PVC-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grün oder Blau.
+
+Anwendungsbereich:
+- CAN-Bus-Netzwerke, Fahrzeugelektronik, industrielle Automatisierung.
+
+Spezifikationen:
+- Impedanz 120 Ohm, Übertragungsrate bis 1 Mbit/s.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.17.2 UNITRONIC BUS CAN FD P
+
+**UNITRONIC BUS CAN FD P Kabel** sind hochflexible CAN-Bus-Leitungen für den Einsatz in Schleppketten und beweglichen Anwendungen. Sie sind besonders beständig gegen mechanische Beanspruchungen und elektromagnetische Störungen.
+
+Kosten:
+- Typischerweise zwischen 2,50 und 8,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PE-Isolierung, PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grün oder Schwarz.
+
+Anwendungsbereich:
+- CAN-Bus-Netzwerke in beweglichen Anwendungen, Fahrzeugtechnik, Robotik.
+
+Spezifikationen:
+- Impedanz 120 Ohm, Übertragungsrate bis 1 Mbit/s, min. Biegeradius 7,5 x d.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.17.3 UNITRONIC BUS CAN HEAT 180
+
+**UNITRONIC BUS CAN HEAT 180 Kabel** sind hochtemperaturbeständige CAN-Bus-Leitungen für den Einsatz in Umgebungen mit erhöhten Temperaturen. Sie sind besonders beständig gegen Hitze und können bei Temperaturen bis zu 180°C eingesetzt werden.
+
+Kosten:
+- Typischerweise zwischen 5,00 und 15,00 Euro pro Meter, abhängig von Ausführung und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit FEP-Isolierung, FEP-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Braun oder Weiß.
+
+Anwendungsbereich:
+- CAN-Bus-Netzwerke in Hochtemperaturumgebungen, Motorraum, Industrieöfen.
+
+Spezifikationen:
+- Impedanz 120 Ohm, Übertragungsrate bis 1 Mbit/s, Temperaturbereich -65°C bis +180°C.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
 ## 5.18 AS-Interface-Leitungen
+
+AS-Interface-Leitungen sind speziell entwickelte Kabel für die Datenübertragung und Stromversorgung in AS-Interface-Netzwerken, einem einfachen und kosteneffizienten Bussystem für die unterste Feldebene der Industrieautomatisierung. Sie zeichnen sich durch ihr spezielles Profil und die gleichzeitige Übertragung von Daten und Energie aus.
+
+### 5.18.1 UNITRONIC BUS ASI
+
+**UNITRONIC BUS ASI Kabel** sind AS-Interface-Leitungen für die feste Verlegung in industriellen Automatisierungsnetzwerken. Sie ermöglichen die gleichzeitige Übertragung von Daten und Energie in AS-Interface-Netzwerken.
+
+Kosten:
+- Typischerweise zwischen 2,00 und 6,00 Euro pro Meter, abhängig von Ausführung und Profil.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit PVC-Isolierung und speziellem Profilmantel.
+
+Farbe:
+- Standardmäßig in Gelb für AS-Interface-Anwendungen oder Schwarz für Anwendungen mit erhöhten Stromstärken.
+
+Anwendungsbereich:
+- AS-Interface-Netzwerke, industrielle Automatisierung, Feldebene der Automatisierungspyramide.
+
+Spezifikationen:
+- 2 x 1,5 mm² für Daten- und Energieübertragung, Nennspannung 300 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.18.2 UNITRONIC BUS ASI FD P
+
+**UNITRONIC BUS ASI FD P Kabel** sind hochflexible AS-Interface-Leitungen für den Einsatz in Schleppketten und beweglichen Anwendungen. Sie sind besonders beständig gegen mechanische Beanspruchungen und ermöglichen die gleichzeitige Übertragung von Daten und Energie.
+
+Kosten:
+- Typischerweise zwischen 3,00 und 10,00 Euro pro Meter, abhängig von Ausführung und Profil.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit TPE-Isolierung und PUR-Profilmantel.
+
+Farbe:
+- Standardmäßig in Gelb für AS-Interface-Anwendungen oder Schwarz für Anwendungen mit erhöhten Stromstärken.
+
+Anwendungsbereich:
+- AS-Interface-Netzwerke in beweglichen Anwendungen, Robotik, Fördertechnik.
+
+Spezifikationen:
+- 2 x 1,5 mm² für Daten- und Energieübertragung, Nennspannung 300 V, min. Biegeradius 7,5 x d.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.18.3 UNITRONIC BUS ASI FOOD
+
+**UNITRONIC BUS ASI FOOD Kabel** sind AS-Interface-Leitungen für den Einsatz in der Lebensmittel- und Getränkeindustrie. Sie sind besonders beständig gegen Reinigungs- und Desinfektionsmittel und erfüllen die hygienischen Anforderungen der Lebensmittelindustrie.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 12,00 Euro pro Meter, abhängig von Ausführung und Profil.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit TPE-Isolierung und lebensmittelechtem TPE-Mantel.
+
+Farbe:
+- Standardmäßig in Weiß oder Blau für Anwendungen in der Lebensmittelindustrie.
+
+Anwendungsbereich:
+- AS-Interface-Netzwerke in der Lebensmittel- und Getränkeindustrie, Pharmazie, Hygienebereiche.
+
+Spezifikationen:
+- 2 x 1,5 mm² für Daten- und Energieübertragung, Nennspannung 300 V, lebensmittelecht gemäß FDA-Standards.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS, FDA.
+
 ## 5.19 Torsionsleitungen
+
+Torsionsleitungen sind speziell entwickelte Kabel für Anwendungen, bei denen das Kabel um seine eigene Achse verdreht wird. Sie zeichnen sich durch ihre hohe Torsionsfestigkeit, Flexibilität und Langlebigkeit auch unter extremen Belastungen aus.
+
+### 5.19.1 ÖLFLEX ROBOT T1
+
+**ÖLFLEX ROBOT T1 Kabel** sind hochflexible Torsionsleitungen für den Einsatz in Industrierobotern und anderen Anwendungen mit Torsionsbelastung. Sie sind speziell für kontinuierliche Drehbewegungen um die eigene Längsachse konstruiert.
+
+Kosten:
+- Typischerweise zwischen 5,00 und 20,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung und PUR-Mantel.
+
+Farbe:
+- Standardmäßig in Schwarz.
+
+Anwendungsbereich:
+- Industrieroboter, Drehautomaten, Windkraftanlagen, Drehtische.
+
+Spezifikationen:
+- Torsionsbelastung ±360°/m, Biegeradius ab 7,5 x d, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.19.2 ÖLFLEX ROBOT T1 FD
+
+**ÖLFLEX ROBOT T1 FD Kabel** sind hochflexible Torsionsleitungen für den kombinierten Einsatz in Schleppketten und Anwendungen mit Torsionsbelastung. Sie vereinen die Eigenschaften von Schleppkettenleitungen und Torsionsleitungen.
+
+Kosten:
+- Typischerweise zwischen 8,00 und 25,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung und PUR-Mantel mit erhöhter Abriebfestigkeit.
+
+Farbe:
+- Standardmäßig in Schwarz oder Orange.
+
+Anwendungsbereich:
+- Industrieroboter mit kombinierter Biege- und Torsionsbelastung, komplexe Bewegungsabläufe, Automatisierungstechnik.
+
+Spezifikationen:
+- Torsionsbelastung ±360°/m, Biegeradius ab 7,5 x d, Schleppketteneignung bis zu 5 Millionen Zyklen, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.19.3 UNITRONIC ROBUST T1 FD
+
+**UNITRONIC ROBUST T1 FD Kabel** sind besonders robuste, hochflexible Torsionsleitungen für Datenübertragungsanwendungen mit Torsionsbelastung in rauen industriellen Umgebungen. Sie bieten eine erhöhte Beständigkeit gegen Öle, UV-Strahlung und mechanische Belastungen.
+
+Kosten:
+- Typischerweise zwischen 10,00 und 30,00 Euro pro Meter, abhängig von Konfiguration und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung, robuster PUR-Mantel und Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Schwarz.
+
+Anwendungsbereich:
+- Datenübertragung in Industrierobotern, Offshore-Anwendungen, Schweißroboter, raue Industrieumgebungen.
+
+Spezifikationen:
+- Torsionsbelastung ±360°/m, Biegeradius ab 7,5 x d, Ölbeständigkeit, UV-Beständigkeit, Nennspannung 300 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS, DNV-GL.
+
 ## 5.20 Schleppkettenleitungen
+
+Schleppkettenleitungen sind speziell entwickelte Kabel für den Einsatz in Energieführungsketten und anderen beweglichen Anwendungen mit hoher mechanischer Belastung. Sie zeichnen sich durch ihre extreme Biegefestigkeit, Abriebbeständigkeit und lange Lebensdauer auch unter dauerhafter Bewegung aus.
+
+### 5.20.1 ÖLFLEX FD 855 P
+
+**ÖLFLEX FD 855 P Kabel** sind hochflexible Schleppkettenleitungen für den Einsatz in Energieführungsketten mit mittlerer bis hoher mechanischer Belastung. Sie sind besonders beständig gegen Abrieb, Öle und Kühlmittel.
+
+Kosten:
+- Typischerweise zwischen 3,00 und 10,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung und PUR-Mantel.
+
+Farbe:
+- Standardmäßig in Grau oder Schwarz.
+
+Anwendungsbereich:
+- Energieführungsketten, CNC-Maschinen, Werkzeugmaschinen, Automatisierungstechnik.
+
+Spezifikationen:
+- Schleppketteneignung bis zu 5 Millionen Zyklen, Biegeradius ab 7,5 x d, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.20.2 ÖLFLEX FD ROBOT
+
+**ÖLFLEX FD ROBOT Kabel** sind hochflexible Schleppkettenleitungen speziell für den Einsatz in Robotern und komplexen dreidimensionalen Bewegungsabläufen. Sie kombinieren hohe Biegefestigkeit mit Torsionsbeständigkeit und sind besonders robust.
+
+Kosten:
+- Typischerweise zwischen 5,00 und 18,00 Euro pro Meter, abhängig von Querschnitt und Anzahl der Adern.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller TPE-Isolierung und PUR-Mantel.
+
+Farbe:
+- Standardmäßig in Orange oder Schwarz.
+
+Anwendungsbereich:
+- Industrieroboter, 3D-Bewegungen, komplexe Automatisierungsanlagen, Handlingssysteme.
+
+Spezifikationen:
+- Schleppketteneignung bis zu 10 Millionen Zyklen, Biegeradius ab 6,8 x d, Torsionsfähigkeit ±180°/m, Nennspannung 300/500 V.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
+
+### 5.20.3 UNITRONIC FD CP (TP) plus
+
+**UNITRONIC FD CP (TP) plus Kabel** sind hochflexible, geschirmte Daten-Schleppkettenleitungen für die Datenübertragung in hochdynamischen Anwendungen. Sie bieten eine optimale Abschirmung gegen elektromagnetische Störungen und sind besonders beständig gegen mechanische Belastungen.
+
+Kosten:
+- Typischerweise zwischen 4,00 und 15,00 Euro pro Meter, abhängig von Konfiguration und Abschirmung.
+
+Länge:
+- Erhältlich in Längen von wenigen Metern bis zu mehreren hundert Metern, oft auf Rollen.
+
+Material:
+- Kupferleiter mit spezieller PE-Isolierung, PUR-Mantel und hochwertige Kupferabschirmung.
+
+Farbe:
+- Standardmäßig in Grau oder Schwarz.
+
+Anwendungsbereich:
+- Datenübertragung in Energieführungsketten, hochdynamische Anwendungen, Industrieautomation.
+
+Spezifikationen:
+- Schleppketteneignung bis zu 5 Millionen Zyklen, Biegeradius ab 7,5 x d, Nennspannung 300 V, Übertragungsraten bis 100 Mbit/s.
+
+Zertifizierungen:
+- VDE, CE, UL/CSA, RoHS.
