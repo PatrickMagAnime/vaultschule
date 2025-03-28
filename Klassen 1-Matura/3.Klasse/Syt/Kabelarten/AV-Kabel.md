@@ -320,8 +320,215 @@ VGA-Kabel (Video Graphics Array) sind analoge Kabel, die zur Übertragung von Vi
 
 VGA-Kabel sind eine bewährte Wahl für die Übertragung von Videosignalen in verschiedenen Anwendungen, insbesondere für ältere Monitore und Projektoren, die keine digitalen Anschlüsse unterstützen.
 ## 2.4 DisplayPort-Kabel
+* 2.4 DisplayPort-Kabel
+
+DisplayPort-Kabel sind digitale Kabel, die zur Übertragung von hochauflösenden Audio- und Videosignalen zwischen Computern und Monitoren verwendet werden. Sie bieten eine hohe Bandbreite und unterstützen modernste Auflösungen und Bildwiederholraten, was sie ideal für professionelle Anwendungen und Gaming macht.
+
+**Kosten:**
+- Der Preis des Kabels variiert je nach Typ, Länge und Qualität. Typischerweise kostet ein DisplayPort-Kabel pro Meter zwischen 3 und 20 Euro.
+
+**Länge:**
+- DisplayPort-Kabel sind in verschiedenen Längen erhältlich, von 0,5 Metern bis zu 10 Metern und mehr.
+
+**Material:**
+- Die Kabel bestehen aus Kupferleitern und einer isolierenden Schicht aus PVC oder TPE, sowie einer Abschirmung aus geflochtenem Kupfer oder Aluminium zur Reduzierung von Störungen.
+
+**Farbe:**
+- DisplayPort-Kabel sind in verschiedenen Farben erhältlich, typischerweise in Schwarz, Weiß oder Grau.
+
+**Hersteller:**
+- Zu den bekannten Herstellern gehören Belkin, AmazonBasics, KabelDirekt, Anker und StarTech.
+
+**Anwendungsbereich:**
+- DisplayPort-Kabel werden zur Übertragung von hochauflösenden Audio- und Videosignalen zwischen Computern, Monitoren, Projektoren und anderen Display-Geräten verwendet.
+
+**Spezifikationen:**
+- **Versionen:** DisplayPort 1.2, DisplayPort 1.4, DisplayPort 2.0.
+- **Auflösung:** Unterstützt Auflösungen bis zu 8K bei 60 Hz (DisplayPort 1.4) und 16K bei 60 Hz oder 10K bei 120 Hz (DisplayPort 2.0).
+- **Bandbreite:** Bis zu 32.4 Gbps (DisplayPort 1.4) und 80 Gbps (DisplayPort 2.0).
+- **Audioformate:** Unterstützt verschiedene Audioformate wie LPCM, DTS, Dolby Digital und mehr.
+
+**Zertifizierungen:**
+- DisplayPort-Kabel erfüllen oft Zertifizierungen wie DisplayPort-Standard und VESA.
+
+**Verfügbarkeit:**
+- DisplayPort-Kabel sind in der Regel bei Elektronikfachhändlern, Online-Händlern und Großhändlern verfügbar. Die Verfügbarkeit kann je nach Nachfrage und speziellen Anforderungen variieren.
+
+**Garantie:**
+- Die Garantiezeit variiert je nach Hersteller und Produkt, typischerweise zwischen 1 und 5 Jahren.
+
+**Bewertungen:**
+- Kundenbewertungen und Erfahrungsberichte können online auf Plattformen wie Amazon, eBay und spezialisierten Elektronikforen gefunden werden.
+
+**Kompatibilität:**
+- DisplayPort-Kabel sind kompatibel mit einer Vielzahl von Geräten wie Computern, Monitoren, Projektoren und einigen Fernsehgeräten.
+
+**Anschlüsse:**
+- Typische Anschlüsse für DisplayPort-Kabel sind DisplayPort (Standard), Mini DisplayPort und USB-C (für DisplayPort Alternate Mode).
+
+**Gebrauchsanweisungen:**
+- Hinweise zur Installation und Nutzung des Kabels werden in der Regel vom Hersteller bereitgestellt und umfassen Anweisungen zur Handhabung, Installation und Wartung.
+
+**Sicherheitsinformationen:**
+- Wichtige Sicherheitsinformationen umfassen den Umgang mit Kabelabschirmungen, die Vermeidung von Biegungen, die die Kabel beschädigen könnten, und den Schutz vor elektrischen Schlägen bei der Arbeit mit Hochfrequenzsignalen.
+
+DisplayPort-Kabel sind eine bewährte Wahl für die verlustfreie Übertragung von hochauflösenden Audio- und Videosignalen in verschiedenen Anwendungen, sowohl im privaten als auch im professionellen Bereich.
 ## 2.5 RCA-Kabel
+* 2.5 RCA-Kabel
 
+RCA-Kabel (Radio Corporation of America) sind analoge Kabel, die zur Übertragung von Audio- und Videosignalen zwischen verschiedenen Geräten wie Fernsehern, DVD-Playern, Receivern und Spielkonsolen verwendet werden. Sie sind einfach zu verwenden und bieten eine zuverlässige Verbindung für eine Vielzahl von Heimkinosystemen und Unterhaltungselektronik.
+
+**Kosten:**
+- Der Preis des Kabels variiert je nach Typ, Länge und Qualität. Typischerweise kostet ein RCA-Kabel pro Meter zwischen 1 und 5 Euro.
+
+**Länge:**
+- RCA-Kabel sind in verschiedenen Längen erhältlich, von 0,5 Metern bis zu 10 Metern und mehr.
+
+**Material:**
+- Die Kabel bestehen aus Kupferleitern und einer isolierenden Schicht aus PVC oder TPE, sowie einer Abschirmung zur Reduzierung von Störungen.
+
+**Farbe:**
+- RCA-Kabel sind in verschiedenen Farben erhältlich, typischerweise in Schwarz, Weiß oder Grau. Die Stecker sind oft farbcodiert (Rot, Weiß, Gelb) zur einfachen Identifikation.
+
+**Hersteller:**
+- Zu den bekannten Herstellern gehören Belkin, AmazonBasics, KabelDirekt, UGREEN und FosPower.
+
+**Anwendungsbereich:**
+- RCA-Kabel werden zur Übertragung von Audio- und Videosignalen zwischen verschiedenen Mediengeräten verwendet, z.B. Fernsehern, Receivern, DVD-Playern, Spielkonsolen und Lautsprechersystemen.
+
+**Spezifikationen:**
+- **Typen:** Composite (ein gelber Stecker für Video, rote und weiße Stecker für Audio), Component (drei Stecker für Video: rot, grün, blau; und zwei Stecker für Audio: rot, weiß).
+- **Signaltyp:** Analoges Signal.
+- **Bandbreite:** Abhängig von der Qualität des Kabels und des Signals.
+
+**Zertifizierungen:**
+- RCA-Kabel erfüllen oft Zertifizierungen wie UL und RoHS.
+
+**Verfügbarkeit:**
+- RCA-Kabel sind in der Regel bei Elektronikfachhändlern, Online-Händlern und Großhändlern verfügbar. Die Verfügbarkeit kann je nach Nachfrage und speziellen Anforderungen variieren.
+
+**Garantie:**
+- Die Garantiezeit variiert je nach Hersteller und Produkt, typischerweise zwischen 1 und 2 Jahren.
+
+**Bewertungen:**
+- Kundenbewertungen und Erfahrungsberichte können online auf Plattformen wie Amazon, eBay und spezialisierten Elektronikforen gefunden werden.
+
+**Kompatibilität:**
+- RCA-Kabel sind kompatibel mit einer Vielzahl von Mediengeräten wie Fernsehern, Receivern, DVD-Playern, Spielkonsolen und Lautsprechersystemen.
+
+**Anschlüsse:**
+- Typische Anschlüsse für RCA-Kabel sind RCA-Stecker (männlich) an beiden Enden.
+
+**Gebrauchsanweisungen:**
+- Hinweise zur Installation und Nutzung des Kabels werden in der Regel vom Hersteller bereitgestellt und umfassen Anweisungen zur Handhabung, Installation und Wartung.
+
+**Sicherheitsinformationen:**
+- Wichtige Sicherheitsinformationen umfassen den Umgang mit Kabelabschirmungen, die Vermeidung von Biegungen, die die Kabel beschädigen könnten, und den Schutz vor elektrischen Schlägen bei der Arbeit mit Hochfrequenzsignalen.
+
+RCA-Kabel sind eine bewährte Wahl für die Übertragung von analogen Audio- und Videosignalen in Heimkinosystemen und Unterhaltungselektronik.
 ## 2.6 S-Video-Kabel
+* 2.6 S-Video-Kabel
 
+S-Video-Kabel (Separate Video) sind analoge Kabel, die zur Übertragung von Videosignalen zwischen verschiedenen Geräten wie Fernsehern, DVD-Playern, Videorecordern und Spielkonsolen verwendet werden. Sie bieten eine bessere Bildqualität als Composite-Kabel, da sie das Helligkeits- und Farbsignal separat übertragen.
+
+**Kosten:**
+- Der Preis des Kabels variiert je nach Typ, Länge und Qualität. Typischerweise kostet ein S-Video-Kabel pro Meter zwischen 2 und 10 Euro.
+
+**Länge:**
+- S-Video-Kabel sind in verschiedenen Längen erhältlich, von 0,5 Metern bis zu 10 Metern und mehr.
+
+**Material:**
+- Die Kabel bestehen aus Kupferleitern und einer isolierenden Schicht aus PVC oder TPE, sowie einer Abschirmung zur Reduzierung von Störungen.
+
+**Farbe:**
+- S-Video-Kabel sind in verschiedenen Farben erhältlich, typischerweise in Schwarz.
+
+**Hersteller:**
+- Zu den bekannten Herstellern gehören Belkin, AmazonBasics, KabelDirekt, StarTech und FosPower.
+
+**Anwendungsbereich:**
+- S-Video-Kabel werden zur Übertragung von analogen Videosignalen zwischen verschiedenen Mediengeräten verwendet, z.B. Fernsehern, DVD-Playern, Videorecordern und Spielkonsolen.
+
+**Spezifikationen:**
+- **Signaltyp:** Analoges Videosignal.
+- **Anschlüsse:** 4-poliger Mini-DIN-Stecker.
+- **Auflösung:** Unterstützt SD-Videoauflösungen (Standard Definition), typischerweise bis zu 480i oder 576i.
+
+**Zertifizierungen:**
+- S-Video-Kabel erfüllen oft Zertifizierungen wie UL und RoHS.
+
+**Verfügbarkeit:**
+- S-Video-Kabel sind in der Regel bei Elektronikfachhändlern, Online-Händlern und Großhändlern verfügbar. Die Verfügbarkeit kann je nach Nachfrage und speziellen Anforderungen variieren.
+
+**Garantie:**
+- Die Garantiezeit variiert je nach Hersteller und Produkt, typischerweise zwischen 1 und 2 Jahren.
+
+**Bewertungen:**
+- Kundenbewertungen und Erfahrungsberichte können online auf Plattformen wie Amazon, eBay und spezialisierten Elektronikforen gefunden werden.
+
+**Kompatibilität:**
+- S-Video-Kabel sind kompatibel mit einer Vielzahl von Mediengeräten wie Fernsehern, DVD-Playern, Videorecordern und Spielkonsolen.
+
+**Anschlüsse:**
+- Typische Anschlüsse für S-Video-Kabel sind 4-polige Mini-DIN-Stecker an beiden Enden.
+
+**Gebrauchsanweisungen:**
+- Hinweise zur Installation und Nutzung des Kabels werden in der Regel vom Hersteller bereitgestellt und umfassen Anweisungen zur Handhabung, Installation und Wartung.
+
+**Sicherheitsinformationen:**
+- Wichtige Sicherheitsinformationen umfassen den Umgang mit Kabelabschirmungen, die Vermeidung von Biegungen, die die Kabel beschädigen könnten, und den Schutz vor elektrischen Schlägen bei der Arbeit mit Hochfrequenzsignalen.
+
+S-Video-Kabel sind eine bewährte Wahl für die Übertragung von analogen Videosignalen in Heimkinosystemen und Unterhaltungselektronik, insbesondere für Geräte, die keine digitalen Anschlüsse unterstützen.
 ## 2.7 SCART-Kabel
+* 2.7 SCART-Kabel
+
+SCART-Kabel (Syndicat des Constructeurs d'Appareils Radiorécepteurs et Téléviseurs) sind analoge Kabel, die zur Übertragung von Audio- und Videosignalen zwischen verschiedenen Geräten wie Fernsehern, Videorekordern, DVD-Playern und Set-Top-Boxen verwendet werden. Sie sind besonders in Europa weit verbreitet und bieten eine vielseitige Verbindung für ältere AV-Geräte.
+
+**Kosten:**
+- Der Preis des Kabels variiert je nach Typ, Länge und Qualität. Typischerweise kostet ein SCART-Kabel pro Meter zwischen 2 und 10 Euro.
+
+**Länge:**
+- SCART-Kabel sind in verschiedenen Längen erhältlich, von 0,5 Metern bis zu 10 Metern und mehr.
+
+**Material:**
+- Die Kabel bestehen aus Kupferleitern und einer isolierenden Schicht aus PVC oder TPE, sowie einer Abschirmung zur Reduzierung von Störungen.
+
+**Farbe:**
+- SCART-Kabel sind in verschiedenen Farben erhältlich, typischerweise in Schwarz.
+
+**Hersteller:**
+- Zu den bekannten Herstellern gehören Belkin, AmazonBasics, KabelDirekt, StarTech und Hama.
+
+**Anwendungsbereich:**
+- SCART-Kabel werden zur Übertragung von analogen Audio- und Videosignalen zwischen verschiedenen Mediengeräten verwendet, z.B. Fernsehern, Videorekordern, DVD-Playern und Set-Top-Boxen.
+
+**Spezifikationen:**
+- **Signaltyp:** Analoges Audio- und Videosignal.
+- **Anschlüsse:** 21-poliger SCART-Stecker.
+- **Auflösung:** Unterstützt SD-Videoauflösungen (Standard Definition), typischerweise bis zu 576i.
+
+**Zertifizierungen:**
+- SCART-Kabel erfüllen oft Zertifizierungen wie UL und RoHS.
+
+**Verfügbarkeit:**
+- SCART-Kabel sind in der Regel bei Elektronikfachhändlern, Online-Händlern und Großhändlern verfügbar. Die Verfügbarkeit kann je nach Nachfrage und speziellen Anforderungen variieren.
+
+**Garantie:**
+- Die Garantiezeit variiert je nach Hersteller und Produkt, typischerweise zwischen 1 und 2 Jahren.
+
+**Bewertungen:**
+- Kundenbewertungen und Erfahrungsberichte können online auf Plattformen wie Amazon, eBay und spezialisierten Elektronikforen gefunden werden.
+
+**Kompatibilität:**
+- SCART-Kabel sind kompatibel mit einer Vielzahl von Mediengeräten wie Fernsehern, Videorekordern, DVD-Playern und Set-Top-Boxen.
+
+**Anschlüsse:**
+- Typische Anschlüsse für SCART-Kabel sind 21-polige SCART-Stecker an beiden Enden.
+
+**Gebrauchsanweisungen:**
+- Hinweise zur Installation und Nutzung des Kabels werden in der Regel vom Hersteller bereitgestellt und umfassen Anweisungen zur Handhabung, Installation und Wartung.
+
+**Sicherheitsinformationen:**
+- Wichtige Sicherheitsinformationen umfassen den Umgang mit Kabelabschirmungen, die Vermeidung von Biegungen, die die Kabel beschädigen könnten, und den Schutz vor elektrischen Schlägen bei der Arbeit mit Hochfrequenzsignalen.
+
+SCART-Kabel sind eine bewährte Wahl für die Übertragung von analogen Audio- und Videosignalen in Heimkinosystemen und Unterhaltungselektronik, insbesondere für ältere Geräte, die keine digitalen Anschlüsse unterstützen.
