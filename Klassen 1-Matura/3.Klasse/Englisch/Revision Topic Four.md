@@ -8,6 +8,7 @@ Date: 31.3.25
 	- The evolving media
 	- Report Writing
 	- Digital Footprint
+	- Email enquiry writing
 	- 
 
 #### Possible Tasks that may come
@@ -46,6 +47,7 @@ Date: 31.3.25
 	provoking
 	boot - trunk
 	buff
+	grip
 	full of bursting
 	gadget
 	to evolve
@@ -66,6 +68,10 @@ Date: 31.3.25
 	post mortem
 	with the benefit of hindsight
 	sketch
+	all the range
+	intrusion
+	to pose a threat
+	foolproof
 
 ### Synonyms & antonyms
 
