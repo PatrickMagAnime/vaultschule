@@ -4,9 +4,12 @@ ___
 
 ## Setup
 - **Dauer:** 5 Minuten
-- **Stil:** Schnell, lustig, unterhaltsam
-- **Hintergrundmusik:** Epische Orchestermusik durchgehend
-- **Haupt-Soundeffekt:** Fallende Metallröhre (1 Sekunde) - für Übergänge
+- **Stil:** Schnell, lustig, unterhaltsam, komisch
+- **Hintergrundmusik:** AOT OPs (2,4,6) AOT Outros(7)
+- https://youtu.be/ErgcCrXU0Ig?si=ykMYi7dgNOy0jD9q
+- https://youtu.be/1axUimfnDRc?si=qwCqS4sTrySYsYt3
+- https://youtu.be/pQgJCloa6wM?si=aT_KLHwRyNQ2L_kt
+- **Haupt-Soundeffekt:** Falling Metal Pipe
 
 ## Szene 1: Einführung in Git
 **[Kamera: Weite Aufnahme des Raums, Person zentriert, mittlere Entfernung]**
