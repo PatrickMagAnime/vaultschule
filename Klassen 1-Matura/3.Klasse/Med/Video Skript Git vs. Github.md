@@ -10,7 +10,7 @@ ___
 - https://youtu.be/1axUimfnDRc?si=qwCqS4sTrySYsYt3
 - https://youtu.be/pQgJCloa6wM?si=aT_KLHwRyNQ2L_kt
 - **Haupt-Soundeffekt:** Falling Metal Pipe
-
+- https://youtu.be/iDLmYZ5HqgM?si=p8hgaM634hf19Re6
 ## Szene 1: Einführung in Git
 **[Kamera: Weite Aufnahme des Raums, Person zentriert, mittlere Entfernung]**
 
@@ -26,14 +26,14 @@ ___
 
 **Erzähler:** Die Hauptfunktionen von Git umfassen Branching, was Entwicklern ermöglicht, unabhängige Entwicklungslinien zu erstellen...
 
-**[Kamera: Um die Person herumkreisen, während sie das Buch balanciert, abschließen mit Dutch Angle]**
+**[Kamera: Um die Person herumkreisen, während sie das Buch balanciert]**
 
 **Erzähler:** ...Staging-Bereiche, in denen Änderungen formatiert und überprüft werden können, bevor sie committet werden, und seine verteilte Natur, die vollständige lokale Repositories ermöglicht.
 
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
 ## Szene 2: Git-Befehle
-**[Kamera: Schnelle Verfolgungsaufnahme, folgt der Person, die schnell durch den Raum geht]**
+**[Kamera: Schnelle Verfolgungsaufnahme, folgt der Person, die schnell und ängstlich davon läuft]**
 
 **Erzähler:** Grundlegende Git-Befehle umfassen:
 - `git init` zum Erstellen eines neuen Repositories
@@ -63,7 +63,7 @@ ___
 
 **Person:** Moment mal, Git und GitHub sind also nicht dasselbe?
 
-**[FREEZE FRAME - Schallplatten-Kratz-Soundeffekt hinzufügen]**
+**[FREEZE FRAME - Schwarz-Weiß METAL PIPE]**
 
 **[Kamera: Schneller Schwenk zwischen Erzählerposition und Person, Handkamera-Stil]**
 
@@ -86,7 +86,7 @@ ___
 
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
-**[Kamera: Wieder weite Aufnahme, Person macht einen Siegestanz]**
+**[Kamera: Wieder weite Aufnahme, Person dreht sich im Kreis]**
 
 ## Szene 5: Fazit
 **[Kamera: Handgehaltene Verfolgungsaufnahme, folgt der Person, die auf die Kamera zugeht]**
@@ -99,7 +99,7 @@ ___
 
 **Erzähler:** Genau! Jetzt verstehst du die mächtige Kombination von Git und GitHub!
 
-**[SCHNITT - Metallröhre-Fallgeräusch (1s) mit Echo-Effekt]**
+**[SCHNITT - Metallröhre-Fallgeräusch (1s) mit Echo-Effekt (ÜBERSTEUERT)]**
 
 **[Kamera: Extremer Zoom out, um das gesamte Set zu zeigen, Ausblenden zu Schwarz]**
 
@@ -107,8 +107,8 @@ ___
 
 ## Produktionsnotizen
 - Kamerabewegungen dynamisch und unvorhersehbar halten
-- Die gefilmte Person sollte während der Git-Erklärung unabhängige Aktionen ausführen
-- Die Person sollte während der GitHub-Erklärung zunehmend engagierter werden
-- Schnelle Schnitte und den Metallröhren-Soundeffekt für alle wichtigen Übergänge verwenden
-- Epische Orchestermusik sollte während des Git vs GitHub-Vergleichs intensiver werden
+- Die gefilmte Person macht während der Git-Erklärung unabhängige Aktionen.
+- Die Person sollte während der GitHub-Erklärung zunehmend engagierter werden und Fragen stellen.
+- Schnelle Schnitte und den Metallröhren-Soundeffekt für alle wichtigen Übergänge verwenden um es lustiger zu machen.
+- Epische Orchestermusik sollte während des Git vs GitHub-Vergleichs intensiver werden. (AOT OVAs)
 - Mit dramatischem Musikanschwellen und langsamem Ausblenden beenden
