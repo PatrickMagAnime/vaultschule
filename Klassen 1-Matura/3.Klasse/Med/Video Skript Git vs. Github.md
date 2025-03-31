@@ -1,17 +1,19 @@
 [[3.Med]]
 ___
-# Git & GitHub Fast-Paced Video Script (Deutsch)
+# Git & GitHub Video Skript 
 
 ## Setup
 - **Dauer:** 5 Minuten
 - **Stil:** Schnell, lustig, unterhaltsam, komisch
-- **Hintergrundmusik:** AOT OPs (2,4,6) AOT Outros(7)
+- **Hintergrundmusik:** AOT OPs (2,4,6) AOT Outro (7)
 - https://youtu.be/ErgcCrXU0Ig?si=ykMYi7dgNOy0jD9q
 - https://youtu.be/1axUimfnDRc?si=qwCqS4sTrySYsYt3
 - https://youtu.be/pQgJCloa6wM?si=aT_KLHwRyNQ2L_kt
+- https://youtu.be/l9X96XcW9FI?si=OmbL1VMUGjurj5m-
 - **Haupt-Soundeffekt:** Falling Metal Pipe
 - https://youtu.be/iDLmYZ5HqgM?si=p8hgaM634hf19Re6
 ## Szene 1: Einführung in Git
+
 **[Kamera: Weite Aufnahme des Raums, Person zentriert, mittlere Entfernung]**
 
 **Erzähler (Off-screen):** Git ist ein verteiltes Versionskontrollsystem, das entwickelt wurde, um alles von kleinen bis zu sehr großen Projekten mit Geschwindigkeit und Effizienz zu verwalten.
@@ -33,6 +35,7 @@ ___
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
 ## Szene 2: Git-Befehle
+
 **[Kamera: Schnelle Verfolgungsaufnahme, folgt der Person, die schnell und ängstlich davon läuft]**
 
 **Erzähler:** Grundlegende Git-Befehle umfassen:
@@ -51,6 +54,7 @@ ___
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
 ## Szene 3: Einführung in GitHub
+
 **[Kamera: Handgehaltene Verfolgungsaufnahme, leicht wackelig, während Person durch eine andere Tür eintritt]**
 
 **Erzähler:** GitHub hingegen ist ein webbasierter Hosting-Service für Git-Repositories.
@@ -74,6 +78,7 @@ ___
 **[Kamera: Schnell um Erzähler und Person kreisen, endet mit Zweieraufnahme]**
 
 ## Szene 4: Git vs GitHub
+
 **[Kamera: Split-Screen-Effekt - Person links, Visualisierung der Unterschiede rechts]**
 
 **Erzähler:** Git wird lokal auf deinem Computer installiert. GitHub lebt im Web. Git ist ein Kommandozeilen-Tool. GitHub bietet eine visuelle Oberfläche.
@@ -89,6 +94,7 @@ ___
 **[Kamera: Wieder weite Aufnahme, Person dreht sich im Kreis]**
 
 ## Szene 5: Fazit
+
 **[Kamera: Handgehaltene Verfolgungsaufnahme, folgt der Person, die auf die Kamera zugeht]**
 
 **Erzähler:** Also denk daran, Git verfolgt deine Änderungen lokal...
@@ -103,9 +109,12 @@ ___
 
 **[Kamera: Extremer Zoom out, um das gesamte Set zu zeigen, Ausblenden zu Schwarz]**
 
+
 ---
 
+
 ## Produktionsnotizen
+
 - Kamerabewegungen dynamisch und unvorhersehbar halten
 - Die gefilmte Person macht während der Git-Erklärung unabhängige Aktionen.
 - Die Person sollte während der GitHub-Erklärung zunehmend engagierter werden und Fragen stellen.
