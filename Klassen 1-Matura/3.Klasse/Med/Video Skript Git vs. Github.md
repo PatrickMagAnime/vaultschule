@@ -2,6 +2,7 @@
 ___
 # Git & GitHub Video Skript 
 
+
 ## Setup
 - **Dauer:** 5 Minuten
 - **Stil:** Schnell, lustig, unterhaltsam, komisch
@@ -12,6 +13,7 @@ ___
 - https://youtu.be/l9X96XcW9FI?si=OmbL1VMUGjurj5m-
 - **Haupt-Soundeffekt:** Falling Metal Pipe
 - https://youtu.be/iDLmYZ5HqgM?si=p8hgaM634hf19Re6
+
 ## Szene 1: Einführung in Git
 
 **[Kamera: Weite Aufnahme des Raums, Person zentriert, mittlere Entfernung]**
@@ -34,6 +36,7 @@ ___
 
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
+
 ## Szene 2: Git-Befehle
 
 **[Kamera: Schnelle Verfolgungsaufnahme, folgt der Person, die schnell und ängstlich davon läuft]**
@@ -52,6 +55,7 @@ ___
 **Erzähler:** "Stagen" bedeutet, dass du Änderungen für den nächsten Commit vorbereitest. Gits Branching-Modell ist leichtgewichtig und leistungsstark. Es ermöglicht Entwicklern, mit `git branch` Zweige zu erstellen und mit `git checkout` zwischen ihnen zu wechseln.
 
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
+
 
 ## Szene 3: Einführung in GitHub
 
@@ -77,6 +81,7 @@ ___
 
 **[Kamera: Schnell um Erzähler und Person kreisen, endet mit Zweieraufnahme]**
 
+
 ## Szene 4: Git vs GitHub
 
 **[Kamera: Split-Screen-Effekt - Person links, Visualisierung der Unterschiede rechts]**
@@ -92,6 +97,7 @@ ___
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
 **[Kamera: Wieder weite Aufnahme, Person dreht sich im Kreis]**
+
 
 ## Szene 5: Fazit
 
@@ -110,10 +116,11 @@ ___
 **[Kamera: Extremer Zoom out, um das gesamte Set zu zeigen, Ausblenden zu Schwarz]**
 
 
+
 ---
 
 
-## Produktionsnotizen
+## Produktionszusammenfassung
 
 - Kamerabewegungen dynamisch und unvorhersehbar halten
 - Die gefilmte Person macht während der Git-Erklärung unabhängige Aktionen.
@@ -121,3 +128,9 @@ ___
 - Schnelle Schnitte und den Metallröhren-Soundeffekt für alle wichtigen Übergänge verwenden um es lustiger zu machen.
 - Epische Orchestermusik sollte während des Git vs GitHub-Vergleichs intensiver werden. (AOT OVAs)
 - Mit dramatischem Musikanschwellen und langsamem Ausblenden beenden
+
+
+- Schauspieler: Marcel Raichle, Hüsyin Gedik
+- Kameramann: Patrick Riedl
+- Autor: Patrick Riedl
+- Tonmeister und Videocutter: Patrick Riedl
