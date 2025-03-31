@@ -114,12 +114,12 @@ ___
 **[SCHNITT - Metallröhre-Fallgeräusch (1s) mit Echo-Effekt (ÜBERSTEUERT)]**
 
 **[Kamera: Extremer Zoom out, um das gesamte Set zu zeigen, Ausblenden zu Schwarz]**
-
-
+.
+.
 
 ---
-
-
+.
+.
 ## Produktionszusammenfassung
 
 - Kamerabewegungen dynamisch und unvorhersehbar halten
