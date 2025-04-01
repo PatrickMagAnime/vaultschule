@@ -1,4 +1,4 @@
-# 6.54
+# Aufgabe 6.54
 
 ## a) 
 $$\frac{5x-1}{x^2-1}=\frac{5x-1}{(x+1)(x-1)}$$  Partialbruchzerlegung:
@@ -26,7 +26,7 @@ $$2B+C=3$$
 $$\Rightarrow B=1,\quad C=1$$  Ergebniss:
 $$\frac{3x^2+6x+2}{x^3+3x^2+2x}=\frac{1}{x}+\frac{1}{x+1}+\frac{1}{x+2}$$  
 
-# 6.55
+# Aufgabe 6.55
 
 ## a) 
 $$\frac{2x^2-13x+27}{x^3-6x^2+9x}=\frac{2x^2-13x+27}{x(x^2-6x+9)}=\frac{2x^2-13x+27}{x(x-3)^2}$$  
@@ -51,7 +51,7 @@ $$=\frac{5x^2-13x+15}{x(x^2-4x+5)}$$
 Also gilt:  
 $$\frac{5x^2-13x+15}{x^3-4x^2+5x}=\frac{3}{x}+\frac{2x-1}{x^2-4x+5}$$  
 
-# 6.56
+# Aufgabe 6.56
 
 ## a) 
 $$\int\frac{x+12}{x^2-x-6}\,dx$$  
@@ -119,7 +119,7 @@ Daher:
 $$\int\frac{3x^2-2x+1}{x^3-x}\,dx=\int\left(-\frac{1}{x}+\frac{1}{x-1}+\frac{3}{x+1}\right)dx$$  
 $$=-\ln|x|+\ln|x-1|+3\ln|x+1|+C$$  
 
-# 6.57
+# Aufgabe 6.57
 
 ## a) 
 $$\int\frac{2x^3-4x^2-4}{x^3-2x^2}\,dx$$  
