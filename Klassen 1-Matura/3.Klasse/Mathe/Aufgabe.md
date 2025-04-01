@@ -1,0 +1,3 @@
+[[3.Mathe]]
+___
+ich möchte das du mir meine mathe aufgaben mit latex suite wo am anfang jeder rechnung zwei dollar zeichen ohne abstand sind sowie zwei dollar zeichen am ende ohne abstand sind. das ganze kannst du mir mit markdown kombinieren weil ich in obsidian arbeite. es sind aufgabe6.54 a und c, 6.55 ganz, 6.56 nummer a b und c, und nummer 6.57 ganz. hier die informationen in ocd aus den buchseiten extrahiert: 
