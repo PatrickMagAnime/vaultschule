@@ -2,7 +2,6 @@
 ___
 # Git & GitHub Video Skript 
 
-
 ## Setup
 - **Dauer:** 5 Minuten
 - **Stil:** Schnell, lustig, unterhaltsam, komisch
@@ -13,9 +12,7 @@ ___
 - https://youtu.be/l9X96XcW9FI?si=OmbL1VMUGjurj5m-
 - **Haupt-Soundeffekt:** Falling Metal Pipe
 - https://youtu.be/iDLmYZ5HqgM?si=p8hgaM634hf19Re6
-
 ## Szene 1: Einführung in Git
-
 **[Kamera: Weite Aufnahme des Raums, Person zentriert, mittlere Entfernung]**
 
 **Erzähler (Off-screen):** Git ist ein verteiltes Versionskontrollsystem, das entwickelt wurde, um alles von kleinen bis zu sehr großen Projekten mit Geschwindigkeit und Effizienz zu verwalten.
@@ -35,10 +32,7 @@ ___
 **Erzähler:** ...Staging-Bereiche, in denen Änderungen formatiert und überprüft werden können, bevor sie committet werden, und seine verteilte Natur, die vollständige lokale Repositories ermöglicht.
 
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
-
-
 ## Szene 2: Git-Befehle
-
 **[Kamera: Schnelle Verfolgungsaufnahme, folgt der Person, die schnell und ängstlich davon läuft]**
 
 **Erzähler:** Grundlegende Git-Befehle umfassen:
@@ -55,10 +49,7 @@ ___
 **Erzähler:** "Stagen" bedeutet, dass du Änderungen für den nächsten Commit vorbereitest. Gits Branching-Modell ist leichtgewichtig und leistungsstark. Es ermöglicht Entwicklern, mit `git branch` Zweige zu erstellen und mit `git checkout` zwischen ihnen zu wechseln.
 
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
-
-
 ## Szene 3: Einführung in GitHub
-
 **[Kamera: Handgehaltene Verfolgungsaufnahme, leicht wackelig, während Person durch eine andere Tür eintritt]**
 
 **Erzähler:** GitHub hingegen ist ein webbasierter Hosting-Service für Git-Repositories.
@@ -80,10 +71,7 @@ ___
 **Person:** Oh! Was macht sie sonst noch unterschiedlich?
 
 **[Kamera: Schnell um Erzähler und Person kreisen, endet mit Zweieraufnahme]**
-
-
 ## Szene 4: Git vs GitHub
-
 **[Kamera: Split-Screen-Effekt - Person links, Visualisierung der Unterschiede rechts]**
 
 **Erzähler:** Git wird lokal auf deinem Computer installiert. GitHub lebt im Web. Git ist ein Kommandozeilen-Tool. GitHub bietet eine visuelle Oberfläche.
@@ -97,10 +85,7 @@ ___
 **[SCHNITT - Metallröhre-Fallgeräusch (1s)]**
 
 **[Kamera: Wieder weite Aufnahme, Person dreht sich im Kreis]**
-
-
 ## Szene 5: Fazit
-
 **[Kamera: Handgehaltene Verfolgungsaufnahme, folgt der Person, die auf die Kamera zugeht]**
 
 **Erzähler:** Also denk daran, Git verfolgt deine Änderungen lokal...
@@ -114,12 +99,8 @@ ___
 **[SCHNITT - Metallröhre-Fallgeräusch (1s) mit Echo-Effekt (ÜBERSTEUERT)]**
 
 **[Kamera: Extremer Zoom out, um das gesamte Set zu zeigen, Ausblenden zu Schwarz]**
-.
-.
 
 ---
-.
-.
 ## Produktionszusammenfassung
 
 - Kamerabewegungen dynamisch und unvorhersehbar halten
