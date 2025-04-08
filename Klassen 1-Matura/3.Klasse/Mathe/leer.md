@@ -16,6 +16,7 @@ v(t)=-10t+15
 $\int_{0}^{0.5}v(t)dt=-\frac{10}{2}t^2+15t= -5*0.25+7.5=6.25$
 $\int_{0}^{1}v(t)dt=10$
 
-$$
+$geometrisch trisch berechnen$
 
 ## 7.63
+![[Mathe buch 7.63.png]]
