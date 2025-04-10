@@ -12,3 +12,11 @@ Mitlesen und Nachrichten im idealen netz.
 
 ![[Pasted image 20250410131803.png]]
 Angreifer Schließt sich am hub an und kann alle nachrichten mitlesen da der hub alles weiterleitet.
+
+Der client mit wireshark nimmt nur packete an die an ihn selbst gerichtet sind.
+
+Es gibt aber den **promiscous mode** der es erlaubt alle packete anzunehmen selbst die die nicht an ihm gerichtet sind. Dafür muss man wireshark mit administrator öffnen.
+
+### Managed Switch
+auf einem unmanaged switch kann man nicht konfigurieren und hat keine vlans. ein managed switch hat mehrere funktionen und man kann einen hub mithilfe von **mirror port** einrichten.
+
