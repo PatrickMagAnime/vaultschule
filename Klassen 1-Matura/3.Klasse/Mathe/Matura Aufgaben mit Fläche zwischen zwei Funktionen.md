@@ -8,4 +8,5 @@ u(t) Füllrate in L/h
 
 Füllrate ist wie strark das Becken befüllt wird.
 
-Der grapah zeigt an wie viele liter eingefüllt wurden.$$\int_{0}^{5}u(t)dl$$ Volumen welchen in 5 Stunden dazugekommen ist.
+Der grapah zeigt an wie viele liter eingefüllt wurden.$$\int_{0}^{5}u(t)dl$$Volumen welchen in 5 Stunden dazugekommen ist. 
+
