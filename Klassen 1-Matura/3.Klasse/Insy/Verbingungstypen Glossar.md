@@ -1,4 +1,4 @@
-soft[[3.Insy]]
+[[3.Insy]]
 ___
 Beziehungstypen gehören zu den grundlagen von relationalen Datenbanken. Beziehungstypen beschreiben die Art der Verknüpfung zwischen zwei oder mehreren Tabellen in einer Datenbank. Davon gibt es drei Haupttypen:
 
