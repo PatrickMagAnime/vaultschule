@@ -34,13 +34,3 @@ ___
 
 ![[Pasted image 20250505114505.png]]
 
-![[Pasted image 20250505114514.png]]
-
-![[Pasted image 20250505114530.png]]
-
-![[Pasted image 20250505114538.png]]
-
-![[Pasted image 20250505114547.png]]
-
-
-
