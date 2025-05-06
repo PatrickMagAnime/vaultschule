@@ -1,18 +1,12 @@
 [[3.Mathe]]
 ___
 ![[Pasted image 20250505112255.png]]
-
 ![[Pasted image 20250505112322.png]]
-
 ![[Pasted image 20250505112445.png]]
-
 ![[Pasted image 20250505112535.png]]
-
 ![[Pasted image 20250505112554.png]]
-
 ![[Pasted image 20250505112617.png]]
 ![[Pasted image 20250505112633.png]]
-
 ![[Pasted image 20250505112652.png]]
 # Aufgabe 6.6
 
