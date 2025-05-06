@@ -1,3 +1,5 @@
+[[3.Syt]]
+___
 # Elektro- und Industriekabel
 
 In der Welt der Elektro- und Industriekabel gibt es eine Vielzahl von Kabeltypen, die für verschiedene Anwendungen und Anforderungen entwickelt wurden. Im Folgenden werden einige spezifische Kabeltypen detailliert beschrieben: Fahrzeugkabel, Batteriekabel, Zündkabel, OBD2-Kabel und CAN-Bus Kabel.

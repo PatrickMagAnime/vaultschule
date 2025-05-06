@@ -1,3 +1,5 @@
+[[3.Nwt]]
+___
 ![[Ethernet-Channel.excalidraw]]
 
 ## EC-Voraussetzungen
