@@ -22,161 +22,121 @@ Die Fläche unter der Kurve entspricht der Gesamtmenge des durchgeflossenen Gase
 
 #### Schritt 1: Grobe Unterteilung der Fläche
 Wir unterscheiden drei Bereiche:
-1. **Bereich 1 (0–20 Stunden):** Konstante Durchflussmenge von $$600,000 \, \frac{m^3}{h}$$.
-2. **Bereich 2 (20–40 Stunden):** Konstante Durchflussmenge von $$400,000 \, \frac{m^3}{h}$$.
-3. **Bereich 3 (40–60 Stunden):** Konstante Durchflussmenge von $$200,000 \, \frac{m^3}{h}$$.
-
+1. **Bereich 1 (0–20 Stunden):** Konstante Durchflussmenge von $$600,000 \, \frac{m^3}{h}$$
+2. **Bereich 2 (20–40 Stunden):** Konstante Durchflussmenge von $$400,000 \, \frac{m^3}{h}$$
+3. **Bereich 3 (40–60 Stunden):** Konstante Durchflussmenge von $$200,000 \, \frac{m^3}{h}$$
 #### Schritt 2: Berechnung der Fläche
 
 1. Für den ersten Bereich:
    $$\text{Fläche}_1 = 600,000 \cdot 20 = 12,000,000 \, m^3$$
-
 2. Für den zweiten Bereich:
    $$\text{Fläche}_2 = 400,000 \cdot 20 = 8,000,000 \, m^3$$
-
 3. Für den dritten Bereich:
    $$\text{Fläche}_3 = 200,000 \cdot 20 = 4,000,000 \, m^3$$
-
 #### Schritt 3: Gesamte Fläche
 Die gesamte Fläche ergibt sich durch Addition:
 $$\text{Gesamtfläche} = \text{Fläche}_1 + \text{Fläche}_2 + \text{Fläche}_3$$
 $$\text{Gesamtfläche} = 12,000,000 + 8,000,000 + 4,000,000 = 24,000,000 \, m^3$$
-
 ---
-
 ### Aufgabe b)
-
 An einer Messstelle wurde der Schadstoffausstoß von 8 Uhr bis 20 Uhr gemessen: Abb. 6.12.
 
 Die Fläche unter der Kurve entspricht der Gesamtemission des Schadstoffes über die Zeit. Da die Kurve nicht konstant ist, nähern wir die Fläche durch Trapezregel.
-
 #### Schritt 1: Unterteilung in Zeitintervalle
 Wir unterteilen den Bereich von 8 Uhr bis 20 Uhr in 6 gleich große Intervalle zu je 2 Stunden.
-
 #### Schritt 2: Berechnung der Flächen
 1. **Intervall 1 (8–10 Uhr):**
-   Mittelwert der Werte: $$\frac{3 + 4}{2} = 3.5 \, \frac{\text{ng}}{\text{h}}$$  
+   Mittelwert der Werte: $$\frac{3 + 4}{2} = 3.5 \, \frac{\text{ng}}{\text{h}}$$ 
    $$\text{Fläche}_1 = 3.5 \cdot 2 = 7 \, \text{ng}$$
-
 2. **Intervall 2 (10–12 Uhr):**
-   Mittelwert der Werte: $$\frac{4 + 3.5}{2} = 3.75 \, \frac{\text{ng}}{\text{h}}$$  
+   Mittelwert der Werte: $$\frac{4 + 3.5}{2} = 3.75 \, \frac{\text{ng}}{\text{h}}$$
    $$\text{Fläche}_2 = 3.75 \cdot 2 = 7.5 \, \text{ng}$$
-
 3. **Intervall 3 (12–14 Uhr):**
-   Mittelwert der Werte: $$\frac{3.5 + 2.5}{2} = 3 \, \frac{\text{ng}}{\text{h}}$$  
+   Mittelwert der Werte: $$\frac{3.5 + 2.5}{2} = 3 \, \frac{\text{ng}}{\text{h}}$$ 
    $$\text{Fläche}_3 = 3 \cdot 2 = 6 \, \text{ng}$$
-
 4. **Intervall 4 (14–16 Uhr):**
-   Mittelwert der Werte: $$\frac{2.5 + 2}{2} = 2.25 \, \frac{\text{ng}}{\text{h}}$$  
+   Mittelwert der Werte: $$\frac{2.5 + 2}{2} = 2.25 \, \frac{\text{ng}}{\text{h}}$$ 
    $$\text{Fläche}_4 = 2.25 \cdot 2 = 4.5 \, \text{ng}$$
-
 5. **Intervall 5 (16–18 Uhr):**
-   Mittelwert der Werte: $$\frac{2 + 1}{2} = 1.5 \, \frac{\text{ng}}{\text{h}}$$  
+   Mittelwert der Werte: $$\frac{2 + 1}{2} = 1.5 \, \frac{\text{ng}}{\text{h}}$$ 
    $$\text{Fläche}_5 = 1.5 \cdot 2 = 3 \, \text{ng}$$
-
 6. **Intervall 6 (18–20 Uhr):**
-   Mittelwert der Werte: $$\frac{1 + 0}{2} = 0.5 \, \frac{\text{ng}}{\text{h}}$$  
+   Mittelwert der Werte: $$\frac{1 + 0}{2} = 0.5 \, \frac{\text{ng}}{\text{h}}$$ 
    $$\text{Fläche}_6 = 0.5 \cdot 2 = 1 \, \text{ng}$$
-
 #### Schritt 3: Gesamte Fläche
 Die gesamte Fläche ergibt sich durch Addition:
 $$\text{Gesamtfläche} = \text{Fläche}_1 + \text{Fläche}_2 + \text{Fläche}_3 + \text{Fläche}_4 + \text{Fläche}_5 + \text{Fläche}_6$$
 $$\text{Gesamtfläche} = 7 + 7.5 + 6 + 4.5 + 3 + 1 = 29 \, \text{ng}$$
-
 ---
 ![[Pasted image 20250505112703.png]]
 # Aufgabe 6.7
-
 Ermittle elementargeometrisch das bestimmte Integral. Jede Rechnung wird ausführlich mit Schritten dargestellt.
 
 ---
-
 ### Aufgabe a)
-
 Berechnung des Integrals:  
 $$\int_{-1}^{3} \left( 2x - 1 \right) \, dx$$
-
 #### Schritt 1: Interpretation des Funktionsgraphen
 Die Funktion $$2x - 1$$ ist eine Gerade mit Steigung $$2$$ und y-Achsenabschnitt $$-1$$. Der Graph bildet zwei geometrische Figuren im Intervall $$[-1, 3]$$
-- Ein Trapez im Bereich $$[0, 3]$$.
-- Ein Dreieck im Bereich $$[-1, 0]$$.
-
+- Ein Trapez im Bereich $$[0, 3]$$
+- Ein Dreieck im Bereich $$[-1, 0]$$
 #### Schritt 2: Flächenberechnung
-1. **Dreieck im Bereich $$[-1, 0]$$:**  
+1. **Dreieck im Bereich $$[-1, 0]$$**
    Das Dreieck hat die Basislänge $$1$$ (von $$x = -1$$ bis $$x = 0$$) und eine Höhe, die sich aus $$f(-1) = 2(-1) - 1 = -3$$ ergibt.  
-   $$\text{Fläche}_{\text{Dreieck}} = \frac{1}{2} \cdot 1 \cdot 3 = 1.5$$  
+   $$\text{Fläche}_{\text{Dreieck}} = \frac{1}{2} \cdot 1 \cdot 3 = 1.5$$
    Da die Fläche unterhalb der x-Achse liegt, wird sie negativ:  
    $$\text{Fläche}_{\text{Dreieck}} = -1.5$$
-
-2. **Trapez im Bereich $$[0, 3]$$:**  
+2. **Trapez im Bereich $$[0, 3]$$**
    Das Trapez hat die Parallelseitenhöhen $$f(0) = -1$$ und $$f(3) = 2(3) - 1 = 5$$ sowie eine Breite von $$3$$ (Differenz der x-Werte).  
-   $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$  
+   $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$ 
    $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (-1 + 5) \cdot 3 = \frac{1}{2} \cdot 4 \cdot 3 = 6$$
-
 #### Schritt 3: Gesamtes Integral
 $$\int_{-1}^{3} \left( 2x - 1 \right) \, dx = \text{Fläche}_{\text{Dreieck}} + \text{Fläche}_{\text{Trapez}}$$  
 $$\int_{-1}^{3} \left( 2x - 1 \right) \, dx = -1.5 + 6 = 4.5$$
-
 ---
 
 ### Aufgabe b)
-
 Berechnung des Integrals:  
 $$\int_{-3}^{0} \left( -\frac{2}{3}x + 4 \right) \, dx$$
-
 #### Schritt 1: Interpretation des Funktionsgraphen
-Die Funktion $$-\frac{2}{3}x + 4$$ ist eine Gerade mit negativer Steigung $$-\frac{2}{3}$$ und y-Achsenabschnitt $$4$$. Der Graph bildet ein Trapez im Intervall $$[-3, 0]$$.
-
+Die Funktion $$-\frac{2}{3}x + 4$$ ist eine Gerade mit negativer Steigung $$-\frac{2}{3}$$ und y-Achsenabschnitt $$4$$Der Graph bildet ein Trapez im Intervall $$[-3, 0]$$
 #### Schritt 2: Flächenberechnung
-1. **Trapez im Bereich $$[-3, 0]$$:**  
+1. **Trapez im Bereich $$[-3, 0]$$**  
    Das Trapez hat die Parallelseitenhöhen $$f(-3) = -\frac{2}{3}(-3) + 4 = 2 + 4 = 6$$ und $$f(0) = -\frac{2}{3}(0) + 4 = 4$$ sowie eine Breite von $$3$$ (Differenz der x-Werte).  
-   $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$  
+   $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$ 
    $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (6 + 4) \cdot 3 = \frac{1}{2} \cdot 10 \cdot 3 = 15$$
-
 #### Schritt 3: Gesamtes Integral
-$$\int_{-3}^{0} \left( -\frac{2}{3}x + 4 \right) \, dx = \text{Fläche}_{\text{Trapez}}$$  
+$$\int_{-3}^{0} \left( -\frac{2}{3}x + 4 \right) \, dx = \text{Fläche}_{\text{Trapez}}$$ 
 $$\int_{-3}^{0} \left( -\frac{2}{3}x + 4 \right) \, dx = 15$$
-
 ---
-
 ### Aufgabe c)
-
 Berechnung des Integrals:  
 $$\int_{\frac{1}{2}}^{3} \left( \frac{4}{3}x - 1 \right) \, dx$$
-
 #### Schritt 1: Interpretation des Funktionsgraphen
-Die Funktion $$\frac{4}{3}x - 1$$ ist eine Gerade mit Steigung $$\frac{4}{3}$$ und y-Achsenabschnitt $$-1$$. Der Graph bildet ein Trapez im Intervall $$[\frac{1}{2}, 3]$$.
-
+Die Funktion $$\frac{4}{3}x - 1$$ ist eine Gerade mit Steigung $$\frac{4}{3}$$ und y-Achsenabschnitt $$-1$$. Der Graph bildet ein Trapez im Intervall $$[\frac{1}{2}, 3]$$
 #### Schritt 2: Flächenberechnung
-1. **Trapez im Bereich $$[\frac{1}{2}, 3]$$:**  
+1. **Trapez im Bereich $$[\frac{1}{2}, 3]$$**
    Das Trapez hat die Parallelseitenhöhen $$f(\frac{1}{2}) = \frac{4}{3} \cdot \frac{1}{2} - 1 = \frac{2}{3} - 1 = -\frac{1}{3}$$ und $$f(3) = \frac{4}{3} \cdot 3 - 1 = 4 - 1 = 3$$ sowie eine Breite von $$2.5$$ (Differenz der x-Werte).  
-   $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$  
+   $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$
    $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (-\frac{1}{3} + 3) \cdot 2.5 = \frac{1}{2} \cdot \frac{8}{3} \cdot 2.5 = \frac{10}{3} \cdot 2.5 = \frac{25}{3} \approx 8.33$$
-
 #### Schritt 3: Gesamtes Integral
-$$\int_{\frac{1}{2}}^{3} \left( \frac{4}{3}x - 1 \right) \, dx = \text{Fläche}_{\text{Trapez}}$$  
+$$\int_{\frac{1}{2}}^{3} \left( \frac{4}{3}x - 1 \right) \, dx = \text{Fläche}_{\text{Trapez}}$$
 $$\int_{\frac{1}{2}}^{3} \left( \frac{4}{3}x - 1 \right) \, dx \approx 8.33$$
-
 ---
-
 ### Aufgabe d)
-
 Berechnung des Integrals:  
 $$\int_{1}^{3} \left( -\frac{2}{3}x - 1 \right) \, dx$$
-
 #### Schritt 1: Interpretation des Funktionsgraphen
-Die Funktion $$-\frac{2}{3}x - 1$$ ist eine Gerade mit negativer Steigung $$-\frac{2}{3}$$ und y-Achsenabschnitt $$-1$$. Der Graph bildet ein Trapez im Intervall $$[1, 3]$$.
+Die Funktion $$-\frac{2}{3}x - 1$$ ist eine Gerade mit negativer Steigung $$-\frac{2}{3}$$ und y-Achsenabschnitt $$-1$$Der Graph bildet ein Trapez im Intervall $$[1, 3]$$
 
 #### Schritt 2: Flächenberechnung
-1. **Trapez im Bereich $$[1, 3]$$:**  
+1. **Trapez im Bereich $$[1, 3]$$**  
    Das Trapez hat die Parallelseitenhöhen $$f(1) = -\frac{2}{3} \cdot 1 - 1 = -\frac{2}{3} - 1 = -\frac{5}{3}$$ und $$f(3) = -\frac{2}{3} \cdot 3 - 1 = -2 - 1 = -3$$ sowie eine Breite von $$2$$ (Differenz der x-Werte).  
    $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (\text{Höhe}_1 + \text{Höhe}_2) \cdot \text{Breite}$$  
    $$\text{Fläche}_{\text{Trapez}} = \frac{1}{2} \cdot (-\frac{5}{3} + -3) \cdot 2 = \frac{1}{2} \cdot -\frac{14}{3} \cdot 2 = -\frac{14}{3} \approx -4.67$$
-
 #### Schritt 3: Gesamtes Integral
 $$\int_{1}^{3} \left( -\frac{2}{3}x - 1 \right) \, dx = \text{Fläche}_{\text{Trapez}}$$  
 $$\int_{1}^{3} \left( -\frac{2}{3}x - 1 \right) \, dx \approx -4.67$$
-
 ---
 ![[Pasted image 20250505112709.png]]
 ### Aufgabe a:
@@ -194,38 +154,30 @@ Wir berechnen das bestimmte Integral von $f(x)$ über den gesamten Definitionsbe
 $$
 \int_{-2}^{3} f(x) \, dx = \int_{-2}^{0} \left(\frac{1}{2}x + 2\right) \, dx + \int_{0}^{3} 4 \, dx.
 $$
-
 #### Schritt 1: Berechnung des ersten Integrals
 $$
 \int_{-2}^{0} \left(\frac{1}{2}x + 2\right) \, dx
 $$
-
 Das Integral wird aufgeteilt:
 $$
 \int_{-2}^{0} \left(\frac{1}{2}x + 2\right) \, dx = \int_{-2}^{0} \frac{1}{2}x \, dx + \int_{-2}^{0} 2 \, dx.
 $$
-
 Berechnung der einzelnen Terme:
 1. $$\int_{-2}^{0} \frac{1}{2}x \, dx = \left[\frac{1}{4}x^2\right]_{-2}^{0} = \frac{1}{4}(0)^2 - \frac{1}{4}(-2)^2 = 0 - 1 = -1.$$
 2. $$\int_{-2}^{0} 2 \, dx = \left[2x\right]_{-2}^{0} = 2(0) - 2(-2) = 0 + 4 = 4.$$
-
 Zusammen ergibt sich:
 $$
 \int_{-2}^{0} \left(\frac{1}{2}x + 2\right) \, dx = -1 + 4 = 3.
 $$
-
 #### Schritt 2: Berechnung des zweiten Integrals
 $$
 \int_{0}^{3} 4 \, dx = \left[4x\right]_{0}^{3} = 4(3) - 4(0) = 12 - 0 = 12.
 $$
-
 #### Schritt 3: Gesamtergebnis
 $$
 \int_{-2}^{3} f(x) \, dx = 3 + 12 = 15.
 $$
-
 ---
-
 ### Aufgabe b:
 Die Funktion $f(x)$ ist stückweise definiert:
 $$
@@ -241,21 +193,17 @@ Wir berechnen das bestimmte Integral von $f(x)$ über den gesamten Definitionsbe
 $$
 \int_{-1}^{4} f(x) \, dx = \int_{-1}^{1} (x + 2) \, dx + \int_{1}^{4} (-x - 4) \, dx.
 $$
-
 #### Schritt 1: Berechnung des ersten Integrals
 $$
 \int_{-1}^{1} (x + 2) \, dx
 $$
-
 Das Integral wird aufgeteilt:
 $$
 \int_{-1}^{1} (x + 2) \, dx = \int_{-1}^{1} x \, dx + \int_{-1}^{1} 2 \, dx.
 $$
-
 Berechnung der einzelnen Terme:
 1. $$\int_{-1}^{1} x \, dx = \left[\frac{1}{2}x^2\right]_{-1}^{1} = \frac{1}{2}(1)^2 - \frac{1}{2}(-1)^2 = \frac{1}{2} - \frac{1}{2} = 0.$$
 2. $$\int_{-1}^{1} 2 \, dx = \left[2x\right]_{-1}^{1} = 2(1) - 2(-1) = 2 + 2 = 4.$$
-
 Zusammen ergibt sich:
 $$
 \int_{-1}^{1} (x + 2) \, dx = 0 + 4 = 4.
@@ -265,45 +213,35 @@ $$
 $$
 \int_{1}^{4} (-x - 4) \, dx
 $$
-
 Das Integral wird aufgeteilt:
 $$
 \int_{1}^{4} (-x - 4) \, dx = \int_{1}^{4} -x \, dx + \int_{1}^{4} -4 \, dx.
 $$
-
 Berechnung der einzelnen Terme:
 1. $$\int_{1}^{4} -x \, dx = \left[-\frac{1}{2}x^2\right]_{1}^{4} = -\frac{1}{2}(4)^2 + \frac{1}{2}(1)^2 = -8 + 0.5 = -7.5.$$
 2. $$\int_{1}^{4} -4 \, dx = \left[-4x\right]_{1}^{4} = -4(4) + 4(1) = -16 + 4 = -12.$$
-
 Zusammen ergibt sich:
 $$
 \int_{1}^{4} (-x - 4) \, dx = -7.5 - 12 = -19.5.
 $$
-
 #### Schritt 3: Gesamtergebnis
 $$
 \int_{-1}^{4} f(x) \, dx = 4 - 19.5 = -15.5.
 $$
-
 ---
 ![[Pasted image 20250505112719.png]]
 ### Aufgabe a)
-
 Gegeben:
 - \(f(x) = 0.5x + 2\)
 - \(a = 0\), \(b = 2\), \(n = 4\)
-
 #### Schritt 1: Berechnung der Intervallbreite
 $$\Delta x = \frac{b-a}{n} = \frac{2-0}{4} = 0.5$$
-
 #### Schritt 2: Unterteilung der Intervalle
 Die Intervalle sind: 
 \([0, 0.5], [0.5, 1], [1, 1.5], [1.5, 2]\).
-
 #### Schritt 3: Berechnung der Untersumme
 Für die Untersumme nehmen wir jeweils den linken Intervallrand:
 $$x_0 = 0, \, x_1 = 0.5, \, x_2 = 1, \, x_3 = 1.5$$
-
 Berechnung:
 $$
 f(x_0) = 0.5 \cdot 0 + 2 = 2 \\
@@ -311,16 +249,13 @@ f(x_1) = 0.5 \cdot 0.5 + 2 = 2.25 \\
 f(x_2) = 0.5 \cdot 1 + 2 = 2.5 \\
 f(x_3) = 0.5 \cdot 1.5 + 2 = 2.75
 $$
-
 Untersumme:
 $$
 U = \Delta x \cdot (f(x_0) + f(x_1) + f(x_2) + f(x_3)) = 0.5 \cdot (2 + 2.25 + 2.5 + 2.75) = 4.75
 $$
-
 #### Schritt 4: Berechnung der Obersumme
 Für die Obersumme nehmen wir jeweils den rechten Intervallrand:
 $$x_1 = 0.5, \, x_2 = 1, \, x_3 = 1.5, \, x_4 = 2$$
-
 Berechnung:
 $$
 f(x_1) = 0.5 \cdot 0.5 + 2 = 2.25 \\
@@ -333,26 +268,19 @@ Obersumme:
 $$
 O = \Delta x \cdot (f(x_1) + f(x_2) + f(x_3) + f(x_4)) = 0.5 \cdot (2.25 + 2.5 + 2.75 + 3) = 5.25
 $$
-
 ---
-
 ### Aufgabe b)
-
 Gegeben:
 - \(f(x) = \frac{1}{2}x^2\)
 - \(a = 0\), \(b = 3\), \(n = 6\)
-
 #### Schritt 1: Berechnung der Intervallbreite
 $$\Delta x = \frac{b-a}{n} = \frac{3-0}{6} = 0.5$$
-
 #### Schritt 2: Unterteilung der Intervalle
 Die Intervalle sind:
 \([0, 0.5], [0.5, 1], [1, 1.5], [1.5, 2], [2, 2.5], [2.5, 3]\).
-
 #### Schritt 3: Berechnung der Untersumme
 Für die Untersumme nehmen wir jeweils den linken Intervallrand:
 $$x_0 = 0, \, x_1 = 0.5, \, x_2 = 1, \, x_3 = 1.5, \, x_4 = 2, \, x_5 = 2.5$$
-
 Berechnung:
 $$
 f(x_0) = \frac{1}{2} \cdot 0^2 = 0 \\
@@ -362,16 +290,13 @@ f(x_3) = \frac{1}{2} \cdot 1.5^2 = 1.125 \\
 f(x_4) = \frac{1}{2} \cdot 2^2 = 2 \\
 f(x_5) = \frac{1}{2} \cdot 2.5^2 = 3.125
 $$
-
 Untersumme:
 $$
 U = \Delta x \cdot (f(x_0) + f(x_1) + f(x_2) + f(x_3) + f(x_4) + f(x_5)) = 0.5 \cdot (0 + 0.125 + 0.5 + 1.125 + 2 + 3.125) = 3.4375
 $$
-
 #### Schritt 4: Berechnung der Obersumme
 Für die Obersumme nehmen wir jeweils den rechten Intervallrand:
 $$x_1 = 0.5, \, x_2 = 1, \, x_3 = 1.5, \, x_4 = 2, \, x_5 = 2.5, \, x_6 = 3$$
-
 Berechnung:
 $$
 f(x_1) = \frac{1}{2} \cdot 0.5^2 = 0.125 \\
@@ -381,7 +306,6 @@ f(x_4) = \frac{1}{2} \cdot 2^2 = 2 \\
 f(x_5) = \frac{1}{2} \cdot 2.5^2 = 3.125 \\
 f(x_6) = \frac{1}{2} \cdot 3^2 = 4.5
 $$
-
 Obersumme:
 $$
 O = \Delta x \cdot (f(x_1) + f(x_2) + f(x_3) + f(x_4) + f(x_5) + f(x_6)) = 0.5 \cdot (0.125 + 0.5 + 1.125 + 2 + 3.125 + 4.5) = 5.6875
@@ -393,60 +317,43 @@ $$
 ![[Pasted image 20250505112916.png]]
 ### Aufgabe a
 Die Funktion lautet: $$f(x) = x + 1$$
-
 **Schritt 1: Stammfunktionen bestimmen**
-
 Eine Stammfunktion von \( f(x) \) ist eine Funktion \( F(x) \), deren Ableitung \( f(x) \) ergibt. 
-
 Die Regel lautet: $$\int f(x) dx = \text{Stammfunktion + C (Integrationskonstante)}$$
-
 Berechnen wir zwei Stammfunktionen:
 
 1. $$F_1(x) = \int (x + 1) dx = \frac{x^2}{2} + x + C_1$$
 2. $$F_2(x) = \int (x + 1) dx = \frac{x^2}{2} + x + C_2$$
-
 **Schritt 2: Nachweis durch Ableiten**
-
 Ableitung von \( F_1(x) \):
 $$\frac{d}{dx}\left(\frac{x^2}{2} + x + C_1\right) = x + 1$$
 
 Ableitung von \( F_2(x) \):
 $$\frac{d}{dx}\left(\frac{x^2}{2} + x + C_2\right) = x + 1$$
-
 Da beide Ableitungen \( f(x) \) ergeben, sind \( F_1(x) \) und \( F_2(x) \) Stammfunktionen von \( f(x) \).
 
 ---
-
 ### Aufgabe b
 Die Funktion lautet: $$f(x) = 3x$$
-
 **Schritt 1: Stammfunktionen bestimmen**
 
 1. $$F_1(x) = \int 3x dx = \frac{3x^2}{2} + C_1$$
 2. $$F_2(x) = \int 3x dx = \frac{3x^2}{2} + C_2$$
-
 **Schritt 2: Nachweis durch Ableiten**
-
 Ableitung von \( F_1(x) \):
 $$\frac{d}{dx}\left(\frac{3x^2}{2} + C_1\right) = 3x$$
-
 Ableitung von \( F_2(x) \):
 $$\frac{d}{dx}\left(\frac{3x^2}{2} + C_2\right) = 3x$$
-
 Beide Ableitungen ergeben \( f(x) \), also sind \( F_1(x) \) und \( F_2(x) \) Stammfunktionen.
 
 ---
-
 ### Aufgabe c
 Die Funktion lautet: $$f(x) = \frac{x}{2}$$
-
 **Schritt 1: Stammfunktionen bestimmen**
 
 1. $$F_1(x) = \int \frac{x}{2} dx = \frac{x^2}{4} + C_1$$
 2. $$F_2(x) = \int \frac{x}{2} dx = \frac{x^2}{4} + C_2$$
-
 **Schritt 2: Nachweis durch Ableiten**
-
 Ableitung von \( F_1(x) \):
 $$\frac{d}{dx}\left(\frac{x^2}{4} + C_1\right) = \frac{x}{2}$$
 
@@ -459,14 +366,11 @@ Damit sind \( F_1(x) \) und \( F_2(x) \) Stammfunktionen.
 
 ### Aufgabe d
 Die Funktion lautet: $$f(x) = x^2 + x$$
-
 **Schritt 1: Stammfunktionen bestimmen**
-
 1. $$F_1(x) = \int (x^2 + x) dx = \frac{x^3}{3} + \frac{x^2}{2} + C_1$$
 2. $$F_2(x) = \int (x^2 + x) dx = \frac{x^3}{3} + \frac{x^2}{2} + C_2$$
 
 **Schritt 2: Nachweis durch Ableiten**
-
 Ableitung von \( F_1(x) \):
 $$\frac{d}{dx}\left(\frac{x^3}{3} + \frac{x^2}{2} + C_1\right) = x^2 + x$$
 
@@ -476,23 +380,16 @@ $$\frac{d}{dx}\left(\frac{x^3}{3} + \frac{x^2}{2} + C_2\right) = x^2 + x$$
 Die Ableitungen zeigen, dass \( F_1(x) \) und \( F_2(x) \) Stammfunktionen sind.
 
 ---
-
 ### Aufgabe e
 Die Funktion lautet: $$f(x) = 1 + \frac{1}{x}$$
-
 **Schritt 1: Stammfunktionen bestimmen**
-
 1. $$F_1(x) = \int \left( 1 + \frac{1}{x} \right) dx = x + \ln|x| + C_1$$
 2. $$F_2(x) = \int \left( 1 + \frac{1}{x} \right) dx = x + \ln|x| + C_2$$
-
 **Schritt 2: Nachweis durch Ableiten**
-
 Ableitung von \( F_1(x) \):
 $$\frac{d}{dx}\left(x + \ln|x| + C_1\right) = 1 + \frac{1}{x}$$
-
 Ableitung von \( F_2(x) \):
 $$\frac{d}{dx}\left(x + \ln|x| + C_2\right) = 1 + \frac{1}{x}$$
-
 Da die Ableitungen \( f(x) \) ergeben, sind \( F_1(x) \) und \( F_2(x) \) Stammfunktionen.
 
 ---
@@ -501,19 +398,15 @@ Da die Ableitungen \( f(x) \) ergeben, sind \( F_1(x) \) und \( F_2(x) \) Stammf
 $$
 \int \frac{x}{x-1} \, dx
 $$
-
 **Rechnungsschritte:**
-
 1. Wir schreiben den Bruch als Summe:
    $$
    \frac{x}{x-1} = 1 + \frac{1}{x-1}
    $$
-
 2. Anschließend integrieren wir beide Terme getrennt:
    $$
    \int \frac{x}{x-1} \, dx = \int 1 \, dx + \int \frac{1}{x-1} \, dx
    $$
-
 3. Die Integrale lösen sich wie folgt:
    - $\int 1 \, dx = x$
    - $\int \frac{1}{x-1} \, dx = \ln|x-1|$
@@ -522,43 +415,33 @@ $$
    $$
    \int \frac{x}{x-1} \, dx = x + \ln|x-1| + C
    $$
-
 ---
-
 **Alternative Darstellung:**
 $$
 \int \frac{1}{x-1} \, dx
 $$
-
 Hierbei handelt es sich lediglich um das Integral des zweiten Terms aus der Zerlegung:
    $$
    \int \frac{1}{x-1} \, dx = \ln|x-1| + C
    $$
-
 ---
-
 ### Aufgabe b
 $$
 \int \sin^2(x) \, dx
 $$
-
 **Rechnungsschritte:**
-
 1. Verwende die Identität für $\sin^2(x)$:
    $$
    \sin^2(x) = \frac{1 - \cos(2x)}{2}
    $$
-
 2. Ersetze $\sin^2(x)$ im Integral:
    $$
    \int \sin^2(x) \, dx = \int \frac{1 - \cos(2x)}{2} \, dx
    $$
-
 3. Zerlege das Integral:
    $$
    \int \sin^2(x) \, dx = \frac{1}{2} \int 1 \, dx - \frac{1}{2} \int \cos(2x) \, dx
    $$
-
 4. Löse die einzelnen Integrale:
    - $\int 1 \, dx = x$
    - $\int \cos(2x) \, dx = \frac{\sin(2x)}{2}$
@@ -567,76 +450,57 @@ $$
    $$
    \int \sin^2(x) \, dx = \frac{1}{2}x - \frac{1}{4}\sin(2x) + C
    $$
-
 ---
-
 **Alternative Darstellung:**
 $$
 \int -\frac{1}{2}\cos(2x) \, dx
 $$
-
 Hierbei handelt es sich um die Umformung des zweiten Terms:
    $$
    \int -\frac{1}{2}\cos(2x) \, dx = -\frac{1}{4}\sin(2x) + C
    $$
 ![[Pasted image 20250505112956.png]]
 ### Aufgabe 6.16
-
 **Gegeben:**
 In Abb. 6.15 sind zwei Funktionsgraphen dargestellt. Es soll argumentiert werden, warum \( F \) eine Stammfunktion der Funktion \( f \) ist.
 
 ---
-
 #### Argumentation:
-
 1. **Steigung von \( F \):**
    - Die Steigung des Graphen von \( F \) in jedem Punkt entspricht dem Funktionswert von \( f \) an dieser Stelle.
    - Das bedeutet, die Ableitungsregel \( F'(x) = f(x) \) ist erfüllt.
-
    $$
    F'(x) = f(x)
    $$
-
-2. **Monotonieverhalten:**
+1. **Monotonieverhalten:**
    - Wenn \( f(x) > 0 \), steigt \( F(x) \) an (der Graph von \( F \) ist ansteigend).
    - Wenn \( f(x) < 0 \), fällt \( F(x) \) ab (der Graph von \( F \) ist abfallend).
-
    $$
    f(x) > 0 \implies F(x) \text{ ist ansteigend}
    $$
-
    $$
    f(x) < 0 \implies F(x) \text{ ist abfallend}
    $$
-
-3. **Nullstellen:**
+1. **Nullstellen:**
    - Die Nullstellen von \( f(x) \) entsprechen den Extrempunkten von \( F(x) \), da an diesen Stellen \( F'(x) = 0 \).
-
    $$
    f(x) = 0 \implies \text{Extrempunkt von } F(x)
    $$
-
-4. **Flächeninhalt:**
+1. **Flächeninhalt:**
    - Der Wert von \( F(x) \) in einem Intervall repräsentiert den Flächeninhalt unter dem Graphen von \( f(x) \) in diesem Intervall (bis auf eine Integrationskonstante).
-
    $$
    F(x) = \int f(x) \, dx
    $$
-
 ---
-
 #### Schlussfolgerung:
 Die genannten Eigenschaften sind hinreichende Argumente dafür, dass \( F \) die Stammfunktion von \( f \) ist.
 ![[Pasted image 20250505113003.png]]
 ### Aufgabe 6.17
-
 **Gegeben:**
 In Abb. 6.16 sind die Graphen von vier Funktionen \( f_1 \), \( f_2 \), \( f_3 \) und \( f \) dargestellt. Es soll geprüft werden, ob eine der Funktionen \( f_1 \), \( f_2 \) oder \( f_3 \) eine Stammfunktion von \( f \) sein könnte.
 
 ---
-
 #### Lösung und Erklärung:
-
 1. **Eigenschaft der Stammfunktion:**
    - Eine Funktion \( F(x) \) ist eine Stammfunktion von \( f(x) \), wenn die Ableitung von \( F(x) \) gleich \( f(x) \) ist, also:
      $$
@@ -652,95 +516,72 @@ In Abb. 6.16 sind die Graphen von vier Funktionen \( f_1 \), \( f_2 \), \( f_3 \
 
 4. **Nullstellen:**
    - Die Nullstellen von \( f(x) \) müssen Extremstellen der Stammfunktion sein, da an diesen Punkten die Steigung der Stammfunktion \( F(x) \) gleich null ist.
-
 ---
-
 #### Ergebnis:
 - Vergleiche die Graphen in Abb. 6.16 gemäß den oben genannten Kriterien, um zu prüfen, welche der Funktionen \( f_1 \), \( f_2 \) oder \( f_3 \) eine Stammfunktion von \( f \) sein könnte.
 ![[Pasted image 20250505113011.png]]
 ### Aufgabe a
 $$\int x^3 \, dx$$
-
 Rechnung:
 1. Verwende die allgemeine Regel für Potenzfunktionen: $$\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$$
 2. Setze $$n = 3$$ ein:  
    $$\int x^3 \, dx = \frac{x^{3+1}}{3+1} + C$$
 3. Vereinfache:  
    $$\int x^3 \, dx = \frac{x^4}{4} + C$$
-
 Probe:
 1. Bilde die Ableitung des Ergebnisses:  
    $$\frac{d}{dx}\left(\frac{x^4}{4} + C\right) = x^3$$
 2. Das entspricht dem ursprünglichen Integranden, daher ist das Ergebnis korrekt.
-
 ---
-
 ### Aufgabe b
 $$\int x^5 \, dx$$
-
 Rechnung:
 1. Verwende die Regel für Potenzfunktionen: $$\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$$
-2. Setze $$n = 5$$ ein:  
+2. Setze $$n = 5$$ ein: 
    $$\int x^5 \, dx = \frac{x^{5+1}}{5+1} + C$$
 3. Vereinfache:  
    $$\int x^5 \, dx = \frac{x^6}{6} + C$$
-
 Probe:
 1. Bilde die Ableitung des Ergebnisses:  
    $$\frac{d}{dx}\left(\frac{x^6}{6} + C\right) = x^5$$
 2. Das entspricht dem ursprünglichen Integranden, daher ist das Ergebnis korrekt.
-
 ---
-
 ### Aufgabe c
 $$\int x \, dx$$
-
 Rechnung:
 1. Verwende die Regel für Potenzfunktionen: $$\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$$
 2. Setze $$n = 1$$ ein:  
    $$\int x \, dx = \frac{x^{1+1}}{1+1} + C$$
 3. Vereinfache:  
    $$\int x \, dx = \frac{x^2}{2} + C$$
-
 Probe:
 1. Bilde die Ableitung des Ergebnisses:  
    $$\frac{d}{dx}\left(\frac{x^2}{2} + C\right) = x$$
 2. Das entspricht dem ursprünglichen Integranden, daher ist das Ergebnis korrekt.
-
 ---
-
 ### Aufgabe d
 $$\int 1 \, dx$$
-
 Rechnung:
-1. Das Integral einer Konstanten $$k$$ ist $$\int k \, dx = kx + C$$.
+1. Das Integral einer Konstanten $$k$$ ist $$\int k \, dx = kx + C$$
 2. Setze $$k = 1$$ ein:  
    $$\int 1 \, dx = 1 \cdot x + C = x + C$$
-
 Probe:
 1. Bilde die Ableitung des Ergebnisses:  
    $$\frac{d}{dx}(x + C) = 1$$
 2. Das entspricht dem ursprünglichen Integranden, daher ist das Ergebnis korrekt.
-
 ---
-
 ### Aufgabe e
 $$\int 0 \, dx$$
-
 Rechnung:
 1. Das Integral von $$0$$ ist immer null, da keine Fläche unter der Kurve existiert:  
    $$\int 0 \, dx = 0 + C = C$$
-
 Probe:
 1. Bilde die Ableitung des Ergebnisses:  
    $$\frac{d}{dx}(C) = 0$$
 2. Das entspricht dem ursprünglichen Integranden, daher ist das Ergebnis korrekt.
-
 ---
-
 ### Aufgabe f
 $$\int \frac{1}{x} \, dx$$
-
 Rechnung:
 1. Das Integral von $$\frac{1}{x}$$ ist eine bekannte Regel:  
    $$\int \frac{1}{x} \, dx = \ln|x| + C$$
