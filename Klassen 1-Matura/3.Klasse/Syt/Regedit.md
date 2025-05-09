@@ -41,7 +41,6 @@ Bei mir steht dort:
 (Das kann je nach Windows-Version unterschiedlich sein.)
 
 ---
-
 **6. Erstelle folgenden neuen Schlüssel in der Registry:**  
 **Pfad:** HKEY_CURRENT_USER\Software\HTLTest  
 **Neuer Schlüssel:** TestKey  
@@ -50,14 +49,13 @@ Bei mir steht dort:
 **vorgegangen:**  
 1. Ich habe den Registrierungseditor (regedit) geöffnet.  
 2. Dann bin ich zu `HKEY_CURRENT_USER\Software` gegangen.  
-3. Dort habe ich mit Rechtsklick auf `Software` → `Neu` → `Schlüssel` ausgewählt und den Namen `HTLTest` vergeben.  
-4. Danach habe ich auf `HTLTest` rechtsgeklickt, wieder `Neu` → `Schlüssel` und diesen `TestKey` genannt.  
-5. Im Schlüssel `TestKey` habe ich rechts im Fenster Rechtsklick → `Neu` → `Zeichenfolge` ausgewählt.  
+3. Dort habe ich mit Rechtsklick auf `Software` -> `Neu` -> `Schlüssel` ausgewählt und den Namen `HTLTest` vergeben.  
+4. Danach habe ich auf `HTLTest` rechtsgeklickt, wieder `Neu` -> `Schlüssel` und diesen `TestKey` genannt.  
+5. Im Schlüssel `TestKey` habe ich rechts im Fenster Rechtsklick -> `Neu` -> `Zeichenfolge` ausgewählt.  
 6. Die Zeichenfolge habe ich `Name` genannt.  
 7. Mit Doppelklick auf `Name` habe ich als Wert `"Patrick"` eingetragen.
 
 ---
-
 **7. Exportiere den erstellten Schlüssel (HTLTest) in eine .reg-Datei. Beschreibe den Aufbau dieser Datei.**  
 
 **Schritte:**  
@@ -70,8 +68,8 @@ Bei mir steht dort:
 - Dann steht der Pfad in eckigen Klammern, z.B. `[HKEY_CURRENT_USER\Software\HTLTest\TestKey]`
 - Darunter steht der Wert als Text.
 
-**Beispiel-Inhalt der Datei:**  
-```
+**Inhalt der Datei:**  
+```cpp
 Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\HTLTest\TestKey]
@@ -79,12 +77,13 @@ Windows Registry Editor Version 5.00
 ```
 
 ---
-
 ## Teil C: Anwendungsbeispiele
 
 **8. Welche Registry-Pfade sind für den Autostart von Programmen beim Windows-Login relevant?**  
-- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run` (nur für den aktuellen Benutzer)
-- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run` (für alle Benutzer)
+`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
+(nur für den aktuellen Benutzer)
+`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+(für alle Benutzer)
 
 **9. Recherchiere ein Beispiel, wie eine Software bei der Installation Registry-Werte verwendet.**  
 Bei der Installation von vielen Programmen, zum Beispiel Google Chrome, wird in der Registry ein Eintrag für den Autostart gemacht.  
@@ -95,16 +94,13 @@ Dort steht dann zum Beispiel:
 Dadurch startet Chrome automatisch, wenn man sich anmeldet.
 
 ---
-
-## Zusatzaufgabe (freiwillig)
+## Zusatzaufgabe
 
 **10. Was sind die Gefahren bei der Bearbeitung der Registry? Wie kann man sich davor schützen?**  
 - Gefahren:  
-  - Wenn man etwas Falsches ändert oder löscht, kann Windows oder ein Programm nicht mehr richtig funktionieren.
+  - Wenn man etwas Falsches ändert oder löscht, kann Windows oder ein Programm nicht mehr richtig funktionieren. Es ist so wie der System32 Ordner.
   - Im schlimmsten Fall startet der Computer nicht mehr.
 - Schutz:  
-  - Vorher die Registry oder einzelne Schlüssel exportieren (sichern).
+  - Vorher die Registry oder einzelne Schlüssel exportieren.
   - Nur etwas ändern, wenn man weiß, was man tut.
   - Keine Registry-Dateien aus dem Internet ausführen, denen man nicht vertraut.
-
----
