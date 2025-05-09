@@ -21,7 +21,7 @@ Ein Schlüssel ist wie ein Ordner in dem Einstellungen liegen.
 Ein Wert ist wie eine Datei darin, die einen Namen und einen Inhalt hat.
 
 **4. Welche Bedeutung haben folgende Datentypen in der Registry?**  
-**REG_SZ:** Das ist ein normaler Text (Zeichenfolge).
+**REG_SZ:** Das ist ein normaler Text.
 **REG_DWORD:** Das ist eine Zahl, meistens 0 oder 1, manchmal aber auch andere Zahlen.
 **REG_BINARY:** Das sind Rohdaten, also Zahlen in einer bestimmten Form, die der Computer benutzt.
 
@@ -36,9 +36,8 @@ Ich habe im Registrierungseditor den Pfad geöffnet und nachgeschaut.
 Der Schlüssel heißt: `ProductName`
 
 **b) Welcher Wert steht dort?**  
-Bei mir steht dort:  
+Bei mir steht:  
 `Windows 10`  
-(Das kann je nach Windows-Version unterschiedlich sein.)
 
 ---
 **6. Erstelle folgenden neuen Schlüssel in der Registry:**  
