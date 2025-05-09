@@ -45,7 +45,7 @@ Bei mir steht:
 **Neuer Schlüssel:** TestKey  
 **Neuer Wert:** Name = "Patrick" vom Typ: REG_SZ  
 
-**vorgegangen:**  
+**Vorgang:**  
 1. Ich habe den Registrierungseditor (regedit) geöffnet mit win+r `regedit`. 
 2. Dann bin ich zu `HKEY_CURRENT_USER\Software` gegangen.  
 3. Dort habe ich mit Rechtsklick auf `Software` -> `Neu` -> `Schlüssel` ausgewählt und den Namen `HTLTest` vergeben.  
