@@ -8,24 +8,24 @@ Die Windows-Registry ist eine Datenbank in Windows in der Einstellungen und Info
 **2. Nenne die fünf Hauptbereiche (Hives) der Registry und beschreibe jeweils kurz deren Zweck.**  
 **HKEY_CLASSES_ROOT (HKCR):** Hier stehen Infos über Dateitypen und wie sie mit Programmen verknüpft sind.
 
-	**HKEY_CURRENT_USER (HKCU):** Hier stehen Einstellungen, die nur für den aktuell angemeldeten Benutzer gelten.
-	
-	**HKEY_LOCAL_MACHINE (HKLM):** Hier stehen Einstellungen, die für alle Nutzer des Rechners gelten, zum Beispiel installierte Programme oder Hardware.
-	
-	**HKEY_USERS (HKU):** Hier sind für alle Benutzerkonten die Einstellungen gespeichert.
-	
-	**HKEY_CURRENT_CONFIG (HKCC):** Hier sind Infos zur aktuellen Hardware-Konfiguration gespeichert.
+**HKEY_CURRENT_USER (HKCU):** Hier stehen Einstellungen, die nur für den aktuell angemeldeten Benutzer gelten.
+
+**HKEY_LOCAL_MACHINE (HKLM):** Hier stehen Einstellungen, die für alle Nutzer des Rechners gelten, zum Beispiel installierte Programme oder Hardware.
+
+**HKEY_USERS (HKU):** Hier sind für alle Benutzerkonten die Einstellungen gespeichert.
+
+**HKEY_CURRENT_CONFIG (HKCC):** Hier sind Infos zur aktuellen Hardware-Konfiguration gespeichert.
 
 **3. Was ist der Unterschied zwischen einem Schlüssel und einem Wert in der Registry?**  
-Ein Schlüssel ist wie ein Ordner, in dem Einstellungen liegen. Ein Wert ist wie eine Datei darin, die einen Namen und einen Inhalt hat.
+Ein Schlüssel ist wie ein Ordner in dem Einstellungen liegen.
+Ein Wert ist wie eine Datei darin, die einen Namen und einen Inhalt hat.
 
 **4. Welche Bedeutung haben folgende Datentypen in der Registry?**  
-- **REG_SZ:** Das ist ein normaler Text (Zeichenfolge).
-- **REG_DWORD:** Das ist eine Zahl, meistens 0 oder 1, manchmal aber auch andere Zahlen.
-- **REG_BINARY:** Das sind Rohdaten, also Zahlen in einer bestimmten Form, die der Computer benutzt.
+**REG_SZ:** Das ist ein normaler Text (Zeichenfolge).
+**REG_DWORD:** Das ist eine Zahl, meistens 0 oder 1, manchmal aber auch andere Zahlen.
+**REG_BINARY:** Das sind Rohdaten, also Zahlen in einer bestimmten Form, die der Computer benutzt.
 
 ---
-
 ## Teil B: Praktische Aufgaben
 
 **5. Öffne den Registrierungseditor (regedit). Navigiere zu folgendem Pfad und lies den vorhandenen Wert aus:**  
@@ -37,17 +37,17 @@ Der Schlüssel heißt: `ProductName`
 
 **b) Welcher Wert steht dort?**  
 Bei mir steht dort:  
-`Windows 10 Pro`  
+`Windows 10`  
 (Das kann je nach Windows-Version unterschiedlich sein.)
 
 ---
 
 **6. Erstelle folgenden neuen Schlüssel in der Registry:**  
-- **Pfad:** HKEY_CURRENT_USER\Software\HTLTest  
-- **Neuer Schlüssel:** TestKey  
-- **Neuer Wert:** Name = "Patrick" (Typ: REG_SZ)  
+**Pfad:** HKEY_CURRENT_USER\Software\HTLTest  
+**Neuer Schlüssel:** TestKey  
+**Neuer Wert:** Name = "Patrick" (Typ: REG_SZ)  
 
-**So bin ich vorgegangen:**  
+**vorgegangen:**  
 1. Ich habe den Registrierungseditor (regedit) geöffnet.  
 2. Dann bin ich zu `HKEY_CURRENT_USER\Software` gegangen.  
 3. Dort habe ich mit Rechtsklick auf `Software` → `Neu` → `Schlüssel` ausgewählt und den Namen `HTLTest` vergeben.  
