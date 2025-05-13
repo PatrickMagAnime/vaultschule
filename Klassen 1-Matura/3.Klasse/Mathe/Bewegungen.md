@@ -1,33 +1,33 @@
 [[3.Mathe]]
 ___
-![[Pasted image 20250505114849.png]]
-![[Pasted image 20250505114906.png]]
+![[Mathe Buch Nummer 7.75 1ter teil.png]]
+![[Mathe Buch Nummer 7.75 2ter teil.png]]
 
-![[Pasted image 20250505114920.png]]
-![[Pasted image 20250505114937.png]]
+![[Mathe Buch Nummer 7.58 1ter teil.png]]
+![[Mathe Buch Nummer 7.58 2ter teil.png]]
 
-![[Pasted image 20250505114951.png]]
-![[Pasted image 20250505115019.png]]
+![[Mathe Buch Nummer 7.59 1ter teil.png]]
+![[Mathe Buch Nummer 7.59 2ter teil.png]]
 
-![[Pasted image 20250505115035.png]]
-![[Pasted image 20250505115051.png]]
+![[Mathe Buch Nummer 7.60 1ter teil.png]]
+![[Mathe Buch Nummer 7.60 2ter teil.png]]
 
-![[Pasted image 20250505115103.png]]
+![[Mathe Buch Nummer 7.61.png]]
 
-![[Pasted image 20250505115123.png]]
+![[Mathe Buch Nummer 7.62.png]]
 
-![[Pasted image 20250505115139.png]]
+![[Mathe Buch Nummer 7.63.png]]
 
-![[Pasted image 20250505115152.png]]
+![[Mathe Buch Nummer 7.64.png]]
 
-![[Pasted image 20250505115202.png]]
+![[Mathe Buch Nummer 7.65.png]]
 
-![[Pasted image 20250505115218.png]]
+![[Mathe Buch Nummer 7.66.png]]
 
-![[Pasted image 20250505115228.png]]
+![[Mathe Buch Nummer 7.67.png]]
 
-![[Pasted image 20250505115244.png]]
+![[Mathe Buch Nummer 7.68.png]]
 
-![[Pasted image 20250505115252.png]]
+![[Mathe Buch Nummer 7.69.png]]
 
-![[Pasted image 20250505115307.png]]
+![[Mathe Buch Nummer 7.70.png]]

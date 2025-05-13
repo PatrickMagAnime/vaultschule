@@ -393,7 +393,7 @@ $$\frac{d}{dx}\left(x + \ln|x| + C_2\right) = 1 + \frac{1}{x}$$
 Da die Ableitungen \( f(x) \) ergeben, sind \( F_1(x) \) und \( F_2(x) \) Stammfunktionen.
 
 ---
-![[Pasted image 20250506122205.png]]
+![[Mathe Buch Nummer 6.15.png]]
 ### Aufgabe a
 $$
 \int \frac{x}{x-1} \, dx
