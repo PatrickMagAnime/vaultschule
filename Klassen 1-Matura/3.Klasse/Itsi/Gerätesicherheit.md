@@ -10,7 +10,7 @@ Broadcast (eingehend) & Multicasts (eingehend)
 Mitlesen und Nachrichten im idealen netz.
 - Hub (Eingehende nachrichten werden an einen slot eingehen aber an allen slots ausgeschickt)
 
-![[Pasted image 20250410131803.png]]
+![[Pc mit Hub zu server verbunden.png]]
 Angreifer Schließt sich am hub an und kann alle nachrichten mitlesen da der hub alles weiterleitet.
 
 Der client mit wireshark nimmt nur packete an die an ihn selbst gerichtet sind.
