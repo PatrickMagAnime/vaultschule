@@ -1,36 +1,36 @@
 [[3.Mathe]]
 ___
-![[Pasted image 20250505114037.png]]
+![[Mathe Buch Nummer 7.1.png]]
 
-![[Pasted image 20250505114051.png]]
-![[Pasted image 20250505114104.png]]
+![[Mathe Buch Nummer 7.2 1ter teil.png]]
+![[Mathe Buch Nummer 7.2 2ter teil.png]]
 
-![[Pasted image 20250505114125.png]]
-![[Pasted image 20250505114140.png]]
+![[Mathe Buch Nummer 7.3 1ter teil.png]]
+![[Mathe Buch Nummer 7.3 2ter teil.png]]
 
-![[Pasted image 20250505114155.png]]
+![[Bestimmte Integration symmetrischer Funktionen.png]]
 
-![[Pasted image 20250505114210.png]]
+![[Mathe Buch Nummer 7.4.png]]
 
-![[Pasted image 20250505114245.png]]
+![[Mathe Buch Nummer 7.6 (2).png]]
 
-![[Pasted image 20250505114258.png]]
+![[Mathe Buch Nummer 7.7 (2).png]]
 
-![[Pasted image 20250505114306.png]]
+![[Mathe Buch Nummer 7.8 (2).png]]
 
-![[Pasted image 20250505114316.png]]
+![[Mathe Buch Nummer 7.9 (2).png]]
 
-![[Pasted image 20250505114346.png]]
+![[Mathe Buch Nummer 7.10 (2).png]]
 
-![[Pasted image 20250505114401.png]]
+![[Mathe Buch Nummer 7.11 (2).png]]
 
-![[Pasted image 20250505114417.png]]
+![[Mathe Buch Nummer 7.12 (2).png]]
 
-![[Pasted image 20250505114426.png]]
+![[Mathe Buch Nummer 7.13 (2).png]]
 
-![[Pasted image 20250505114439.png]]
+![[Mathe Buch Nummer 7.14 (2).png]]
 
-![[Pasted image 20250505114452.png]]
+![[Mathe Buch Nummer 7.15 (2).png]]
 
-![[Pasted image 20250505114505.png]]
+![[Mathe Buch Nummer 7.16 (2).png]]
 

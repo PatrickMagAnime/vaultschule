@@ -8,14 +8,14 @@ ___
 
 ![[Pasted image 20250505113816.png]]
 
-![[Pasted image 20250505113903.png]]
-![[Pasted image 20250505113920.png]]
+![[Mathe Buch Nummer 6.53 1ter teil.png]]
+![[Mathe Buch Nummer 6.53 2ter teil.png]]
 
-![[Pasted image 20250505113932.png]]
+![[Mathe Buch Nummer 6.54.png]]
 
-![[Pasted image 20250505113939.png]]
+![[Mathe Buch Nummer 6.55.png]]
 
-![[Pasted image 20250505113947.png]]
+![[Mathe Buch Nummer 6.56.png]]
 
-![[Pasted image 20250505113958.png]]
+![[Mathe Buch Nummer 6.57.png]]
 
