@@ -1,12 +1,12 @@
 [[3.Mathe]]
 ___
-![[Pasted image 20250505113737.png]]
+![[Mathe Buch Nummer 6.49.png]]
 
-![[Pasted image 20250505113759.png]]
+![[Mathe Buch Nummer 6.50.png]]
 
-![[Pasted image 20250505113807.png]]
+![[Mathe Buch Nummer 6.51.png]]
 
-![[Pasted image 20250505113816.png]]
+![[Mathe Buch Nummer 6.52.png]]
 
 ![[Mathe Buch Nummer 6.53 1ter teil.png]]
 ![[Mathe Buch Nummer 6.53 2ter teil.png]]

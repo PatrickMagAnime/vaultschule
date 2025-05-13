@@ -1,26 +1,26 @@
 [[3.Mathe]]
 ___
-![[Pasted image 20250505113434.png]]
+![[Mathe Buch Nummer 6.34.png]]
 
-![[Pasted image 20250505113449.png]]
+![[Mathe Buch Nummer 6.35.png]]
 
-![[Pasted image 20250505113456.png]]
+![[Mathe Buch Nummer 6.36.png]]
 
-![[Pasted image 20250505113507.png]]
+![[Mathe Buch Nummer 6.37.png]]
 
-![[Pasted image 20250505113520.png]]
+![[Mathe Buch Nummer 6.38.png]]
 
-![[Pasted image 20250505113530.png]]
+![[Mathe Buch Nummer 6.39.png]]
 
-![[Pasted image 20250505113540.png]]
+![[Mathe Buch Nummer 6.40.png]]
 
-![[Pasted image 20250505113613.png]]
+![[Mathe Buch Nummer 6.41.png]]
 
-![[Pasted image 20250505113559.png]]
+![[Mathe Buch Nummer 6.42.png]]
 
-![[Pasted image 20250505113626.png]]
+![[Mathe Buch Nummer 6.43.png]]
 
-![[Pasted image 20250505113639.png]]
+![[Mathe Buch Nummer 6.44.png]]
 
-![[Pasted image 20250505113653.png]]
+![[Mathe Buch Nummer 6.45.png]]
 

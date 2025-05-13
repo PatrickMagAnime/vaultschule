@@ -1,13 +1,13 @@
 [[3.Mathe]]
 ___
-![[Pasted image 20250505112255.png]]
-![[Pasted image 20250505112322.png]]
-![[Pasted image 20250505112445.png]]
-![[Pasted image 20250505112535.png]]
-![[Pasted image 20250505112554.png]]
-![[Pasted image 20250505112617.png]]
-![[Pasted image 20250505112633.png]]
-![[Pasted image 20250505112652.png]]
+![[Mathe Buch Nummer 6.1 1ter teil.png]]
+![[Mathe Buch Nummer 6.1 2ter teil.png]]
+![[Mathe Buch Nummer 6.2.png]]
+![[Mathe Buch Nummer 6.3.png]]
+![[Mathe Buch Nummer 6.4.png]]
+![[Mathe Buch Nummer 6.5.png]]
+![[Integral als Flächeninhalt.png]]
+![[Mathe Buch Nummer 6.6.png]]
 # Aufgabe 6.6
 
 Gib die konkrete Bedeutung des Flächeninhalts an, der in der nachfolgenden Abbildung zwischen dem Funktionsgraphen und der Zeitachse liegt. Ermittele danach näherungsweise diesen Flächeninhalt.
@@ -68,7 +68,7 @@ Die gesamte Fläche ergibt sich durch Addition:
 $$\text{Gesamtfläche} = \text{Fläche}_1 + \text{Fläche}_2 + \text{Fläche}_3 + \text{Fläche}_4 + \text{Fläche}_5 + \text{Fläche}_6$$
 $$\text{Gesamtfläche} = 7 + 7.5 + 6 + 4.5 + 3 + 1 = 29 \, \text{ng}$$
 ---
-![[Pasted image 20250505112703.png]]
+![[Mathe Buch Nummer 6.7.png]]
 # Aufgabe 6.7
 Ermittle elementargeometrisch das bestimmte Integral. Jede Rechnung wird ausführlich mit Schritten dargestellt.
 
@@ -138,7 +138,7 @@ Die Funktion $$-\frac{2}{3}x - 1$$ ist eine Gerade mit negativer Steigung $$-\fr
 $$\int_{1}^{3} \left( -\frac{2}{3}x - 1 \right) \, dx = \text{Fläche}_{\text{Trapez}}$$  
 $$\int_{1}^{3} \left( -\frac{2}{3}x - 1 \right) \, dx \approx -4.67$$
 ---
-![[Pasted image 20250505112709.png]]
+![[Mathe Buch Nummer 6.8.png]]
 ### Aufgabe a:
 Die Funktion $f(x)$ ist stückweise definiert:
 $$
@@ -229,7 +229,7 @@ $$
 \int_{-1}^{4} f(x) \, dx = 4 - 19.5 = -15.5.
 $$
 ---
-![[Pasted image 20250505112719.png]]
+![[Mathe Buch Nummer 6.9.png]]
 ### Aufgabe a)
 Gegeben:
 - \(f(x) = 0.5x + 2\)
@@ -310,11 +310,11 @@ Obersumme:
 $$
 O = \Delta x \cdot (f(x_1) + f(x_2) + f(x_3) + f(x_4) + f(x_5) + f(x_6)) = 0.5 \cdot (0.125 + 0.5 + 1.125 + 2 + 3.125 + 4.5) = 5.6875
 $$
-![[Pasted image 20250505112737.png]]
-![[Pasted image 20250505112809.png]]
-![[Pasted image 20250505112827.png]]
-![[Pasted image 20250505112845.png]]
-![[Pasted image 20250505112916.png]]
+![[Mathe Buch Nummer 6.10.png]]
+![[Mathe Buch Nummer 6.11.png]]
+![[Mathe Buch Nummer 6.12.png]]
+![[Mathe Buch Nummer 6.13 und Grundintegrale.png]]
+![[Mathe Buch Nummer 6.14.png]]
 ### Aufgabe a
 Die Funktion lautet: $$f(x) = x + 1$$
 **Schritt 1: Stammfunktionen bestimmen**
@@ -459,7 +459,7 @@ Hierbei handelt es sich um die Umformung des zweiten Terms:
    $$
    \int -\frac{1}{2}\cos(2x) \, dx = -\frac{1}{4}\sin(2x) + C
    $$
-![[Pasted image 20250505112956.png]]
+![[Mathe Buch Nummer 6.16.png]]
 ### Aufgabe 6.16
 **Gegeben:**
 In Abb. 6.15 sind zwei Funktionsgraphen dargestellt. Es soll argumentiert werden, warum \( F \) eine Stammfunktion der Funktion \( f \) ist.
@@ -494,7 +494,7 @@ In Abb. 6.15 sind zwei Funktionsgraphen dargestellt. Es soll argumentiert werden
 ---
 #### Schlussfolgerung:
 Die genannten Eigenschaften sind hinreichende Argumente dafür, dass \( F \) die Stammfunktion von \( f \) ist.
-![[Pasted image 20250505113003.png]]
+![[Mathe Buch Nummer 6.17.png]]
 ### Aufgabe 6.17
 **Gegeben:**
 In Abb. 6.16 sind die Graphen von vier Funktionen \( f_1 \), \( f_2 \), \( f_3 \) und \( f \) dargestellt. Es soll geprüft werden, ob eine der Funktionen \( f_1 \), \( f_2 \) oder \( f_3 \) eine Stammfunktion von \( f \) sein könnte.
@@ -519,7 +519,7 @@ In Abb. 6.16 sind die Graphen von vier Funktionen \( f_1 \), \( f_2 \), \( f_3 \
 ---
 #### Ergebnis:
 - Vergleiche die Graphen in Abb. 6.16 gemäß den oben genannten Kriterien, um zu prüfen, welche der Funktionen \( f_1 \), \( f_2 \) oder \( f_3 \) eine Stammfunktion von \( f \) sein könnte.
-![[Pasted image 20250505113011.png]]
+![[Mathe Buch Nummer 1.18.png]]
 ### Aufgabe a
 $$\int x^3 \, dx$$
 Rechnung:
@@ -641,7 +641,7 @@ Probe:
 1. Bilde die Ableitung des Ergebnisses:  
    $$\frac{d}{dx}(\ln|x| + C) = x^{-1} = \frac{1}{x}$$
 2. Das entspricht dem ursprünglichen Integranden, daher ist das Ergebnis korrekt.
-![[Pasted image 20250505113021.png]]
+![[Mathe Buch Nummer 6.19.png]]
 ### Aufgabe a
 Bestimmen des unbestimmten Integrals:
 $$ \int \sqrt[3]{x} \, dx $$
@@ -714,7 +714,7 @@ Rechenschritte:
    $$ \frac{2}{5} x^{\frac{5}{2}} + C = \frac{2}{5} x^2 \sqrt{x} + C $$
 Ergebnis:
 $$ \int x \cdot \sqrt{x} \, dx = \frac{2}{5} x^2 \sqrt{x} + C $$
-![[Pasted image 20250505113030.png]]
+![[Mathe Buch Nummer 6.20.png]]
 ### Aufgabe a
 $$
 \int \sin(x) \, dx = -\cos(x) + C
@@ -793,7 +793,7 @@ $$
 $$
 #### Erklärung:
 Die Funktion \(\frac{1}{\sqrt{1+x^2}}\) ist das unbestimmte Integral, das zur natürlichen Logarithmusfunktion führt, angewendet auf \(x + \sqrt{1+x^2}\).
-![[Pasted image 20250505113037.png]]
+![[Mathe Buch Nummer 6.21.png]]
 ### Aufgabe a
 Gesucht ist die Stammfunktion \(F(x)\) von \(f(x) = x^2\), die durch den Punkt \(P = (3|10)\) geht.
 1. Stammfunktion berechnen:
@@ -868,8 +868,8 @@ Gesucht ist die Stammfunktion \(F(x)\) von \(f(x) = \sinh(x)\), die durch den Pu
 3. Endgültige Stammfunktion:
    $$F(x) = \cosh(x) + 2 - \cosh(1)$$
 ---
-![[Pasted image 20250505113110.png]]
-![[Pasted image 20250505113130.png]]
+![[Mathe Buch Nummer 6.22.png]]
+![[Mathe Buch Nummer 6.23.png]]
 ### Aufgabe a
 $$
 \int_{0}^{3} x^2 \, dx = \left[\frac{x^3}{3}\right]_{0}^{3} = \frac{3^3}{3} - \frac{0^3}{3} = \frac{27}{3} - 0 = 9
@@ -937,7 +937,7 @@ Da $$\sqrt{0.5} \approx 0.7071$$
 $$
 2 - 2 \cdot 0.7071 = 2 - 1.4142 = 0.5858
 $$
-![[Pasted image 20250505113144.png]]
+![[Mathe Buch Nummer 6.24.png]]
 ### Aufgabe a)
 Berechne das Integral:
 $$\int_{-2}^{1} e^x \, dx$$
@@ -1035,7 +1035,7 @@ Rechnung:
 4. Ergebnis:
    $$1 - (-1) = 2$$
 ---
-![[Pasted image 20250505113158.png]]
+![[Mathe Buch Nummer 6.25.png]]
 ### Aufgabe a)
 Berechne das Integral:
 $$\int_{-2}^{2} x^3 \, dx$$
@@ -1097,7 +1097,7 @@ Rechnung:
    $$0 - 0 = 0$$
 Das Integral ist **null**.
 ---
-![[Pasted image 20250505113209.png]]
+![[Mathe Buch Nummer 6.26.png]]
 ### Aufgabe a)
 Gegeben ist die Gleichung:
 $$\int_a^5 x \, dx = 12$$
@@ -1141,9 +1141,9 @@ $$\int_1^b \sqrt{x} \, dx = \frac{14}{3}$$
    $$b = 2^2$$
    $$b = 4$$
 --- 
-![[Pasted image 20250505113224.png]]
-![[Pasted image 20250505113236.png]]
-![[Pasted image 20250505113250.png]]
+![[Faktor und Summenregel.png]]
+![[Mathe Buch Nummer 6.27.png]]
+![[Mathe Buch Nummer 6.28.png]]
 ### Aufgabe a
 Berechne das Integral $$\int 2e^x \, dx$$
 1. Die Funktion \( 2e^x \) ist die Ableitung von \( 2e^x \), daher:
@@ -1252,7 +1252,7 @@ Berechne das Integral $$\int \frac{5}{3} \cdot \frac{\cos x}{2\pi} \, dx$$
    $$\frac{5}{6\pi} \sin x + C$$
 3. Zusammengefasst ergibt sich:
    $$\int \frac{5}{3} \cdot \frac{\cos x}{2\pi} \, dx = \frac{5}{6\pi} \sin x + C$$
-![[Pasted image 20250505113259.png]]
+![[Mathe Buch Nummer 6.29.png]]
 ### Aufgabe a
 Die gegebene Aufgabe lautet:
 $$\int (2x^3 - 4x + 5) \, dx$$
@@ -1351,7 +1351,7 @@ $$\int \left( \frac{u + 5}{u^3} \right) \, du$$
 
 3. Summiere die integrierten Terme:
 $$-\frac{1}{u} - \frac{5}{2u^2} + C$$
-![[Pasted image 20250505113315.png]]
+![[Mathe Buch Nummer 6.30.png]]
 ### Aufgabe a)
 $$\int \sqrt{2x} \, dx$$
 1. Setze \( u = 2x \), sodass \( du = 2 \, dx \).
@@ -1508,7 +1508,7 @@ $$\int \frac{x-1}{\sqrt{x}} \, dx$$
    $$\int x^{-\frac{1}{2}} \, dx = 2\sqrt{x}$$
 4. Zusammen ergibt das:
    $$\frac{2}{3}x^{\frac{3}{2}} - 2\sqrt{x} + C$$
-![[Pasted image 20250505113328.png]]
+![[Mathe Buch Nummer 6.31.png]]
 ### Aufgabe a
 Gegeben: $$f(x) = 2x - 1$$
 1. Stammfunktion bestimmen:
@@ -1549,7 +1549,7 @@ Gegeben: $$f(x) = \cos(x)$$
    $$C = 2 - \sin(1)$$
 3. Stammfunktion mit bestimmter Konstante:
    $$F(x) = \sin(x) + 2 - \sin(1)$$
-![[Pasted image 20250505113337.png]]
+![[Mathe Buch Nummer 6.32.png]]
 ### Aufgabe a
 Gegeben: Punkt $$P = (2|3)$$ und der Graph von $$f$$ ist eine lineare Funktion.
 1. Steigung $$m$$ bestimmen:
