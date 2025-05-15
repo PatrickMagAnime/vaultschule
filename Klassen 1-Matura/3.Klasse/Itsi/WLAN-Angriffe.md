@@ -23,6 +23,8 @@ WPA-2
 WPA-3
 Davon gibt es jewiels Personal(Pre-Shared-Key) und Enterprise(RADIUS)
 RADIUS(802.1x)
+
+Enterprise(RADIUS) nutzt eine Nutzerauthentication beim Anmelden
 ### Deauthentication Angriff
 1. WLAN Monitoren
 2. Wichtige Infos Aufzeichnen: SSID, BSSID, Client
@@ -32,4 +34,4 @@ RADIUS(802.1x)
 Das gesamte Netzwerk kopieren, daneben parralel aufbauen und als original ausgeben. Deauthentications senden und der Client verbindet sich mit dem geclonten AP. Dann alle Daten aus-sniffen von Verbundenen Clients.
 
 ##### 4-Way-Handshake-Attack
-
+Betrifft nur WPA-2-Personal
