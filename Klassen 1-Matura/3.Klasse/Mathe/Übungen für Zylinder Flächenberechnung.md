@@ -2,7 +2,7 @@
 ___
 ![[Pasted image 20250526113306.png]]
 
-**Aufgabe 7.32 – Volumen durch Rotation (mit Rechenweg):**
+**Aufgabe 7.32 – Volumen durch Rotation:**
 
 Das Volumen $V$ eines Körpers, der durch Rotation des Funktionsgraphen $y=f(x)$ im Intervall $[a, b]$ um die x-Achse entsteht, berechnet sich mit:
 $$
@@ -30,7 +30,6 @@ $y = 1 - x^2,\;\; -1 \leq x \leq 1$
    $= 2\pi \left( \frac{15}{15} - \frac{10}{15} + \frac{3}{15} \right)$  
    $= 2\pi \cdot \frac{8}{15}$  
    $= \frac{16\pi}{15}$
-
 ---
 ### b) 
 $y = \frac{1}{x},\;\; 1 \leq x \leq 2$
@@ -49,7 +48,6 @@ $y = \frac{1}{x},\;\; 1 \leq x \leq 2$
    $= \pi \left( -\frac{1}{2} + \frac{1}{1} \right)$  
    $= \pi \left( 1 - \frac{1}{2} \right)$  
    $= \frac{\pi}{2}$
-
 ---
 ### c) 
 $y = \frac{1}{3}\sqrt{x}\cdot(x-3),\;\; 0 \leq x \leq 3$
@@ -73,9 +71,7 @@ $y = \frac{1}{3}\sqrt{x}\cdot(x-3),\;\; 0 \leq x \leq 3$
    Für $x = 0$: $0$
    
    $V = \frac{\pi}{9} \cdot 6.75 = \frac{\pi}{9} \cdot \frac{27}{4} = \frac{3\pi}{4}$
-
 ---
-
 **Ergebnisse:**
 - **a)** $V = \frac{16\pi}{15}$
 - **b)** $V = \frac{\pi}{2}$
@@ -92,7 +88,6 @@ $$
 
 Gegeben:  
 $f(x) = \frac{1}{40}x^2 - \frac{1}{20}x + 3,\;\; 0 \leq x \leq 12$
-
 ---
 ### a) Fassungsvermögen (Volumen) berechnen
 
@@ -191,7 +186,6 @@ $y = \frac{1}{x},\;\; 1 \leq y \leq 2$
    $= \pi \left(-\frac{1}{2} + 1\right)$  
    $= \pi \cdot \frac{1}{2}$  
    $= \frac{\pi}{2}$
-
 ---
 ### c) 
 $y = x^2,\;\; 0 \leq y \leq 2$
@@ -256,7 +250,6 @@ $$3600a + 72 = 0 \implies a = -\frac{72}{3600} = -0.02$$
 
 **Das Polynom lautet also:**
 $f(x) = -0.02x^2 + 72$
-
 ---
 ### 2. Volumenintegral aufstellen
 
@@ -274,7 +267,6 @@ Multipliziere aus:
 $$
 \left(-0.02x^2 + 72\right)^2 = 0.0004x^4 - 2.88x^2 + 5184
 $$
-
 ---
 ### 3. Integral berechnen
 
@@ -299,11 +291,10 @@ $= -6220.8 + 207360 - 311040 = -109900.8$
 
 Jetzt das Volumen:
 $V = \pi \left[F(60) - F(-60)\right] = \pi \left(109900.8 - (-109900.8)\right) = \pi \cdot 219801.6$
-
 ---
 ### 4. Ergebnis
 
-$V = 219801.6 \cdot \pi \approx 690\,314.5\,\text{cm}^3 \approx 690\,\text{Liter}$
+$V = 219801.6 \cdot \pi \approx 690\,314.5\,\text{cm}^3 \approx 690L$
 ---
-**Antwort:**  
+**Antwort:**
 Das Fass fasst etwa $690\,\text{Liter}$.
