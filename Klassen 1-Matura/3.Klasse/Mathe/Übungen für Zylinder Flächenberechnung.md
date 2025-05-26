@@ -294,7 +294,8 @@ $V = \pi \left[F(60) - F(-60)\right] = \pi \left(109900.8 - (-109900.8)\right) =
 ---
 ### 4. Ergebnis
 
-$V = 219801.6 \cdot \pi \approx 690\,314.5\,\text{cm}^3 \approx 690L$
+$V = 219801.6* \pi \approx 690\,314.5{cm}^3 \approx 690L$
+
 ---
 **Antwort:**
 Das Fass fasst etwa $690\,\text{Liter}$.
