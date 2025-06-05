@@ -5,7 +5,7 @@ ___
   - Bedeutet: Wireless Local Area Network (drahtloses lokales Netzwerk)
   - Allgemeiner Begriff für jedes kabellose Netzwerk in einem begrenzten Bereich (z.B. Zuhause, Büro)
   - Technische Standards: IEEE 802.11 (z.B. 802.11n, 802.11ac, 802.11ax)
-s
+
 - **WiFi**  
   - Bedeutet: Wireless Fidelity (Markenname, kein technischer Begriff)
   - Zertifiziert Geräte, die nach dem WLAN-Standard 802.11 arbeiten und miteinander kompatibel sind
